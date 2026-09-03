@@ -1,3 +1,3 @@
 # CURRENT_PHASE
 
-Phase 0 - Architecture
+Phase 1 - Meridian Commerce Data Universe Generator
