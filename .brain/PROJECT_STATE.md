@@ -1,4 +1,4 @@
 # PROJECT_STATE
 
-State: INITIALIZED
-Last Updated: {{timestamp}}
+State: PHASE 1
+Phase: Data Universe
