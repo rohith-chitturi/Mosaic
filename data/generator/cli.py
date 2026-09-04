@@ -3,6 +3,8 @@ from data.generator.domains.universe import DataUniverse
 from data.generator.eras.era_2016 import Era2016
 from data.generator.eras.era_2018 import Era2018
 from data.generator.eras.era_2020 import Era2020
+from data.generator.eras.era_2022 import Era2022
+from data.generator.manifests.ground_truth import generate_ground_truth
 import os
 
 def main():
@@ -27,6 +29,12 @@ def main():
     
     era_2020 = Era2020(universe, output_dir)
     era_2020.generate()
+    
+    era_2022 = Era2022(universe, output_dir)
+    era_2022.generate()
+    
+    generate_ground_truth(universe, os.path.join("data", "manifests"))
+    print("Generated ground truth in data/manifests/")
     
 if __name__ == "__main__":
     main()

@@ -1,802 +1,702 @@
 [
   {
-    "schema_version": "v2",
     "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
     "first_name": "Stacey",
     "last_name": "Miller",
-    "email": "wcabrera@example.net",
-    "event_timestamp": "2024-02-17T11:02:08"
+    "customer_transaction_total": 11564.3,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
     "first_name": "Rachel",
     "last_name": "Hayes",
-    "email": "jeffreymorgan@example.net",
-    "event_timestamp": "2017-11-18T11:49:50"
+    "customer_transaction_total": 8306.09,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "3200b5b0-7162-4924-a708-b8a910e983f6",
     "first_name": "Willie",
     "last_name": "Ramirez",
-    "email": "ilewis@example.net",
-    "event_timestamp": "2023-11-19T05:26:22"
+    "customer_transaction_total": 2542.09,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "31fb3809-0ded-4a28-ae6a-932fcccff107",
     "first_name": "Robert",
     "last_name": "Shields",
-    "email": "nuneztracey@example.org",
-    "event_timestamp": "2019-10-19T08:32:10"
+    "customer_transaction_total": 1660.09,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "b861e15e-937c-4ae1-aeac-152b1c4a8dc1",
     "first_name": "Joshua",
     "last_name": "Wright",
-    "email": "ramosmichelle@example.net",
-    "event_timestamp": "2023-07-02T04:16:44"
+    "customer_transaction_total": 7840.48,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "42375316-9a84-4841-a3f8-c166584c8bc6",
     "first_name": "Rachel",
     "last_name": "Martin",
-    "email": "gallowayjoseph@example.com",
-    "event_timestamp": "2026-08-13T03:41:39"
+    "customer_transaction_total": 1290.12,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "28f70b22-694f-4ea6-a824-46cd5acf2e4f",
     "first_name": "Thomas",
     "last_name": "Calhoun",
-    "email": "brianromero@example.org",
-    "event_timestamp": "2023-10-23T04:10:00"
+    "customer_transaction_total": 2740.73,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
     "first_name": "Diane",
     "last_name": "Cunningham",
-    "email": "sarah35@example.org",
-    "event_timestamp": "2025-04-13T15:48:37"
+    "customer_transaction_total": 8361.96,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "cd568a51-3a46-468b-a329-ff19e778f501",
     "first_name": "Joseph",
     "last_name": "Mahoney",
-    "email": "suarezmike@example.org",
-    "event_timestamp": "2021-04-23T12:19:35"
+    "customer_transaction_total": 3091.57,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "dd9e1dca-0f78-4305-a9b4-355ec562efa1",
     "first_name": "Juan",
     "last_name": "Clark",
-    "email": "james48@example.com",
-    "event_timestamp": "2018-07-31T08:39:33"
+    "customer_transaction_total": 4586.12,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "ecc0040a-de88-4b82-abf7-5a95cdee432f",
     "first_name": "Charles",
     "last_name": "Ware",
-    "email": "amydavenport@example.net",
-    "event_timestamp": "2018-06-04T22:30:44"
+    "customer_transaction_total": 5670.73,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "first_name": "Michael",
     "last_name": "Castro",
-    "email": "vdickson@example.org",
-    "event_timestamp": "2018-07-07T21:12:16"
+    "customer_transaction_total": 17291.61,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "9a498078-f9fe-4ee6-a6ca-fecd1b446456",
     "first_name": "Patrick",
     "last_name": "Williams",
-    "email": "dwalker@example.com",
-    "event_timestamp": "2018-08-21T21:49:28"
+    "customer_transaction_total": 4788.45,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
     "first_name": "Natalie",
     "last_name": "Green",
-    "email": "benjamin96@example.com",
-    "event_timestamp": "2024-01-06T04:32:48"
+    "customer_transaction_total": 10511.89,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "142aa2cc-a993-43e5-a52e-750e5fe63b02",
     "first_name": "Chad",
     "last_name": "Beck",
-    "email": "cindy14@example.net",
-    "event_timestamp": "2025-12-30T23:08:08"
+    "customer_transaction_total": 3965.81,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
     "first_name": "Martha",
     "last_name": "Torres",
-    "email": "russellcarpenter@example.net",
-    "event_timestamp": "2020-07-01T01:39:39"
+    "customer_transaction_total": 7802.98,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "96d79886-a59b-48fa-afe3-c3144ebecfcc",
     "first_name": "Lindsay",
     "last_name": "Hernandez",
-    "email": "sanchezthomas@example.org",
-    "event_timestamp": "2025-06-27T16:16:30"
+    "customer_transaction_total": 9325.3,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "b14f5282-cf3f-458c-a10b-8207c636c1c3",
     "first_name": "Steven",
     "last_name": "Grant",
-    "email": "bryantlaurie@example.net",
-    "event_timestamp": "2025-07-18T10:40:46"
+    "customer_transaction_total": 5749.09,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "df849b97-440b-48c3-ad10-8b91f8cc5515",
     "first_name": "Todd",
     "last_name": "Allen",
-    "email": "sjones@example.org",
-    "event_timestamp": "2022-04-22T05:25:32"
+    "customer_transaction_total": 4585.5,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
     "first_name": "Amy",
     "last_name": "Perry",
-    "email": "marissaprice@example.net",
-    "event_timestamp": "2020-05-29T15:20:35"
+    "customer_transaction_total": 7172.24,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "39b96335-a1f2-4d06-a53d-c53a68e0bb99",
     "first_name": "Joshua",
     "last_name": "Tucker",
-    "email": "rrogers@example.com",
-    "event_timestamp": "2019-10-08T10:12:48"
+    "customer_transaction_total": 1113.46,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "39206b9a-0b6f-4705-a0b6-d22c4efa149d",
     "first_name": "Brent",
     "last_name": "Gray",
-    "email": "shawnrogers@example.com",
-    "event_timestamp": "2020-01-25T23:38:10"
+    "customer_transaction_total": 4482.52,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "e0d43681-e1ee-4f6f-a2ba-0d216cb5fffa",
     "first_name": "Mary",
     "last_name": "Howell",
-    "email": "davidcaldwell@example.net",
-    "event_timestamp": "2026-07-10T00:32:22"
+    "customer_transaction_total": 4551.59,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
     "first_name": "Anthony",
     "last_name": "Collins",
-    "email": "tsanders@example.org",
-    "event_timestamp": "2022-12-24T20:21:07"
+    "customer_transaction_total": 8335.37,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "53f5ceef-a1e7-4d05-abf3-f4676e84ccb6",
     "first_name": "Casey",
     "last_name": "Holland",
-    "email": "atkinsonlynn@example.org",
-    "event_timestamp": "2020-11-07T15:42:33"
+    "customer_transaction_total": 1807.63,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "663649ed-5b9b-43aa-a4d3-ed69c07b0025",
     "first_name": "Mariah",
     "last_name": "Miller",
-    "email": "dsanchez@example.net",
-    "event_timestamp": "2026-02-17T18:22:56"
+    "customer_transaction_total": 5218.33,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "45132b4e-f2f7-4240-ab72-3899fb3d0237",
     "first_name": "Alejandro",
     "last_name": "Vaughan",
-    "email": "allenrichard@example.net",
-    "event_timestamp": "2023-12-01T04:32:39"
+    "customer_transaction_total": 3256.92,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "82f1f9e6-f4be-4a71-af9e-807866d981c2",
     "first_name": "Wendy",
     "last_name": "Pierce",
-    "email": "jacqueline44@example.com",
-    "event_timestamp": "2025-08-08T04:20:14"
+    "customer_transaction_total": 5031.32,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "177e363f-807b-41eb-a47a-5e92c213c7f1",
     "first_name": "Candice",
     "last_name": "Hooper",
-    "email": "kennethward@example.com",
-    "event_timestamp": "2016-11-19T09:57:56"
+    "customer_transaction_total": 4176.14,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "d56fdad6-60eb-4419-a3b6-2da18ca52275",
     "first_name": "Audrey",
     "last_name": "Harrison",
-    "email": "dpeterson@example.com",
-    "event_timestamp": "2026-03-03T22:41:57"
+    "customer_transaction_total": 3860.88,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "415b6990-d066-4bd4-a788-01ff6c0be6a6",
     "first_name": "Kathy",
     "last_name": "Obrien",
-    "email": "kimberlyjames@example.com",
-    "event_timestamp": "2019-08-20T05:46:19"
+    "customer_transaction_total": 9926.17,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "81c0df43-5a84-4f43-af93-31fc45954f5d",
     "first_name": "Andrea",
     "last_name": "Moore",
-    "email": "mhayes@example.com",
-    "event_timestamp": "2021-03-12T18:48:07"
+    "customer_transaction_total": 9050.48,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "085c0f4e-0ab0-4289-ab87-aee84926c399",
     "first_name": "Margaret",
     "last_name": "Jones",
-    "email": "lauralarson@example.net",
-    "event_timestamp": "2022-02-28T00:53:40"
+    "customer_transaction_total": 4596.34,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "b82d395d-3ef4-4fee-af49-48a32fde8c4a",
     "first_name": "Cassandra",
     "last_name": "Johnson",
-    "email": "suzannehuff@example.net",
-    "event_timestamp": "2026-08-20T07:29:48"
+    "customer_transaction_total": 1894.85,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "eb5b9d11-9705-42b6-a303-fd00636c9c55",
     "first_name": "Ryan",
     "last_name": "Olsen",
-    "email": "harrisonricky@example.com",
-    "event_timestamp": "2023-07-21T15:46:11"
+    "customer_transaction_total": 2498.21,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "990cf566-7659-4327-a78b-36e8d3ccab83",
     "first_name": "Michelle",
     "last_name": "Bryan",
-    "email": "sandovalamy@example.com",
-    "event_timestamp": "2021-07-29T22:50:11"
+    "customer_transaction_total": 5187.25,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "6daab15a-cc4b-4aa3-acf6-04fb20dc5737",
     "first_name": "Samuel",
     "last_name": "Wolfe",
-    "email": "johnsoncrystal@example.org",
-    "event_timestamp": "2021-08-22T18:22:01"
+    "customer_transaction_total": 8205.39,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "44d556a9-f5a3-436d-a1bb-44e7aaf5f686",
     "first_name": "William",
     "last_name": "Hill",
-    "email": "pbaird@example.com",
-    "event_timestamp": "2025-04-25T04:08:50"
+    "customer_transaction_total": 7188.05,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
     "first_name": "Joseph",
     "last_name": "Smith",
-    "email": "mary97@example.org",
-    "event_timestamp": "2023-08-31T16:02:22"
+    "customer_transaction_total": 8717.64,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
     "first_name": "Bradley",
     "last_name": "Garner",
-    "email": "qhughes@example.net",
-    "event_timestamp": "2016-12-08T13:36:59"
+    "customer_transaction_total": 11477.13,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
     "first_name": "Jennifer",
     "last_name": "Ortiz",
-    "email": "charlesharrington@example.com",
-    "event_timestamp": "2018-03-19T19:09:35"
+    "customer_transaction_total": 10871.55,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "first_name": "Ryan",
     "last_name": "Garcia",
-    "email": "wallaceheather@example.org",
-    "event_timestamp": "2019-07-27T10:36:56"
+    "customer_transaction_total": 12277.51,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "23e58bed-ff84-4dc5-a9aa-2d3f5cb904ef",
     "first_name": "Gregory",
     "last_name": "Lynch",
-    "email": "pharvey@example.com",
-    "event_timestamp": "2017-12-07T03:54:06"
+    "customer_transaction_total": 4490.35,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "5da69a06-7834-421e-a8d4-576db96c82be",
     "first_name": "Scott",
     "last_name": "Reed",
-    "email": "danielle64@example.com",
-    "event_timestamp": "2016-10-24T12:28:22"
+    "customer_transaction_total": 516.32,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "eeb3fcb1-827f-4270-a281-dd15600211ec",
     "first_name": "Ashlee",
     "last_name": "Jennings",
-    "email": "lozanojulie@example.com",
-    "event_timestamp": "2018-03-18T06:28:46"
+    "customer_transaction_total": 7434.77,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "e37ed88f-5c5c-4eef-a1c6-6d00e550d894",
     "first_name": "Renee",
     "last_name": "Murphy",
-    "email": "ithompson@example.net",
-    "event_timestamp": "2023-06-09T15:06:50"
+    "customer_transaction_total": 7078.56,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "22987e62-04f7-472d-aac5-15cb9ee820e4",
     "first_name": "Tammy",
     "last_name": "Ballard",
-    "email": "christopher60@example.com",
-    "event_timestamp": "2017-02-06T16:45:45"
+    "customer_transaction_total": 5664.32,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "first_name": "Christine",
     "last_name": "Hahn",
-    "email": "rose31@example.net",
-    "event_timestamp": "2024-05-24T01:04:36"
+    "customer_transaction_total": 11580.04,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "4fc7b791-b069-4cdb-ae1d-3218776f1a34",
     "first_name": "Nathan",
     "last_name": "Avery",
-    "email": "umatthews@example.org",
-    "event_timestamp": "2017-09-15T10:42:02"
+    "customer_transaction_total": 5471.39,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "56ad85f7-47bf-445c-a9d9-7fd0f7b8dbbe",
     "first_name": "Raymond",
     "last_name": "Lopez",
-    "email": "rushmadison@example.org",
-    "event_timestamp": "2022-04-07T19:10:04"
+    "customer_transaction_total": 315.35,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "00a26b34-5858-49f2-a1f5-23903adf7024",
     "first_name": "Kim",
     "last_name": "Kramer",
-    "email": "ramireztracey@example.org",
-    "event_timestamp": "2019-08-22T22:17:37"
+    "customer_transaction_total": 7590.56,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "a3e48cbb-692d-4f0a-a865-a99a3a45b50e",
     "first_name": "Joseph",
     "last_name": "Martinez",
-    "email": "vfox@example.org",
-    "event_timestamp": "2017-09-17T03:45:28"
+    "customer_transaction_total": 7012.42,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "first_name": "Yolanda",
     "last_name": "Boone",
-    "email": "fparks@example.net",
-    "event_timestamp": "2025-09-13T23:11:12"
+    "customer_transaction_total": 13640.5,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "61db11b5-ea47-406e-ab35-a68d0da84a93",
     "first_name": "Kenneth",
     "last_name": "Wagner",
-    "email": "sgarcia@example.org",
-    "event_timestamp": "2021-01-05T00:44:17"
+    "customer_transaction_total": 4627.37,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "862a5183-91fc-4ee8-ade5-13b76f5be038",
     "first_name": "Nicholas",
     "last_name": "Hernandez",
-    "email": "fjones@example.org",
-    "event_timestamp": "2021-12-28T16:34:26"
+    "customer_transaction_total": 4390.18,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "0418883f-a6f5-4b17-a542-615ea8690180",
     "first_name": "Michael",
     "last_name": "Lane",
-    "email": "ericolson@example.org",
-    "event_timestamp": "2017-03-03T02:37:42"
+    "customer_transaction_total": 5570.18,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
     "first_name": "Henry",
     "last_name": "Park",
-    "email": "sandra50@example.org",
-    "event_timestamp": "2024-05-24T01:22:48"
+    "customer_transaction_total": 4528.73,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "first_name": "Matthew",
     "last_name": "Wood",
-    "email": "kimberly99@example.org",
-    "event_timestamp": "2023-09-21T20:22:22"
+    "customer_transaction_total": 14561.1,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "0ea76e29-a244-490e-acad-c7aeec3b3793",
     "first_name": "Joshua",
     "last_name": "Fischer",
-    "email": "reeddaniel@example.net",
-    "event_timestamp": "2021-08-07T18:18:04"
+    "customer_transaction_total": 1464.45,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "aafa9118-e54b-4206-a16c-efa8171f22e2",
     "first_name": "Mark",
     "last_name": "Smith",
-    "email": "ythompson@example.net",
-    "event_timestamp": "2026-06-07T04:22:31"
+    "customer_transaction_total": 5499.14,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "first_name": "Richard",
     "last_name": "Bowman",
-    "email": "darius05@example.org",
-    "event_timestamp": "2022-06-14T20:42:26"
+    "customer_transaction_total": 10439.08,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "a52000c4-0ca4-458f-a0e0-ff57affcc7ab",
     "first_name": "Jeffrey",
     "last_name": "Maxwell",
-    "email": "dixondaniel@example.net",
-    "event_timestamp": "2017-12-16T10:18:41"
+    "customer_transaction_total": 1780.87,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "5d2d0b2f-a1c5-4e49-a868-a7ad1cf6850b",
     "first_name": "Gregory",
     "last_name": "Mejia",
-    "email": "kmarshall@example.net",
-    "event_timestamp": "2025-04-22T16:22:37"
+    "customer_transaction_total": 3629.35,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "first_name": "Charles",
     "last_name": "Murray",
-    "email": "brownmarie@example.org",
-    "event_timestamp": "2025-03-16T14:07:42"
+    "customer_transaction_total": 7647.52,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "86b84f32-e8e7-4fc5-af6b-f25eff6d9cf8",
     "first_name": "Edward",
     "last_name": "Brown",
-    "email": "shepherdmary@example.net",
-    "event_timestamp": "2023-01-08T00:32:03"
+    "customer_transaction_total": 5659.48,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "37a3a29c-adf9-4891-a8b2-b52872d0575f",
     "first_name": "Samantha",
     "last_name": "Hughes",
-    "email": "erika05@example.org",
-    "event_timestamp": "2018-02-12T15:01:54"
+    "customer_transaction_total": 9853.13,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "15fd5efc-afec-4bdb-a591-18a670adf72d",
     "first_name": "Kyle",
     "last_name": "Bennett",
-    "email": "lisa81@example.net",
-    "event_timestamp": "2021-09-16T04:31:53"
+    "customer_transaction_total": 7252.03,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "c4b8a5fd-1adb-4e83-aee2-2a999e787a42",
     "first_name": "Megan",
     "last_name": "Garcia",
-    "email": "stanleynancy@example.net",
-    "event_timestamp": "2022-11-15T21:04:57"
+    "customer_transaction_total": 7690.52,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "9b5ba54f-ae92-40e0-a69b-5b8a1433f17d",
     "first_name": "Erica",
     "last_name": "Young",
-    "email": "wbishop@example.net",
-    "event_timestamp": "2019-06-08T04:40:59"
+    "customer_transaction_total": 3112.31,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "446b069f-3548-4090-a4de-7c7c856e9ea3",
     "first_name": "Lisa",
     "last_name": "Solis",
-    "email": "moniquewilliams@example.com",
-    "event_timestamp": "2020-06-14T21:31:27"
+    "customer_transaction_total": 3523.35,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
     "first_name": "Lisa",
     "last_name": "Wilkerson",
-    "email": "perryrandy@example.com",
-    "event_timestamp": "2017-04-30T05:00:11"
+    "customer_transaction_total": 6675.22,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "6298085e-684b-4de0-a6ff-823bd471d3c5",
     "first_name": "Justin",
     "last_name": "Gallegos",
-    "email": "katherineharrison@example.net",
-    "event_timestamp": "2021-07-30T09:38:17"
+    "customer_transaction_total": 4674.31,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "4155aa61-8aa7-4370-a2bc-c2dc2ed53a10",
     "first_name": "John",
     "last_name": "Martinez",
-    "email": "robertbauer@example.com",
-    "event_timestamp": "2023-12-24T09:33:36"
+    "customer_transaction_total": 5197.36,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "first_name": "Aaron",
     "last_name": "Gomez",
-    "email": "qlopez@example.org",
-    "event_timestamp": "2022-10-02T02:30:52"
+    "customer_transaction_total": 12523.44,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "667c46f7-63ea-4a75-a8e6-08a5d51abf27",
     "first_name": "Kristina",
     "last_name": "Cooper",
-    "email": "ingramjill@example.com",
-    "event_timestamp": "2024-06-18T02:56:32"
+    "customer_transaction_total": 7426.18,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "2aeb4bc5-5360-4733-a48e-f9cecf2451b6",
     "first_name": "Benjamin",
     "last_name": "Harris",
-    "email": "ninastewart@example.com",
-    "event_timestamp": "2024-02-27T15:05:47"
+    "customer_transaction_total": 3291.37,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
     "first_name": "Patricia",
     "last_name": "Hughes",
-    "email": "tylerjimenez@example.net",
-    "event_timestamp": "2021-11-21T16:47:31"
+    "customer_transaction_total": 8209.57,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "9fc2c52a-3a0a-4b9e-a54e-b6bfb536528f",
     "first_name": "Sean",
     "last_name": "Robbins",
-    "email": "hannahbell@example.org",
-    "event_timestamp": "2018-10-28T13:36:08"
+    "customer_transaction_total": 2592.16,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "3e09f8da-406a-4c02-ac09-326c7ab4a03a",
     "first_name": "Carlos",
     "last_name": "Osborne",
-    "email": "michael90@example.net",
-    "event_timestamp": "2022-01-09T17:22:18"
+    "customer_transaction_total": 7140.68,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
     "first_name": "Debra",
     "last_name": "Wright",
-    "email": "johnsonjacob@example.net",
-    "event_timestamp": "2019-08-13T01:11:57"
+    "customer_transaction_total": 9403.78,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "a047121a-1c74-4799-a7dc-68a887c10561",
     "first_name": "Rachel",
     "last_name": "Wallace",
-    "email": "cochrantammy@example.com",
-    "event_timestamp": "2025-01-29T22:42:29"
+    "customer_transaction_total": 2906.69,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "8614332f-9208-4636-abbb-51cd8e960563",
     "first_name": "Anthony",
     "last_name": "Spencer",
-    "email": "tanner82@example.net",
-    "event_timestamp": "2022-01-26T03:24:34"
+    "customer_transaction_total": 2770.34,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
     "first_name": "Dawn",
     "last_name": "Cole",
-    "email": "david89@example.org",
-    "event_timestamp": "2020-12-09T09:47:23"
+    "customer_transaction_total": 8037.52,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
     "first_name": "James",
     "last_name": "Huber",
-    "email": "david49@example.net",
-    "event_timestamp": "2017-02-27T12:10:43"
+    "customer_transaction_total": 9917.72,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "54882d68-7a51-4f6c-ae32-fd7128f963a2",
     "first_name": "Christopher",
     "last_name": "Fry",
-    "email": "debra96@example.net",
-    "event_timestamp": "2023-09-30T18:49:25"
+    "customer_transaction_total": 4263.83,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "af5aa080-d279-4a4d-a4c2-9b4f396c4d49",
     "first_name": "Todd",
     "last_name": "Harris",
-    "email": "larryhiggins@example.net",
-    "event_timestamp": "2019-01-27T14:00:47"
+    "customer_transaction_total": 7076.43,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "first_name": "Colin",
     "last_name": "Roberts",
-    "email": "alin@example.org",
-    "event_timestamp": "2025-02-19T18:02:53"
+    "customer_transaction_total": 16603.53,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "b4d8bca3-7dd5-4ae6-af69-a557073f3ffd",
     "first_name": "Andrew",
     "last_name": "Landry",
-    "email": "nlevy@example.net",
-    "event_timestamp": "2022-11-25T01:31:54"
+    "customer_transaction_total": 10344.66,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "first_name": "Kathryn",
     "last_name": "Diaz",
-    "email": "jwilliams@example.org",
-    "event_timestamp": "2023-05-18T19:59:47"
+    "customer_transaction_total": 11117.65,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "d316616a-da43-4c5a-a6a6-49776cdcf905",
     "first_name": "Nathaniel",
     "last_name": "Hatfield",
-    "email": "kari39@example.net",
-    "event_timestamp": "2022-02-04T11:27:28"
+    "customer_transaction_total": 5540.97,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "cb7d85bb-ed92-4611-a157-74a9cc777263",
     "first_name": "Francisco",
     "last_name": "Ewing",
-    "email": "brittney88@example.net",
-    "event_timestamp": "2026-07-08T17:09:43"
+    "customer_transaction_total": 3220.42,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "c0cc12de-3c6f-4e9f-a1dd-d117f8c3c735",
     "first_name": "Becky",
     "last_name": "Griffith",
-    "email": "ojackson@example.net",
-    "event_timestamp": "2020-02-23T03:20:52"
+    "customer_transaction_total": 7482.12,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "938a8043-48f2-4357-a5b5-04e27025a799",
     "first_name": "Robert",
     "last_name": "Hampton",
-    "email": "vsalas@example.net",
-    "event_timestamp": "2024-06-30T10:48:37"
+    "customer_transaction_total": 3822.39,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "7702b3f3-54fd-49c0-a3d4-3a43ba89153c",
     "first_name": "Rhonda",
     "last_name": "Peterson",
-    "email": "erica49@example.com",
-    "event_timestamp": "2024-11-02T14:17:20"
+    "customer_transaction_total": 6022.6,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "0b2b171f-f825-4772-a28b-8a3453dbc3ad",
     "first_name": "Michael",
     "last_name": "Peck",
-    "email": "keith98@example.com",
-    "event_timestamp": "2019-01-05T04:26:38"
+    "customer_transaction_total": 928.96,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "70d40298-19d3-4d3a-a4b4-adf07f77c8e9",
     "first_name": "Daniel",
     "last_name": "Yang",
-    "email": "johnsantiago@example.net",
-    "event_timestamp": "2023-08-07T15:15:15"
+    "customer_transaction_total": 7812.91,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "2091d4dd-6fec-42a9-a3dd-10382d3c2046",
     "first_name": "Denise",
     "last_name": "Gilmore",
-    "email": "mwoods@example.com",
-    "event_timestamp": "2017-04-25T00:10:43"
+    "customer_transaction_total": 3913.02,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "8cab6725-7e90-4b81-a9d8-324cf10d2ebd",
     "first_name": "Albert",
     "last_name": "Bradley",
-    "email": "hebertmatthew@example.com",
-    "event_timestamp": "2016-11-30T17:12:13"
+    "customer_transaction_total": 3691.77,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "0b69d5a5-9303-4b27-a151-afda6683b57c",
     "first_name": "Jill",
     "last_name": "Gibbs",
-    "email": "gregorychase@example.com",
-    "event_timestamp": "2021-03-21T05:53:45"
+    "customer_transaction_total": 6114.06,
+    "is_active": true
   },
   {
-    "schema_version": "v2",
     "customer_id": "415f845e-f985-411f-a3c5-57a298f30f99",
     "first_name": "Stephanie",
     "last_name": "Turner",
-    "email": "greenmichael@example.org",
-    "event_timestamp": "2020-06-07T12:14:33"
+    "customer_transaction_total": 2232.68,
+    "is_active": true
   }
 ]

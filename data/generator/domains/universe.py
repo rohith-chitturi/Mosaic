@@ -25,6 +25,10 @@ class DataUniverse:
         self.returns: List[CanonicalReturn] = []
 
     def generate(self):
+        self.generate_canonical_only()
+        print(f"Generated canonical universe: {len(self.customers)} customers, {len(self.orders)} orders.")
+        
+    def generate_canonical_only(self):
         scale_map = {
             "small": {"customers": 100, "products": 50, "orders": 500},
             "medium": {"customers": 1000, "products": 500, "orders": 10000},
@@ -35,7 +39,6 @@ class DataUniverse:
         self._generate_products(config["products"])
         self._generate_customers(config["customers"])
         self._generate_orders(config["orders"])
-        print(f"Generated canonical universe: {len(self.customers)} customers, {len(self.orders)} orders.")
         
     def _generate_products(self, count: int):
         categories = ["Electronics", "Clothing", "Home", "Sports", "Books"]

@@ -1,0 +1,4002 @@
+[
+  {
+    "schema_version": "v1",
+    "payment_id": "721cce18-0829-41c1-a5c0-1f5d6b6e47d1",
+    "order_id": "9fbe964e-a29d-4eef-a987-168fa8a3752c",
+    "amount": 2850.6,
+    "method": "PAYPAL",
+    "event_timestamp": "2020-11-20T03:15:13"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a10cf3c8-1689-4068-a74a-610e6e98084c",
+    "order_id": "2c6f9c23-96d5-4795-a966-67db6a85f511",
+    "amount": 376.7,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-06-28T08:52:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "74dc29a7-236b-4965-a32e-9ae61a63b224",
+    "order_id": "c1d25833-3e3e-448d-aa5f-7b8de0fe6a73",
+    "amount": 506.14,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-12-16T09:13:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "548df4d5-d545-4c0b-ab24-e308620ab9e7",
+    "order_id": "00d8df3a-344b-4d64-a997-1bad963ed233",
+    "amount": 2114.87,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-07-21T01:36:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1e6312c3-02ab-42aa-a92e-893d437ddfe6",
+    "order_id": "4e88b4ad-7d54-45c2-a271-b2512aba8541",
+    "amount": 379.55,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-09-11T03:48:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0e0feb2d-ffd9-438a-a7ab-7d409a7e9a90",
+    "order_id": "d69cc867-bc67-4cbd-a9ae-2b5ffe44ed6e",
+    "amount": 829.74,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-06-17T07:53:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "40a1ff69-47fe-4309-ad60-7a6570a56648",
+    "order_id": "b33fd7f9-4100-430f-a2df-8087e8937f53",
+    "amount": 562.67,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-05-27T05:09:45"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ab0eba00-c668-4772-a137-19e1a6335d79",
+    "order_id": "d4657ef4-4f5a-4d69-a3a4-bd7348ac4f97",
+    "amount": 1117.48,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-01-16T10:31:26"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a2e071de-f31a-4c60-ae0b-e6f1b8492c6d",
+    "order_id": "94f683ad-8325-4aa5-a0a3-3b04d6979d3c",
+    "amount": 192.88,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-06-18T15:02:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "59f6e1ef-9d5b-46d9-a7c9-04ffbb80555f",
+    "order_id": "7fe3131c-cf74-451c-a8c9-4ad3cc03d3e9",
+    "amount": 1259.66,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-06-16T17:07:36"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "dabc1294-a2da-465f-a090-069aba5937c5",
+    "order_id": "d29736c4-b8a8-4618-aade-3a184be70b08",
+    "amount": 2968.87,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-08-29T03:24:16"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9131c49a-4f1c-4d9d-ada3-4668b1788a5c",
+    "order_id": "153ade69-8f4f-4857-a4d8-528b21083246",
+    "amount": 469.98,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-01-03T20:33:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "19b8fb06-02a3-44a8-a58f-4d5e11f5061d",
+    "order_id": "d89d2d32-edf8-4046-afa5-274c51834ee5",
+    "amount": 376.7,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-08-06T15:57:54"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ecd4d848-a290-45ce-a4a8-8d02cbd94e37",
+    "order_id": "804da791-aa90-4ac3-a123-b90c59fcdd1f",
+    "amount": 1074.1,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-07-20T00:38:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3c82297c-42f8-49a6-a1e4-65ec0ac8f698",
+    "order_id": "55f52e68-99ae-4ed8-aba3-723b7ef59f1f",
+    "amount": 1464.92,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-10-22T21:38:00"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "486afaac-96c0-4f72-a488-bbdc81dad73a",
+    "order_id": "0c682c2b-758d-4a3f-af51-c545f1e5321e",
+    "amount": 2771.11,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-04-14T20:07:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f5cb1128-15da-49a3-af21-c9cd64d0e789",
+    "order_id": "304ee850-7b92-4b64-a045-104d7df8ab71",
+    "amount": 1419.92,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2019-04-11T06:06:56"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6190def6-4fd3-4328-a8c8-ff66e7611e17",
+    "order_id": "563ab9cd-17e0-44fe-a047-b25eb7d300e2",
+    "amount": 1466.41,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-30T10:13:16"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "882e0c1e-d4a4-4e4d-a1ca-f80330aef62a",
+    "order_id": "2bdec1e5-b867-46a3-abf5-3e76d1ab57a9",
+    "amount": 2005.36,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-12-02T01:06:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "816b7b42-03be-4be1-a6eb-0465b4b07c8f",
+    "order_id": "b7b88b9f-dc5c-42a3-ad86-ae9a4f508ec7",
+    "amount": 1506.41,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-01-27T08:26:05"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "87c09f14-e6c9-437e-afdd-a0f539541a00",
+    "order_id": "cdfb845c-698d-46cd-afc4-3e71bf4c8f91",
+    "amount": 1598.61,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-06-06T22:25:00"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "df52426c-51f4-48be-aaf0-f23123d38bec",
+    "order_id": "492913fe-5e32-45e6-a381-eed16610afd4",
+    "amount": 612.21,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-08-14T03:48:33"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4875bc43-6b05-4fcc-a606-f76efe585767",
+    "order_id": "c726905b-9607-40dd-a803-8b188e126337",
+    "amount": 755.01,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2018-11-15T22:58:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e9a6571a-3a18-4e67-afb8-bf656ef2a02e",
+    "order_id": "1556d50b-0bcd-428c-aa5f-8f45112cdc53",
+    "amount": 106.89,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-08-06T04:07:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "920a5fb9-05be-4981-a0a1-663ea6035edb",
+    "order_id": "ece74f06-41bb-40c3-ac75-973b7bd1569a",
+    "amount": 1621.34,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2019-03-01T21:46:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "feb7d81e-0753-4daf-a075-7912664ad12e",
+    "order_id": "2b298e27-904d-4b4b-aba2-7a51667a81a0",
+    "amount": 1663.16,
+    "method": "PAYPAL",
+    "event_timestamp": "2019-08-07T11:46:36"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "dc779e0d-9a70-46a1-a59b-ff6319928d1f",
+    "order_id": "128f90cb-2fe5-41e6-a4ec-9756509d3278",
+    "amount": 1697.7,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-27T01:37:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5cdb2f68-ce25-4e07-a8db-36220c7fe2fe",
+    "order_id": "15010a84-bd19-4c5e-a95f-3ca1a46cb548",
+    "amount": 1849.24,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-10-24T22:48:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "36b018c1-920e-4c1f-ae40-18b794ec8082",
+    "order_id": "363db742-423a-45b2-a646-16d50987ab62",
+    "amount": 197.34,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-08-09T19:52:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e3a97b3b-442d-466f-a572-a083c4ee4702",
+    "order_id": "45ec7528-c856-4a4f-aa12-79d60c876dde",
+    "amount": 166.73,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-18T02:11:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "70217afe-ec43-40e1-a143-76cbfe4fa700",
+    "order_id": "a1a31b9d-8eb8-4e64-a265-31074d016fea",
+    "amount": 483.95,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-05-07T11:10:55"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "96d4f818-34e8-42a2-af59-88c7ef11caba",
+    "order_id": "fc5e60fa-c7b8-48d7-a583-3bd4fbc1e860",
+    "amount": 2982.94,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-11-11T21:05:49"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "108f709b-11a6-423b-aabb-f645cb4727c3",
+    "order_id": "3ccc63fd-7cb2-498b-a889-215ba50f809f",
+    "amount": 1509.43,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-06-03T11:01:45"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8d0f851f-2830-49d7-a909-91c3f15a7ce4",
+    "order_id": "ad5d02ec-aaec-413a-aba7-6ec774af9764",
+    "amount": 2211.56,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-01-02T06:18:01"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d0fb4a15-9d40-4cbe-aee9-36639ffd59d0",
+    "order_id": "b1643d06-e212-4887-a9e6-a701ca8026ad",
+    "amount": 966.46,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-06-22T22:53:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2653a91c-9cb4-4f34-a790-092f6f45e033",
+    "order_id": "71d5d62c-2899-43b7-a189-71dd1b140537",
+    "amount": 775.44,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2019-02-23T09:41:47"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3ea2670f-2191-4ee2-a89f-4e0787f5a7e3",
+    "order_id": "6261669c-9851-41f4-acc9-efaee2b3a770",
+    "amount": 1701.0,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-12-25T00:26:26"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d579fca6-5304-4fdb-ab50-011cf80906db",
+    "order_id": "ab461d21-872b-48c2-a9cb-ee6053ca7227",
+    "amount": 507.34,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-04-22T16:39:26"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c3643403-513b-4d67-a965-1811db86f2da",
+    "order_id": "9ad99a9f-4f38-41a7-a75b-c9cb7f88cfca",
+    "amount": 1116.56,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-05-15T10:10:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8305ca50-f829-4af2-ab28-771cd405b00a",
+    "order_id": "c98583d1-5ac6-4dd6-a711-5a025f9a7e89",
+    "amount": 144.34,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-09-05T01:04:54"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f12b27bc-c4e2-4140-a5bb-4b7de7986657",
+    "order_id": "1a6b8806-277a-4cac-aa2a-e152f655d160",
+    "amount": 2928.28,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-05-01T09:42:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d1c6b471-9c1d-4494-a13f-ef6a76e0cea6",
+    "order_id": "c63ee75b-c210-400a-a92c-bf126e17f122",
+    "amount": 277.73,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-12-01T15:45:45"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "176c0d28-fbee-4642-a74c-c5472aa6f190",
+    "order_id": "bea96d6e-ff08-4d7d-a31a-00e9745231a4",
+    "amount": 1893.21,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-22T06:57:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8bef2a39-c406-40b2-a3ba-656fc00de1fa",
+    "order_id": "69ad5711-91b2-41d7-a921-17333912efcc",
+    "amount": 371.34,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-12T23:40:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ec9f49fa-05e3-4b1b-a949-9c962ce11cc4",
+    "order_id": "9ae59abb-d051-40ed-ad6f-e2a2d9afb0ae",
+    "amount": 683.94,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-04-29T12:57:56"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "13655a91-f3c9-4202-ad56-e9ad3fb71480",
+    "order_id": "4ae37cb7-f6f0-4596-a2e3-36151fae4501",
+    "amount": 563.02,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-08-26T05:53:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "23453848-836c-4d5c-a452-263d3d3d73ec",
+    "order_id": "6ba597a2-ec67-4db8-a428-7c40c6b6fafd",
+    "amount": 1048.79,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-12-15T00:27:05"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5e0f31cf-5a6d-4471-a882-f6cb5b44cac2",
+    "order_id": "9f7fa6ae-ea05-4348-ac22-50bb501bdd8a",
+    "amount": 976.16,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-08-24T22:23:09"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6fb23ae6-c2af-4d5e-a1b0-6db26b460074",
+    "order_id": "48af93cf-ea68-4f30-ad10-2e4f67717d18",
+    "amount": 1261.11,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-05-23T14:50:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7d329e11-1770-430e-acf4-833f6031a29a",
+    "order_id": "31e73b39-af78-4543-a6ae-70732633dccb",
+    "amount": 2214.47,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-07-11T23:53:47"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "741e73a4-55cb-4873-aa35-d61059edc2c3",
+    "order_id": "43ecf9d6-c940-46dc-ad55-3ec32d122fb1",
+    "amount": 227.98,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-01-23T17:00:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "56af0b79-ce3e-473f-ae89-524ca001822e",
+    "order_id": "9a358d4f-b8fa-4165-ae30-f3f3cfcde9ea",
+    "amount": 1852.13,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-12-20T13:08:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "376d3e5f-d947-4a84-a9e6-1bf96259744a",
+    "order_id": "527687d6-992a-495b-abc7-c80b60251ffe",
+    "amount": 135.31,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-03-12T08:10:13"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5910dfa8-5c9e-42a3-a228-81f5a4d48c8f",
+    "order_id": "50c12c5c-1bdb-40ba-af86-7b3e37071443",
+    "amount": 638.8,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-04-06T05:17:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ac4095de-f441-4edd-af59-7bbb8059ea40",
+    "order_id": "9afd692e-87bd-4aa5-a2f6-0dd71e7405db",
+    "amount": 496.21,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-02-15T01:35:45"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f76f7102-9ae5-453a-a314-620a6adc8d58",
+    "order_id": "266015f4-012e-459a-a9c9-006cef08f356",
+    "amount": 1690.16,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-01-22T22:04:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "69a7cad8-e240-45d5-af33-eb9163b553ec",
+    "order_id": "2f46fdf6-6cd9-4ff7-ac0f-e71dbeb2b28c",
+    "amount": 2486.61,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-09-05T09:59:27"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b278d6ef-1546-4d77-a5ab-f1560bed90c5",
+    "order_id": "0060b6c0-41fd-4389-a01a-c284250b001c",
+    "amount": 978.47,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2017-12-25T22:06:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d6a87ba5-8575-42f9-aa8e-2e7db2cdcee2",
+    "order_id": "e51ec369-79e6-46f3-a60f-95ba053bb68a",
+    "amount": 430.79,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-01-06T01:27:37"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "19946b27-ce71-46d3-af6e-a237250c73fc",
+    "order_id": "d93f069f-adf7-4c32-abda-ed6ff84e6083",
+    "amount": 374.62,
+    "method": "PAYPAL",
+    "event_timestamp": "2018-02-27T13:06:22"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "bb289470-fa80-45df-a524-66bcca81cc97",
+    "order_id": "f3cd9f00-e8cd-42d4-a1e0-f7562e3174c4",
+    "amount": 336.24,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-11-18T19:02:47"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3fd4dfaf-e191-4d37-a275-c7556b9e8cb8",
+    "order_id": "30c70616-866e-44ab-a1a0-142b765ccda1",
+    "amount": 883.8,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-07-15T00:14:13"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "864fec55-b6ba-48ba-a8a7-90038fccbe97",
+    "order_id": "6bbc8d69-385a-490d-a1fe-192b3724f749",
+    "amount": 2620.57,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-02-16T05:37:10"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7cf3494e-b429-497d-a534-856b43667168",
+    "order_id": "cb7ddbd6-2ce5-4c24-a249-25661885736c",
+    "amount": 1941.68,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-10-07T12:27:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a81536fe-efde-4b5c-a443-d075f8032d60",
+    "order_id": "4633dfb6-df00-4bf0-a078-3e96ed1812fe",
+    "amount": 1177.08,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-08-10T16:51:35"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4c3cd658-7e57-4097-a50a-b1ed494c4ffe",
+    "order_id": "dc2a838a-8050-43cc-ac98-a5e5ed98e7ac",
+    "amount": 1008.54,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-05-09T05:40:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9bd9e464-e228-4a22-ae5b-bbd8bd7f6b49",
+    "order_id": "86cf537d-3f56-4434-a899-44192763c506",
+    "amount": 1631.96,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-11-18T05:31:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7cf4c3c5-b579-4660-a917-0b4344ec0dbd",
+    "order_id": "1fa80ade-9dd7-411d-ab76-76fdc169e21c",
+    "amount": 355.05,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-09-21T12:05:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "37ba74b9-8896-45c1-afd2-5ea873fa12b8",
+    "order_id": "d01e223c-7680-4b68-a04d-92158264048e",
+    "amount": 1130.1,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-01-20T00:52:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ceb33e0e-e914-4eb8-af80-a5d0439e3b33",
+    "order_id": "9499d4e7-77d9-4c28-a420-e51c7ed3117f",
+    "amount": 230.41,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-04-11T16:01:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a33477da-a4ca-4915-aee1-18e10902aa16",
+    "order_id": "eb2d8df9-5d83-459b-a03b-95fb8f2dc45c",
+    "amount": 2747.7,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-11-22T21:42:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e5a57b7e-5a86-4043-ad89-ec8d327854da",
+    "order_id": "c7eb85eb-c022-494b-af3b-00a7c1496f4e",
+    "amount": 2574.03,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-06-04T23:14:30"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2530e983-f7d9-4863-a459-5f56c85a8e3f",
+    "order_id": "3d875fbe-2be1-4b23-a218-6f64733b57e5",
+    "amount": 1950.73,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-08-11T19:54:29"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "696c878b-cd77-4d58-a022-8eecf7746ecf",
+    "order_id": "b59b8999-6343-418a-aeaf-43316dad8911",
+    "amount": 365.75,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-09-26T01:59:09"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2dc21647-6ad8-49a6-a608-3cef336c4e46",
+    "order_id": "362dfad9-bf28-4f15-ad7f-3134e6f65466",
+    "amount": 2059.88,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-09-13T07:19:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "87a12f45-a860-4e5e-a4d1-9f701dc9e162",
+    "order_id": "b43e1718-5eed-41a5-a72a-529371541df3",
+    "amount": 1122.65,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-03-23T19:13:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c7724292-284f-452b-a26d-e6fa00db2fc3",
+    "order_id": "a3e5fd8c-728f-4497-a879-4a4f448497d4",
+    "amount": 1770.91,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-31T05:46:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a4101cf4-1ae5-43ef-ae96-a56353356ad4",
+    "order_id": "545f258f-48bd-4a69-ae93-fbb533d2ed7e",
+    "amount": 224.16,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-02-25T06:05:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e9bec3a8-54ea-4b0e-ad34-2b44a20351a3",
+    "order_id": "8067a612-b081-46ca-a305-94c39cdfd743",
+    "amount": 1338.41,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-02-04T17:59:34"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0819a916-8c52-4a62-a109-6f4ad11bfe4a",
+    "order_id": "988bafba-f62d-4c1f-aa97-97949f5ef7d8",
+    "amount": 472.68,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-09-11T09:21:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "32666869-b833-4780-aaab-7c3ead9baf36",
+    "order_id": "70169dd4-23c3-4da8-a651-357ce98bf1c7",
+    "amount": 1486.73,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-12-16T16:18:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "998b7c47-aa91-4cf0-a433-d4a1a7bd18b1",
+    "order_id": "5796fe35-7068-4583-a2b9-91cc1438c7de",
+    "amount": 178.35,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-30T11:02:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "bec575fe-0037-45be-aa16-95a76123325e",
+    "order_id": "c8c71247-07af-4ae5-a108-04baf5d82b3e",
+    "amount": 623.46,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-08-20T21:28:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8da49f7c-a339-47d6-a0d0-fa14d0a5b51e",
+    "order_id": "ae08ac9b-4e41-4158-a497-e03b443934c5",
+    "amount": 336.18,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-02-15T00:54:36"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d109d56a-19c9-4f1a-a245-bb789291a26f",
+    "order_id": "13d701c0-a72c-4f65-a703-76b86d895901",
+    "amount": 145.11,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-07-26T10:37:44"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "17afc933-5cb5-495d-ac5b-cdfadb988fd1",
+    "order_id": "64f0daec-13e3-4f82-ae53-f01c3f26a521",
+    "amount": 803.7,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-08-05T22:20:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "feb6d9f0-9c51-40e1-a500-87c90d460103",
+    "order_id": "614a3a24-31a6-4ea6-a52e-5121dcc56901",
+    "amount": 472.68,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-05-02T21:29:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "59bc5e78-010e-4698-acbf-4fe6f1462fe3",
+    "order_id": "ec79ddb3-fd48-45db-a80e-7a1d99a97d61",
+    "amount": 1390.26,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-10-22T14:11:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8fd2ffea-e977-4151-a074-023fe05c450a",
+    "order_id": "c416d3b4-d2a6-4fba-a94c-3b4937ae8b72",
+    "amount": 41.65,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2019-05-03T10:28:06"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "95af9806-2993-4be8-ab9d-aedbde5052d3",
+    "order_id": "0d7c6eb1-f3dd-43fa-ad1f-5958be19fb6b",
+    "amount": 967.96,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-06-23T15:23:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "390193e9-c997-4062-a38f-b276ba32020a",
+    "order_id": "3747a589-004f-4b6f-a392-f575ec7346cd",
+    "amount": 2092.15,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-05-29T19:07:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4452d20c-d8ec-42dd-a403-cc72ae956759",
+    "order_id": "eb7a4b16-722d-489d-afac-e450c8fc6330",
+    "amount": 2788.61,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-09-02T14:00:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "df7c8786-fcf0-49a2-a46f-5f4480b9a616",
+    "order_id": "1a5d6660-9ff2-48dd-a816-0de5631f66c3",
+    "amount": 1033.47,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-03-25T17:26:37"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5a0e9fe7-ba1c-412b-a481-7545e306e626",
+    "order_id": "7889d0f2-75e1-4359-a2e1-5ff22719e7a8",
+    "amount": 2869.85,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2018-09-16T13:12:22"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a21e9cbe-861b-40b2-a8b2-f38fce661805",
+    "order_id": "07462634-bbf6-40fc-a15f-c68bb743c4e6",
+    "amount": 1192.17,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-08-30T13:12:30"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3dab488c-4c99-40b2-a07a-9c53f2abee72",
+    "order_id": "d3b53edc-93c2-4ee4-ab55-6ab3c3abd2ad",
+    "amount": 21.39,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-10-30T05:40:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f5528f26-88f4-403f-af9c-46cd9b92b644",
+    "order_id": "a985d580-a41d-4b8b-a9c8-851be9c11172",
+    "amount": 42.78,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-04-18T22:49:16"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "966a557e-cd39-4540-a317-1fa58f2d7293",
+    "order_id": "67e0d5c3-d90e-43ed-a1b4-b62337cc46d5",
+    "amount": 1898.75,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-01-29T02:20:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5eb9df44-7953-439f-a1df-f4b8d0708899",
+    "order_id": "a837ebe3-f9eb-4089-afdd-ab585a1553bd",
+    "amount": 1413.3,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-03-30T14:04:10"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "645fce9e-1b18-4b4e-a8c0-31963097a7a0",
+    "order_id": "d4ce9857-d298-4b9f-a007-d0099f288a02",
+    "amount": 1555.1,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-09-04T18:13:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ac5d8084-1596-428f-a715-144851e0a667",
+    "order_id": "1e547b27-788d-4c02-a956-10591e06ad9c",
+    "amount": 2272.35,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-12-26T04:47:42"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3d42146f-b210-437e-afbc-08bcde0e0f69",
+    "order_id": "30c83bf3-6419-4f4a-a8eb-2c69235c15c1",
+    "amount": 1416.45,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-02-02T06:31:09"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0b21706b-6def-44ab-a0c0-4f587817cd31",
+    "order_id": "bdd8cbfd-479c-4dec-af2b-4553fca7f7b6",
+    "amount": 2662.66,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-07-28T13:13:11"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0b5c4b9e-c85f-42f9-a1db-f25bdb8b7080",
+    "order_id": "e26b7c60-96bf-4f41-ab4d-0a35c0e60c7e",
+    "amount": 961.35,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-12-12T04:05:39"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7a0393b1-0561-43fe-ac44-4b412e70a701",
+    "order_id": "0c5c6109-2a29-44ef-ab86-2ff17ba47a0f",
+    "amount": 1935.94,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-07-07T15:30:42"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ddabf442-ba61-4a9d-a51d-aaaeecc8b6b2",
+    "order_id": "83f64056-633d-4cf9-aac7-24c367fbd379",
+    "amount": 1998.18,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-11-09T12:31:59"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "66190f06-9844-46d8-ad0b-3fe3c37ed135",
+    "order_id": "84c6e9ca-f052-4194-ab12-137f96905250",
+    "amount": 692.88,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-06-14T14:50:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f9f8010e-5568-4fb0-a0ac-78ef10eb8373",
+    "order_id": "86d1ee2d-84b7-401e-a63d-3bce89bb49ad",
+    "amount": 2073.87,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-10-26T04:11:49"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "245d085e-8d00-4fda-a8a1-ced8dddadb2a",
+    "order_id": "df2959e4-078c-48f0-a9d2-9d609b565af1",
+    "amount": 2035.72,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-08-17T10:25:01"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f7d45f16-e62c-4517-a9bd-1ec3f5a2af97",
+    "order_id": "767ad0f2-b242-4bad-a878-ab65c78e0907",
+    "amount": 1664.31,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-07-18T00:00:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "75bee806-a0e4-441a-a8b8-b91f765c8c4f",
+    "order_id": "e6cdcd65-4c32-4198-a543-0b663df157c0",
+    "amount": 416.98,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-03-08T17:16:42"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c7f3d7d5-33dd-45ad-ab21-e9c06a4a4d3f",
+    "order_id": "96c09339-a4d7-44b4-ab34-2e30e779adc4",
+    "amount": 230.41,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2018-10-21T15:25:43"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "903a3c41-f0f9-4335-af31-b64ab782e0fc",
+    "order_id": "7899b9d2-0c34-403d-a843-94690a8eaf36",
+    "amount": 2069.1,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-08-21T05:39:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "aca3bbba-1d4d-447b-a32a-74898341cc27",
+    "order_id": "036f3f73-f05b-48be-a951-fc861c5f88d4",
+    "amount": 2301.32,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-07-24T08:49:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "eeb35ede-8190-4b53-ab06-1beb3371c9fa",
+    "order_id": "d886a4eb-e950-4fe9-a699-b3d41e63d3f8",
+    "amount": 710.1,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-07-23T06:08:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "cf6d2db8-0baa-4447-a6ea-b8847e6971f7",
+    "order_id": "150011ff-a89c-4d77-aa3f-b65ba2e8baef",
+    "amount": 1172.4,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-06-28T03:27:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5dedc8d3-c4da-40b4-ac50-86267187f870",
+    "order_id": "57c3c948-70d7-44b3-ad07-4735dcab9ec1",
+    "amount": 433.02,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-02-24T06:54:30"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "78ca895c-15aa-44fb-acca-dd1382bc2fba",
+    "order_id": "430fff84-7506-424b-ac75-ad556a8965bf",
+    "amount": 516.32,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2017-01-29T18:30:35"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b7a64e1c-3bee-4e97-a24d-55fdfc4952c9",
+    "order_id": "9c7a186f-821f-43ec-ad5f-3e34a3cb9107",
+    "amount": 557.26,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-10-29T02:46:31"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4185723d-fe9f-4849-ae7d-ab607962e338",
+    "order_id": "8a728f7d-db26-4b4d-a9c8-b6eb76978002",
+    "amount": 1213.88,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-05-25T01:53:35"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c8dee7ab-1326-4206-a74f-0f9d2cfb2b79",
+    "order_id": "da15707e-28a4-423a-a453-4bb5ef8255cc",
+    "amount": 1627.58,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-04-08T09:14:19"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "132d4766-1781-48bf-aa2e-42b95dc9bdfb",
+    "order_id": "daab9694-2ed4-4967-a27a-86a4eda5b7fb",
+    "amount": 3034.91,
+    "method": "PAYPAL",
+    "event_timestamp": "2018-08-27T12:30:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "335ca3b2-8468-4d24-ac6b-64e8a7212bcb",
+    "order_id": "0040e573-1463-4141-afa7-54c8df89e309",
+    "amount": 1800.67,
+    "method": "PAYPAL",
+    "event_timestamp": "2017-09-03T08:25:09"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7dde88cd-3b96-419f-a510-951cdb98fb20",
+    "order_id": "4319ddde-d18f-477b-ad74-fb5717768b8e",
+    "amount": 1111.62,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-08-25T15:50:37"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ace3f380-62b6-457b-a9ad-8e5d2434ca6c",
+    "order_id": "0e01aaf0-04b9-49c6-ac12-115619ea3560",
+    "amount": 1426.16,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-02-14T10:18:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "00aba447-b2c5-4ae5-aa61-ffeac8b0f15c",
+    "order_id": "ab60e3e0-24cd-4685-a379-fb2e95b33f85",
+    "amount": 1630.73,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-08-06T06:45:19"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "268abd4c-f948-4e9b-a5e8-d521d64e491b",
+    "order_id": "2d83c859-60ee-4ed7-a59b-e88045e17bd8",
+    "amount": 299.39,
+    "method": "PAYPAL",
+    "event_timestamp": "2017-08-21T07:25:30"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "80dae413-f23b-4e92-ade2-a6217eb49639",
+    "order_id": "c45372b8-ceb3-4986-a56b-cd9f46ddab52",
+    "amount": 1431.39,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-02-07T22:57:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f6bd0fee-3e06-4171-ac3a-2bc30be9762b",
+    "order_id": "97ae8d27-1e1d-4514-a1a5-3b5e23ba3067",
+    "amount": 1608.19,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-08-03T18:16:33"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "767990d5-3c4b-4287-a4fc-3a15b8b663a7",
+    "order_id": "608fe6b8-1cd2-408a-a2e6-180306a70f2d",
+    "amount": 2865.53,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-03-15T08:58:56"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9e840a47-6286-4dcf-abd9-9b699b0c1fb9",
+    "order_id": "54087bd9-be06-4185-a4bb-5e3db33ed839",
+    "amount": 289.32,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-05-22T08:46:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "611aef75-ba80-49e4-abe8-88901cd3ead6",
+    "order_id": "2941b5a3-d988-4162-af93-05f9f676a6c1",
+    "amount": 472.68,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-06-18T02:28:55"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7a21a818-e324-4c2e-a108-70c6d783f1a4",
+    "order_id": "895a7e0b-04d7-4372-aa25-d50f2e7d5a6c",
+    "amount": 1513.78,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-11-27T08:34:32"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "248fe17b-c93b-416d-a787-e398631e62d3",
+    "order_id": "eb47930a-3cf5-4219-acde-fa55fb5af734",
+    "amount": 230.41,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-10-08T19:10:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "028501af-2277-4c36-a184-e6c42350f653",
+    "order_id": "56c435d2-36a3-4072-a24b-e125f774422c",
+    "amount": 1565.63,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-12-13T23:18:55"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "945e9f9d-8173-423c-a0c7-8fafa109d6b7",
+    "order_id": "32b214cc-1c65-4d47-a16b-1cc06e7668e8",
+    "amount": 2132.6,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-11-10T00:01:33"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "984332dd-7112-4770-ad48-2c5b9ffdb4c8",
+    "order_id": "d25d3e8c-6194-4a4f-a0fa-9b2dbb12cb81",
+    "amount": 2391.32,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-01-03T23:16:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9b556b61-9453-4e80-ae72-c037628164ab",
+    "order_id": "3f383d61-4d40-47c1-ab98-f7d884ef7505",
+    "amount": 1915.77,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-06-23T20:53:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "210863d0-5d13-4351-a66f-4cb86a889079",
+    "order_id": "7c69ef69-952a-4608-a8ce-2caf1dffedf8",
+    "amount": 2994.27,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-10-23T07:03:55"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a0202c49-1980-4abb-a5c0-b8094cd6b5e0",
+    "order_id": "facb5250-d554-4357-a87c-7490b52e9fbd",
+    "amount": 712.84,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-11-27T23:22:43"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c5918f76-a485-4af1-acbe-07dbb948ec04",
+    "order_id": "33f632e2-79ac-4162-abd1-78617acbe24e",
+    "amount": 1427.52,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-08-13T23:28:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f8966ca2-a99c-4692-a2e5-0abeb67b8fe0",
+    "order_id": "273ee826-99f7-493a-a094-49bfc0dba8ff",
+    "amount": 2462.05,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-07-04T05:18:05"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "200ffb3e-1b14-4d3e-a38e-b6f36adc8385",
+    "order_id": "8bd64e98-54a2-42a1-a794-f63166c6e3d3",
+    "amount": 983.65,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-02-27T15:58:33"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "16ccf499-c69e-4942-a2e4-f32cc3443a92",
+    "order_id": "4110abd1-da34-4c7a-ac90-1e63b60e5047",
+    "amount": 802.93,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2019-04-28T14:49:32"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "daca73f9-33b3-44e6-a5fb-ff5c3a5fcd64",
+    "order_id": "06c7172e-f131-4fe9-a3a3-24a4e67532d7",
+    "amount": 1435.5,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-07-17T14:17:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "04433f9d-36ee-4d6b-a606-68e8e25cdbc3",
+    "order_id": "b8fcc525-a8ee-4f26-ae10-1dfb5563d51d",
+    "amount": 1065.15,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-08-27T08:13:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2ee243c6-75c3-4f35-a46a-9c1c6c00152e",
+    "order_id": "0e3aaa9a-c1b5-4fea-ad81-f09eb4e986d4",
+    "amount": 500.54,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-12-13T22:09:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4a6650b0-775d-409a-ac7b-380cd72b7d84",
+    "order_id": "60b5413d-c84e-49fc-a434-c253deb1544f",
+    "amount": 1492.88,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-03-12T07:11:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f18b3489-0bb0-4d37-ab30-64a869f245ca",
+    "order_id": "5af12f5a-8624-4c10-a6a2-59f15ddbd870",
+    "amount": 1715.62,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-03-13T13:34:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c2dd1ec8-4b15-4e36-a6c4-205e2b46a85b",
+    "order_id": "d3d2783e-15f2-4353-a3b3-db6d981e551d",
+    "amount": 561.83,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-08-12T22:01:44"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c452cb1e-00ec-4741-a45b-2a04b6deeedc",
+    "order_id": "040e6e15-35f4-49ed-ad58-5fe6c501872d",
+    "amount": 949.03,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-07-06T02:11:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c2c76775-17a4-4df7-a6e9-91efe6a1f547",
+    "order_id": "dfad168a-49f9-4e61-ace4-3398e19dd3e7",
+    "amount": 1413.82,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-09-29T16:42:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c18cc62f-8177-40a1-aa3a-e21110e9ad76",
+    "order_id": "1102107e-c6f6-4b2f-a89e-bab43bad3884",
+    "amount": 2012.77,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-02-20T03:04:54"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "02da6ba6-d326-45bf-a2b6-1524e642efd7",
+    "order_id": "76584173-3d8f-4d7a-a58f-ae84277b110b",
+    "amount": 1010.99,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-19T04:44:41"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "768646f9-2daf-4469-a651-353e832b1789",
+    "order_id": "e713872e-c40a-48b2-a499-14ae3b149064",
+    "amount": 2347.37,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-11-15T03:12:39"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5d038fd7-37ad-449c-aeab-9b563a1b050e",
+    "order_id": "2d2c311e-e977-44b1-a28c-dee18dd6ccc1",
+    "amount": 684.78,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-03-17T13:34:19"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "43c5d7fc-e33a-464a-afa7-294514b87565",
+    "order_id": "0373559b-cf71-4c1c-a7a9-97d2979aa397",
+    "amount": 1865.6,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-08-04T21:49:32"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "85b6edf9-0aa9-463a-ab34-a78eda662eac",
+    "order_id": "dee2ddc7-e3c1-4ed9-a939-df0476bc5cdf",
+    "amount": 136.76,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-03-05T03:37:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4de37ddd-59f7-421c-a90b-fa4b67c6fccb",
+    "order_id": "b6cebf77-a761-4878-ae1e-ebc87385cdc5",
+    "amount": 1168.15,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-09-01T12:11:27"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "07c881b0-957e-4b6c-a6fe-b55d60c8c81f",
+    "order_id": "d6f65e04-5916-48c0-ada9-2b076877aabf",
+    "amount": 1342.71,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-03-12T13:55:22"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "23cdd499-2bcb-4918-a33a-818d7ace2eba",
+    "order_id": "1188f778-2f9d-458b-a40b-8a914ddd1c14",
+    "amount": 3788.76,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-12-23T12:58:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e060a98a-3e3a-42ef-a590-ba2223eb76b8",
+    "order_id": "c90194bb-f2fc-4121-a0f2-9d4538c9688c",
+    "amount": 652.86,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-02-13T22:30:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3638c116-1811-4e3f-a5b5-4066e42a96a6",
+    "order_id": "412e29d0-4c24-4942-a897-a89206098450",
+    "amount": 2336.11,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-02-12T21:16:10"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5a6e2384-5528-4eeb-a566-bc45560e9bae",
+    "order_id": "ffd9ccfc-cf2d-4a02-a428-84b31ac738dc",
+    "amount": 1197.78,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-21T07:16:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b0dc910d-014d-47e8-a500-ce1745787ee8",
+    "order_id": "204b5092-0a5c-41c5-a059-81c9cd984aff",
+    "amount": 1980.82,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-11-02T01:54:13"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5bc18f07-6b54-4e86-a3bc-849e31e60df3",
+    "order_id": "ae1b2a66-185c-40a2-a96b-6b7496656c6f",
+    "amount": 1066.54,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-09-01T22:02:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "762df2b0-aee1-485e-a551-90658f26653e",
+    "order_id": "19dc0ebe-a3e3-4da3-a94d-e964cfd091c5",
+    "amount": 1231.89,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-05-03T09:59:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a7858662-d471-4bed-a59d-d82613e6bc6b",
+    "order_id": "b8dfb4df-41c8-4920-a982-b3c0228a4b67",
+    "amount": 1339.5,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-03-02T01:52:41"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b291f033-7c9b-4b1c-a04e-9fd2d0749d9f",
+    "order_id": "9fe8bdbb-78d1-40f6-a972-cfdfa13d3f46",
+    "amount": 376.7,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-06-28T11:26:16"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7dfda288-98c6-4a1b-a862-a2a9028fe9d9",
+    "order_id": "8f78cf87-1aa3-4b2d-a5e6-3ecf83fa2a4e",
+    "amount": 1573.37,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-12-08T20:47:31"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "17342d1c-f93f-4154-ab20-253641867f9f",
+    "order_id": "50049241-de4e-4ff3-a1a6-fbed272db6c3",
+    "amount": 2226.67,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-02-25T19:14:50"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "279a6947-249c-4d8c-a36a-6a8772857b4f",
+    "order_id": "480a6be6-783c-463f-a365-bd646202c898",
+    "amount": 1634.57,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-27T07:08:27"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "12ccf1be-8bed-4516-a139-97f64e14f867",
+    "order_id": "bb1f9665-93cd-47a6-a538-9250a93a5352",
+    "amount": 563.02,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-12-28T18:03:36"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8ed1ba87-78bd-4172-a825-fe6ad23ab794",
+    "order_id": "c555706a-de21-48af-a88f-51894af2332d",
+    "amount": 1070.36,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-08-26T20:14:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3cbbc16c-d0ad-44a1-a0fd-8a1f5a032d50",
+    "order_id": "2a67f55b-458f-4b25-a225-d13b6afa7d5f",
+    "amount": 869.65,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-02-06T00:23:42"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "610583d1-4c83-4966-a024-df05edc0264c",
+    "order_id": "ca0b6ba2-4f40-47df-a990-7879dbf5a97e",
+    "amount": 1923.79,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2019-10-09T00:01:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "cde0c32f-1c56-4889-ad68-f9ba045db655",
+    "order_id": "593a4997-bd0b-4613-a049-cc38afcbd01d",
+    "amount": 242.0,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-10-11T11:49:44"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "484f16b7-4bfe-4367-a64f-3bdcde769513",
+    "order_id": "5323a9d3-a9e9-4434-a5d0-88016b710e06",
+    "amount": 1184.44,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-07-24T05:01:41"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "374c5ff9-7662-4e86-aedc-b7d37396e2f9",
+    "order_id": "0d79eff7-02c9-4c53-af49-1f35f3b26706",
+    "amount": 617.68,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-03-18T05:31:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "84be62af-3438-44fe-a2e2-d68c5fad9395",
+    "order_id": "23dcb51e-d7ae-42fc-a746-b92243a5c2f9",
+    "amount": 995.0,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-10-08T06:22:42"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "18f1c833-e30c-4e87-a963-f85111fd0cd2",
+    "order_id": "f8d95bd2-7571-475e-a7de-c62abba1ad29",
+    "amount": 1639.28,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-01-21T22:36:54"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6091a6f8-4ad3-407a-a42f-29599af709a6",
+    "order_id": "ef1c6965-4d37-4feb-a8a3-791190413ab2",
+    "amount": 270.62,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-06-12T20:57:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "644fcfa3-a9c8-42bb-a6fb-f2efa9628a92",
+    "order_id": "ea5b751a-7e91-411e-aa83-9568d075520f",
+    "amount": 1158.75,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-06-18T19:32:05"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "57d648dd-b430-45f4-af5b-948af4852079",
+    "order_id": "167f39ce-5b67-44c8-a580-af0944f9236a",
+    "amount": 2407.72,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-09-05T14:21:33"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e6a8a138-48bd-454c-a089-2b6bdeb5b701",
+    "order_id": "be982fb3-f917-48f7-ae5c-23013e8e0372",
+    "amount": 1194.38,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-11-02T06:04:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5df61f83-fc34-4922-a9e6-533b80ab7c1d",
+    "order_id": "caf0c4f8-d8a2-45b7-a30d-7605cd64e2bf",
+    "amount": 2194.94,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-10-06T23:14:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "69b287de-10cc-4c61-a237-2d4eb18b4bd3",
+    "order_id": "fa51303c-eceb-46f5-a0e1-018fc23dfe97",
+    "amount": 2295.73,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-05-22T10:58:09"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "583b7670-4d62-4504-ab06-514f39f4a919",
+    "order_id": "986952a4-4123-43dc-a8e5-47bc65ad3932",
+    "amount": 2493.81,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-07-27T06:00:11"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c4232573-718d-403a-a947-8e38d070c656",
+    "order_id": "5ac0e54e-bc85-4805-af92-a3c5ecfcd0d8",
+    "amount": 1497.51,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-14T21:00:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "85a82791-1fb0-4866-a435-7ebd652f4788",
+    "order_id": "9e5cbc2a-5611-455b-a8a1-0ad52cc758bd",
+    "amount": 378.37,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-04-22T19:00:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "221351b3-d8de-40ad-a26c-599526e239eb",
+    "order_id": "bca55ca0-af26-499a-a0b8-115bbe488a86",
+    "amount": 1436.58,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-08-28T10:49:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ac5dfc04-cfd4-47a9-a3a3-1a807fd000ea",
+    "order_id": "8b5f1ce2-3dac-4ade-a1a6-e53a60135ba0",
+    "amount": 26.03,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-06-03T17:19:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "06fc8346-e82b-4509-a494-54b9ddc1352a",
+    "order_id": "fb9fcc0e-695c-48f7-ae77-16c6a0947d90",
+    "amount": 1457.5,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-05-17T12:17:34"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5655715b-130d-4f75-a0d9-4c684cf76a26",
+    "order_id": "2afee4b1-0ec2-4f17-a7c4-f35b3c9c75f0",
+    "amount": 1102.46,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-09-18T17:27:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ab5ca8a7-55d8-4fa6-a0c8-005cd52b7fde",
+    "order_id": "3022a4d5-7cb7-48de-acbb-c1818217f671",
+    "amount": 2346.99,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-05-11T05:51:36"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0d8361aa-c523-4e40-a15e-d5aaf9f3df77",
+    "order_id": "c9eb8c9d-6fa7-4b11-a75e-40677f3c887b",
+    "amount": 3379.79,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-12-10T21:53:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ac170b88-f18c-48e8-ab54-65c31fbbe3a5",
+    "order_id": "645e7d68-3b4c-42b3-a955-7a80cacfab4b",
+    "amount": 288.96,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-06-25T21:41:49"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5a36c066-f04b-42ff-a46e-51e407b7cafa",
+    "order_id": "36e1df30-0ac1-4a30-a88b-7ffa9a663d77",
+    "amount": 676.77,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-05-10T01:10:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8a35cf32-dfbb-468b-ac98-8d88970cc914",
+    "order_id": "0ce53893-657f-497a-a549-26f24cb1c259",
+    "amount": 495.67,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-03-08T22:25:35"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4ca86f67-db48-47b4-a1c9-61ffcf18172c",
+    "order_id": "7ac950e8-6349-4982-adbc-29e0c1931dbd",
+    "amount": 144.34,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-07-24T12:45:10"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3cd066f1-10bc-4d29-a180-718bb7ab84a9",
+    "order_id": "1f9fb950-599b-408e-ac55-ed1df42cbaf5",
+    "amount": 2694.24,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-03-27T11:49:22"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e7adaddd-0280-4d46-abe2-62ab3cec9483",
+    "order_id": "c4127013-123a-45b5-a874-7775e1f137b6",
+    "amount": 672.36,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-04-26T20:43:32"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "77f036f8-84bd-41ce-ad7b-9b3367f8b40d",
+    "order_id": "bed0b714-d749-4941-aa53-ff4cb6c54ae9",
+    "amount": 975.27,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-02-25T11:47:01"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0944e74a-e5df-43bc-a66d-8045dda151db",
+    "order_id": "7bb66c1e-2332-4fec-a9b4-2ee96e4c20a8",
+    "amount": 239.32,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-06-01T13:57:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d9943eb0-49b5-42c0-a040-5bb27d9465ee",
+    "order_id": "c6894c88-eb18-47ab-afd0-44fe32fcdc45",
+    "amount": 2049.77,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-01-17T10:59:43"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0c61869e-cac5-449d-ac44-7cfddd7f5d61",
+    "order_id": "4f872a51-530f-490d-a81f-164c7454e138",
+    "amount": 303.67,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-05-01T14:12:45"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0e49cb13-4139-418d-a86a-3071b15268ca",
+    "order_id": "f907fa86-c25d-428c-a577-6da43dd15465",
+    "amount": 584.72,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-04-26T11:33:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "04ca282d-8717-4fad-a93a-4d9eaf7dc876",
+    "order_id": "8fa4d552-a441-4b5f-a027-2c09add96f9b",
+    "amount": 523.54,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-03-12T07:28:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "70677b27-16bb-4a17-ad4e-48e3ca27d584",
+    "order_id": "00e75ed9-f919-4319-ab00-0554bdb5f1a8",
+    "amount": 1039.18,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-10-17T18:30:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1ec9945b-b7c8-431e-a187-e37310ccbf9c",
+    "order_id": "5ae00ac5-8eb2-4372-a453-4f2f5a2b4a6c",
+    "amount": 1667.43,
+    "method": "PAYPAL",
+    "event_timestamp": "2020-12-09T05:52:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c7a40593-92ca-41bf-ad27-9f0d13db74f9",
+    "order_id": "a6a64184-f0e4-4fd1-a8b0-5f1cfbb4c681",
+    "amount": 2326.83,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-06-28T22:50:11"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "dd16216d-5d4c-495c-a82d-0fb83056db68",
+    "order_id": "514417aa-1a54-429c-a9c3-d9db061fc424",
+    "amount": 1173.13,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-12-29T17:21:30"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1ba076ae-a095-4a88-a31a-bfa0653574d0",
+    "order_id": "d1162991-1d4e-40dc-a286-7bc598e2d003",
+    "amount": 712.84,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-01-19T03:09:29"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "38541181-bc2a-480c-a050-36847a684e2c",
+    "order_id": "9b203b14-d7d4-4285-a52e-21c01d64e179",
+    "amount": 1429.66,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-01-23T15:09:39"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "803a2fb4-791b-4f85-af68-3a0b254d9350",
+    "order_id": "1480e8c8-867c-457a-ae3a-fc1bbba588c1",
+    "amount": 3112.31,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-06-30T22:31:30"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d4204599-fb59-426b-a411-898a29ef20dc",
+    "order_id": "a9cc7d28-c651-4ec3-a97e-234a22a68ee7",
+    "amount": 242.0,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-05-03T14:34:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b5a17711-28f4-4661-a123-ef62773cd406",
+    "order_id": "38acd6b3-f9bf-4c64-a47e-987c243aa04a",
+    "amount": 26.03,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-06-26T14:50:00"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "67c57883-08eb-4ea7-a8b4-2bb485c23217",
+    "order_id": "659f14b2-d056-4388-aaee-9006a0c2a7df",
+    "amount": 707.58,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-05-14T04:10:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0f909316-6cf8-4cbc-a49e-4a637f71ac8a",
+    "order_id": "dbbe7a3f-e418-4a72-a301-c09b6b64e150",
+    "amount": 1618.15,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-07-09T10:25:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d4aaa7c1-6130-448c-ac61-415b74da4d00",
+    "order_id": "43cdbeb0-1e0a-4fc9-acc1-95ad8bff1f55",
+    "amount": 1290.12,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-09-04T09:05:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3cc9b64d-804b-4ff0-a925-ccf8c110bd67",
+    "order_id": "9e6209b0-bee2-403b-a9b1-b2ff92034896",
+    "amount": 762.33,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-05-30T20:50:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5cdaa3ed-df36-4d60-ad7a-37457a6d7e41",
+    "order_id": "a46e81fb-9a8d-409c-a139-87e23997aaa1",
+    "amount": 70.06,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-03-08T14:33:50"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "113ff00f-9f6d-4637-a3c6-100d7c2d79f2",
+    "order_id": "f9619fa9-055e-4331-a2dc-b33cdf8692ab",
+    "amount": 873.98,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-09-12T09:27:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "73293924-a9bc-467e-a743-fa71f845e437",
+    "order_id": "2af71a67-a24d-4ece-a501-21ecfec63eba",
+    "amount": 416.98,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-08-25T07:54:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2a830efb-c3fe-42b3-a014-fb0985c908b6",
+    "order_id": "be8aa1b8-e0bd-4486-a2ff-fc020ce21f6c",
+    "amount": 928.96,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-12-23T19:34:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e56466b4-3c2c-4d45-a63c-f7dd7383415b",
+    "order_id": "e1b47a5c-1c72-4804-a583-b634a2554ed1",
+    "amount": 545.43,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-04-09T05:52:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0af11f29-6e50-4620-adbc-0251a7ea8fae",
+    "order_id": "b97c72f1-625c-470d-a0dd-d1db37c3b3bd",
+    "amount": 783.15,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-01-29T06:03:50"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "222a9bed-d14b-40cf-a1a9-fd4504e2db49",
+    "order_id": "b6146761-18b3-4705-ad57-78290fb602a3",
+    "amount": 270.62,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-01-12T21:33:31"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2d06113b-a75d-451e-a3ae-cf462276ad24",
+    "order_id": "37c083aa-aa17-4878-a9ea-b3f82fad7ab2",
+    "amount": 556.71,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-11-01T04:59:49"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b666d8b2-08d9-4160-ae6f-252609aa44f3",
+    "order_id": "5e26d478-afba-4627-a55e-d72ec4bceedf",
+    "amount": 1264.3,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2021-07-29T06:41:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ca26c5de-5add-433d-a7b8-fdc168ba6f05",
+    "order_id": "e37c30f4-0f0a-4974-a9be-da904087b61c",
+    "amount": 2429.06,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-10-12T06:31:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a192c58d-cb02-4c11-a4c0-e906970e61a9",
+    "order_id": "3df64f96-6aa8-4453-aca9-1fed92943aaf",
+    "amount": 178.35,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-07-18T23:04:44"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "fad303c6-4f6c-4ffe-a914-589e2cef4ebc",
+    "order_id": "09bc6560-b73c-458c-a867-ae44ae4fba1f",
+    "amount": 759.21,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-03-13T14:03:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "699b16a9-0f1f-4e0c-a3a6-4bbf517fe80c",
+    "order_id": "4eec785d-0c34-46a2-a422-e856f5ed5274",
+    "amount": 887.21,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-06-01T08:02:55"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d9f26ea4-08ba-4b8c-a14c-1a35567d0b1c",
+    "order_id": "0864ec3f-58fe-4646-a022-41432fff1eed",
+    "amount": 2400.71,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-03-10T11:30:42"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b724b619-9681-4326-a9e5-bf7098748887",
+    "order_id": "63e4eaec-015b-4a73-a3d6-cc49c5d8b302",
+    "amount": 2418.22,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-09-10T01:17:35"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "506f1ce0-5af0-4996-afc5-b03c7be9cd30",
+    "order_id": "7a7ab3b6-6fc9-427e-af05-c095adac6788",
+    "amount": 3522.74,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-05-11T04:11:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5f631df2-4eb8-431e-a580-fc01e69fd8a7",
+    "order_id": "a86a23f0-f2ce-4986-a9b9-116db490ccf6",
+    "amount": 1031.52,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-08-08T07:47:33"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c38d5722-f1ab-4cf3-aaaa-e6126b3e4aff",
+    "order_id": "bac37177-4f19-4175-a8e3-9e9e3a0b59b8",
+    "amount": 67.17,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-09-18T11:17:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a3e661b6-35d9-4ccd-a4ed-5401eac2700e",
+    "order_id": "12904347-faa0-43bc-a723-178ee70d1be1",
+    "amount": 463.31,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-09-25T03:07:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "29a0b942-8d29-4d47-af2c-65f460f2ba3e",
+    "order_id": "ac65319a-c12d-4605-a0a4-aef7fe59f238",
+    "amount": 1364.9,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-08T03:14:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d20ed53c-6b36-4513-ad1e-b6f4ba204d06",
+    "order_id": "91ed1dff-fd26-4aa1-aed5-5113c737fc75",
+    "amount": 2042.1,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-09-27T21:16:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "bcbd91e0-ad8b-4167-a3bd-b6e1eabd88d7",
+    "order_id": "e8396b23-3e30-4b5a-afd1-1cc94a205e3f",
+    "amount": 115.21,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-02-10T05:07:22"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "055c28e6-b8f1-494d-ac59-cdcb60e8d111",
+    "order_id": "76fcb85e-8dc6-4972-a90a-89a030354840",
+    "amount": 956.05,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2021-06-21T09:48:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c338c4e5-9843-4257-a326-7dcdd40f378c",
+    "order_id": "0fc808f6-7def-418c-ae72-f93ca42b0c61",
+    "amount": 123.94,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-08-23T21:17:10"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3da41afc-9566-449e-a581-493b405813ba",
+    "order_id": "1f39018c-1440-4066-a986-105bc1b40b71",
+    "amount": 1492.3,
+    "method": "PAYPAL",
+    "event_timestamp": "2018-08-27T06:42:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "86d70089-a7d9-4a1e-a41f-7de609804798",
+    "order_id": "c5cf67f5-387b-4468-af30-84908c360a50",
+    "amount": 2054.64,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-01-09T07:10:27"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8967cf46-40f6-4b54-a23e-4e269220da5f",
+    "order_id": "ebf84ec0-941e-4e45-a206-74cc85040608",
+    "amount": 1411.38,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-05-07T01:06:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8cbfa2f7-02f3-4427-abdb-36bdf6f2e5d2",
+    "order_id": "1e07bc0f-4e75-4ee0-a6bc-865783ea8657",
+    "amount": 2077.54,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-08-10T11:07:06"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1451ecbb-842a-41b7-a195-2b9150fb2260",
+    "order_id": "9e751cce-ad30-4f7f-a6d1-a9a004d56603",
+    "amount": 1974.63,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-07-07T12:38:00"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b02b95b7-c923-4872-aa80-b7a7009cdc5e",
+    "order_id": "5eaf29c1-b744-4b94-a367-b14a98be0662",
+    "amount": 759.21,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-06-06T23:22:31"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "02776e04-c094-4a8c-a27a-657d5b006010",
+    "order_id": "9d72b3e0-e130-4523-a88a-65d57fa52b9c",
+    "amount": 1100.34,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-12-02T05:44:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b7c4d980-e668-41cd-aca6-11221569c938",
+    "order_id": "4f939c4a-1fc0-4b7e-a700-9f8703378795",
+    "amount": 541.39,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-05-13T13:09:16"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b7e4e851-95df-432f-a958-7539d9942741",
+    "order_id": "7a08a84a-5553-4d97-ab96-255b804fd25a",
+    "amount": 563.02,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2019-11-19T09:11:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "fb3be44d-7dbd-43d2-afd2-ef541fcbc94b",
+    "order_id": "7fb920b6-0f7c-4c64-aa69-6ef643fef65a",
+    "amount": 124.95,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-05-28T15:17:22"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1696ecfc-b3bc-47cb-a4ad-a8d080217ece",
+    "order_id": "ac0077e8-51ad-4039-a926-c0ddee7853be",
+    "amount": 2678.7,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-12-15T17:42:33"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "464afa7e-286b-410b-aa3c-ab297559cd38",
+    "order_id": "ced54493-773a-400e-a794-f61c40c4a02e",
+    "amount": 1181.09,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-01-20T16:48:30"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d681c28a-33dd-4d9a-ac7b-017ca3b6d18c",
+    "order_id": "49dad2ca-1acf-42ae-aa33-8464e4e824b0",
+    "amount": 665.96,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-22T14:19:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a418ce5a-7d2d-4731-a035-60d4f38de70a",
+    "order_id": "26dbc837-e97b-4dc2-a311-866def914e07",
+    "amount": 2966.26,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-03T14:53:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8808c7cd-d408-4454-aef4-3e4641a5520b",
+    "order_id": "37dac086-3c30-4edd-a6e8-43302734cde2",
+    "amount": 1262.14,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-10-21T13:05:59"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "13f6c55f-1a76-493b-a82e-75406b980efe",
+    "order_id": "5cce82f6-c26b-43bb-a8bb-f6bac0274905",
+    "amount": 455.96,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-01-08T17:46:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "fcb74448-4671-4326-a277-766346bb159e",
+    "order_id": "fe281547-8629-4a8d-a131-1a45fdbac7c0",
+    "amount": 1366.92,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-01-26T19:09:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5446c6bf-2fe3-4ece-a21d-b9a2814a14d5",
+    "order_id": "17925da2-db2d-46b0-a23e-5cd6492999bc",
+    "amount": 1173.24,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-09-07T15:12:59"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2a13b6df-3c46-474e-a5fe-5860b785656a",
+    "order_id": "18e20d64-f90a-41bd-a228-e414638d9661",
+    "amount": 759.2,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-04-01T18:42:31"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "612fb116-857b-4201-a224-cd884ad52da2",
+    "order_id": "a083cb2f-ebb3-4b82-a171-bb5fde6fa73b",
+    "amount": 1039.7,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-06-19T02:52:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5b26e153-4f66-47a6-afb2-8478fea03e4a",
+    "order_id": "6b3db5b6-c42f-4ae6-a752-e764b30d13cc",
+    "amount": 1335.77,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-12-31T00:45:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "074df53b-b236-4b5e-a5d1-e6dc3ff0568b",
+    "order_id": "b1cc800f-e2dd-46fc-a293-e8e1e4a37848",
+    "amount": 1567.48,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-09-02T20:58:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e1342c48-84ad-4910-a3c8-7a8429144ce3",
+    "order_id": "650945f3-ef20-4762-a40b-552e9f177b8d",
+    "amount": 1830.55,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-04-22T06:12:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "63e1ce49-a837-4542-a7a8-334b9b0a2383",
+    "order_id": "32e84d85-a167-4d7d-aa08-32960f3da1e1",
+    "amount": 2092.73,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-11-16T18:20:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ff36740e-7c29-4d78-a005-a518e4ec5f90",
+    "order_id": "29c149eb-83fa-4c58-ada3-1c52573beccb",
+    "amount": 2184.52,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-03-08T01:47:31"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d6a33537-ce33-47b4-a0d0-512d813ed0f0",
+    "order_id": "fc0ac714-4866-4765-acea-62aefd799319",
+    "amount": 315.12,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2021-08-16T08:59:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5169d12e-9546-42a3-a1c1-41a03566c8dc",
+    "order_id": "129fc4a6-fcef-4f32-a7a4-a4500b29b1a9",
+    "amount": 602.27,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-01-17T21:31:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f0fef056-ae6f-4b39-aa00-0a7107689107",
+    "order_id": "c08f3490-5a8b-488e-a904-6a983ce76f3c",
+    "amount": 289.32,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-06-02T23:38:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e306a623-3cc5-4c29-a043-1363dc525ced",
+    "order_id": "a1cbb284-d670-4f50-a3c6-0fb31a0a0e14",
+    "amount": 148.92,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-06-02T12:03:19"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "448a1cd0-1178-442a-aada-ff9302627b63",
+    "order_id": "90ce7db1-f6d6-409c-a0ed-e0de65e092be",
+    "amount": 759.21,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-08-22T19:19:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1f874ac7-4d1c-4958-a2a6-26c1223a25c5",
+    "order_id": "ececd190-edf0-46a1-af93-46ed03c759d8",
+    "amount": 2147.88,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-06-09T19:01:31"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a8e6201a-8a30-4113-a6fd-06ec5b059490",
+    "order_id": "f0eceedb-ae8f-4017-a05a-84c1cd17f01e",
+    "amount": 858.49,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-12-14T14:16:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f6f8617f-b374-4125-a657-21dac3e8f5c3",
+    "order_id": "6294e803-b98f-4249-a658-6bd90a847ba5",
+    "amount": 3175.6,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2021-07-04T08:43:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2dd2ff14-1fc1-4431-aa12-bb007f81c806",
+    "order_id": "e485e2d5-02f0-42fd-a7cb-10ba72a96c6b",
+    "amount": 1847.12,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-12-25T03:24:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "84adbc46-6e96-4a1d-af17-dfcd6c2d88ec",
+    "order_id": "ce41dad0-5ac7-472c-aeb1-25daa10f9294",
+    "amount": 2003.62,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-03-08T14:44:08"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "35d1aa67-17c6-4d9e-a4f6-dad27f9747ad",
+    "order_id": "d6f7f59d-3c03-4aec-a7f8-df788dacd315",
+    "amount": 320.67,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-01-30T02:23:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "bd086af5-080c-4eee-ac33-87d391724fe5",
+    "order_id": "7402aca6-7b91-4c17-a53d-d3647983f5f4",
+    "amount": 131.56,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-10T16:12:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9922eeaf-bdd7-40d5-a7be-edc817c5a36e",
+    "order_id": "472ebbe5-54dd-48d6-ae9e-8b002f699760",
+    "amount": 21.39,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-12-07T05:58:22"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "411756f6-58d3-47e5-a87d-19ac2397b741",
+    "order_id": "c911c574-582e-4aa8-a985-83ff3b2ceaaa",
+    "amount": 712.84,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-02-20T06:19:31"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1a6b2250-9217-4152-af40-96e3bb525111",
+    "order_id": "960339fe-9993-47ad-ad58-5b68dea46a65",
+    "amount": 1789.46,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-01-22T15:07:29"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "cfb2784d-5de6-4794-ae91-76116cff7810",
+    "order_id": "fea06a2a-584f-4641-a2f9-269324c3154d",
+    "amount": 2045.76,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-12-19T09:31:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e9c1d68d-08b3-4ecf-accf-ad63ac33a3cf",
+    "order_id": "5c635846-6751-4df1-afa4-bccb5d92acf4",
+    "amount": 1918.92,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-04-15T09:31:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7f42557f-714c-49be-a6b3-acdb0cec7dd0",
+    "order_id": "0672be60-08fd-452a-a655-61f8d8aab6f2",
+    "amount": 1397.47,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2019-11-19T11:27:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7205c9d1-6f3f-4d54-a062-b05fb354ca9b",
+    "order_id": "e912b098-275e-438e-a181-6740f6ac2b41",
+    "amount": 472.68,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2018-04-17T05:14:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "857dbbca-39cd-472f-a583-f71f4dcbf3b3",
+    "order_id": "8c71ea55-3bac-4c68-ac86-1d5b8d198917",
+    "amount": 844.53,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-01-18T07:47:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1d434666-d8f8-4dba-ac6f-b2f3f7d31a17",
+    "order_id": "3468778c-6541-4d18-aa16-ee1f28f46062",
+    "amount": 1087.07,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-01-24T19:45:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "66d3f47a-2294-4e99-a6f1-bd2126f114f8",
+    "order_id": "37d08900-6444-454f-a7f4-6abefa905d2c",
+    "amount": 1688.68,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-01-25T20:25:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "80bf4896-8d42-42f9-a0f1-5d8d74a04ee1",
+    "order_id": "ba3dd2d9-0d75-4fd5-aa5a-40a9228e7471",
+    "amount": 1194.73,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-12T17:51:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d27bcdcf-b6a7-4fea-a899-d6ea4afa17e0",
+    "order_id": "9e291ab2-0781-4567-a525-24afef6dfa78",
+    "amount": 899.03,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-01-04T21:53:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d36ce979-966a-4f79-aa63-098b170b5d64",
+    "order_id": "9a6cd960-6f4b-4f13-a6ab-254d3e7cb511",
+    "amount": 857.44,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-02-25T12:13:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8f373c6b-77a7-4f01-ab05-18d44630d2dd",
+    "order_id": "e6a931d7-0a0b-40f8-ace3-d5123dfb67fc",
+    "amount": 942.78,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-09-08T05:21:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8cecf62b-5b7e-4482-a91d-ccf068b1f6bf",
+    "order_id": "ab52b7e7-881b-43f3-a40f-8d4cb70bb80c",
+    "amount": 2146.17,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-10-02T11:55:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5b3580e9-5eeb-4001-a3ca-2afcc80361bb",
+    "order_id": "ba514995-ae4f-454e-a716-d9c6d8b1f44f",
+    "amount": 1912.06,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-09-23T02:51:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "517402d2-254f-4053-a5e6-d16e88d11f75",
+    "order_id": "32526ca1-3bd5-42fd-a045-4434269f2bbb",
+    "amount": 2019.98,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-02-23T21:23:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "97b5f54e-82ac-4a90-ada5-170d0a44bf23",
+    "order_id": "c056f0d7-0210-46ab-a875-f9fc3a0fd924",
+    "amount": 1860.06,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-01-30T07:13:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "21eeca64-2e5c-40e0-a423-f04134856e9b",
+    "order_id": "5946e5c2-3a53-4554-a88d-2bcbfe6ec8d8",
+    "amount": 1604.02,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-02-21T14:02:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9045b23a-2fce-447d-a7d7-c143e6ebf001",
+    "order_id": "45d1e25f-f009-407b-a0d3-c426fec984be",
+    "amount": 337.99,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-04-29T19:17:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0be8ce18-60e2-4c5e-aeca-656b4759e681",
+    "order_id": "69a3da52-7cea-4bab-a1f7-1445e9813205",
+    "amount": 605.73,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-11-17T11:22:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6897a12c-334d-4171-ad69-314aadbd1ee4",
+    "order_id": "7f9f3b1e-8017-4db2-aac8-5f38bbcca000",
+    "amount": 52.06,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-06-28T01:48:00"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "110078b7-ea6c-4106-ac57-85f53d8267c9",
+    "order_id": "6a04f6d4-5338-4f46-a115-a2c505a3c2cb",
+    "amount": 2533.1,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-02-26T00:53:47"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "fbab2c93-daa5-4d1c-a39d-eaf2d987246f",
+    "order_id": "41ae7fa5-92db-4f93-a515-74dae0e7f079",
+    "amount": 542.39,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-02-12T21:28:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8e3267b8-9f7e-47d4-af03-ff9630472500",
+    "order_id": "dfb80d7e-7800-42db-af82-5090b7572592",
+    "amount": 1522.87,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-10-16T20:16:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c00d398a-1e83-44c8-a55a-3dd3f019eb37",
+    "order_id": "32715254-7104-49a5-ac8b-03dd81f54be0",
+    "amount": 431.51,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-04-17T10:20:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "452339a8-eaec-4e7d-adb5-a9604e8001b1",
+    "order_id": "ce7a6bb9-fffa-4c71-a833-2ec7d8c59c47",
+    "amount": 61.97,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-09-19T13:25:08"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5920b148-aebc-44a2-ac43-abd9372c7d94",
+    "order_id": "bba9134b-ecf1-447f-a3a9-d87aa775a656",
+    "amount": 1254.19,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-09-20T15:21:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "56bdc456-dcf3-438b-acf8-30be5059267e",
+    "order_id": "a496d22d-fd69-4349-a659-1525156b0d6e",
+    "amount": 1090.65,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-05-20T06:16:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2cb43fe1-9b72-457a-a97a-2a65aaf378ea",
+    "order_id": "01a1f445-1daa-4110-a3cf-5973473752ff",
+    "amount": 979.95,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-05-23T01:43:05"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "33fde7cd-75a5-4ece-aa3e-91758fb0d85b",
+    "order_id": "d1179bbd-7408-41c9-ad9e-008215ccca2f",
+    "amount": 1699.96,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-07-21T11:19:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "179c702b-f753-4cad-a8c9-e85d9dc94abc",
+    "order_id": "6f2e91cf-fe35-4334-a60e-3ecbde4f7f13",
+    "amount": 2403.39,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-03-10T14:20:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "822ebda4-6ca0-4868-a6fb-af0fc8703beb",
+    "order_id": "bfdd4b6d-7da2-44b1-aa90-73d2d05a54b6",
+    "amount": 898.17,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-01-26T12:46:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f04b5a0d-0997-47aa-ac9c-71f07d8f67f9",
+    "order_id": "c6c0617c-cf9e-462d-a7bf-c6ad150a604b",
+    "amount": 1881.02,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-13T05:07:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "df36d892-380b-4ef6-a1b1-83200cce9742",
+    "order_id": "af5bfa5d-d9da-402b-acc7-3088f6806689",
+    "amount": 1956.74,
+    "method": "PAYPAL",
+    "event_timestamp": "2019-01-13T01:19:37"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3aa8cfde-db7f-4ec6-aee8-9d2273458722",
+    "order_id": "d1b71d46-bfe9-4d5d-aa1d-93f1d5b4ba8e",
+    "amount": 2461.75,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-04T00:30:45"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "34d0090e-6536-4487-a22e-f167bf6106d7",
+    "order_id": "466549cf-2bd5-4c6b-ad89-855af25cdcd2",
+    "amount": 1061.09,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-03-30T09:23:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9c1bc844-3db5-4df3-a261-68a0450f304a",
+    "order_id": "08613428-92b9-4d6a-af4c-e659c812dd5b",
+    "amount": 1319.26,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2021-12-24T20:30:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3df5059e-17f9-4a88-ab02-f3cb727c8e7d",
+    "order_id": "e068af23-7e3b-4ef3-aa1f-36ea14f814b5",
+    "amount": 219.26,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-04-02T19:06:34"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7371338b-2c5e-45da-a773-c430be7c797e",
+    "order_id": "ed82c6ba-c5df-4c67-ac17-989bb7369eaa",
+    "amount": 832.99,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-03-09T20:50:06"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "17ab0473-d42e-485a-a3dd-2fe51332d5ec",
+    "order_id": "0776c7d5-f88f-4ff9-ae72-efcc94c7c195",
+    "amount": 2431.6,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-07-15T06:19:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5614c96e-797f-4f9b-a170-98db660622c2",
+    "order_id": "b9c5ebdd-1447-48b1-a45a-54f998995ff8",
+    "amount": 373.22,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-01-31T05:23:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3ea2489c-6b88-40bd-aa1e-7ad75dc37663",
+    "order_id": "a07bc625-285f-4b20-ac1d-919b68c72dcd",
+    "amount": 583.95,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-06-25T06:57:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5241371f-2e71-439c-a62f-5002ad3c1776",
+    "order_id": "4b9774e0-0d53-4fbd-afb8-24074c60452f",
+    "amount": 1008.54,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-07-27T22:30:39"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d6b8d970-b4b3-4f13-ad74-015ebd13751e",
+    "order_id": "967ee4ed-e125-4777-a644-23156b26fd01",
+    "amount": 1207.23,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-06-14T01:47:08"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8f3de0ee-9706-407f-a2dc-9ef575a40ddd",
+    "order_id": "11f2744a-8aa5-42fe-aa17-4f38b887096c",
+    "amount": 587.68,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-08-07T00:06:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c94c091e-03a3-4226-af7e-4eedc0d833ab",
+    "order_id": "758372f1-ec07-4bfa-a3d2-7021f6654c2e",
+    "amount": 1624.07,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-01-25T12:59:49"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1c1107fd-6fed-49d4-a65a-b4bfda249652",
+    "order_id": "ae8b74da-266d-4982-ac45-cfeef08ef035",
+    "amount": 334.77,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-10-17T18:51:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "55255f8c-0910-4370-a59c-6990a4a18bd5",
+    "order_id": "46937889-eb2b-4a84-ac82-44dc5bbeb3cf",
+    "amount": 433.02,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-04-05T07:32:26"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d89c8b8c-b614-41af-a998-67d0c7a82599",
+    "order_id": "d00d2d40-b034-4837-a6da-8c1a22cf6231",
+    "amount": 534.41,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-01-23T07:45:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "16630a26-f8b6-450c-a6d8-877a51e0d747",
+    "order_id": "52ce6e09-f9de-4d6e-a6c8-277e816092ca",
+    "amount": 1576.16,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-05-10T04:38:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "612f44d3-9295-496b-a393-3b7cea95e7f6",
+    "order_id": "18e0f447-b0d7-405a-ac64-a07f9ddad97c",
+    "amount": 1880.63,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-05-03T17:17:54"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "16707e83-3f45-4be3-aac7-36cf2122b442",
+    "order_id": "9284b987-220f-4c5f-a9c4-6ae8de2076ff",
+    "amount": 1870.78,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-01-08T11:16:10"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e20b0767-f938-4840-a57b-638125324ce2",
+    "order_id": "e3ddb33d-85dc-42e4-a1a1-996ce7e25eec",
+    "amount": 851.6,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2019-01-31T03:13:27"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0b43ccad-a0ed-45d8-a645-3bf896cbc040",
+    "order_id": "09895761-870c-47e5-af60-9f91ab2f12a7",
+    "amount": 106.89,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-01-29T00:03:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6060f05a-6837-434b-aabf-2660c586befa",
+    "order_id": "31173d00-b271-476a-a39e-47764888dfbd",
+    "amount": 2339.44,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-04-18T04:36:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "420f2325-da38-4e71-a2d4-30ef756aba7a",
+    "order_id": "17e89803-99f3-436a-ad0e-e32645c91f66",
+    "amount": 816.69,
+    "method": "PAYPAL",
+    "event_timestamp": "2018-09-10T17:00:05"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1d504aa2-bcea-46c8-a6fe-af14cc46372d",
+    "order_id": "6bb766da-1fad-44fd-a016-748caaeb000f",
+    "amount": 145.11,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-02-26T09:03:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d854f005-3450-47e6-a7d3-2ea806fdeff4",
+    "order_id": "9de482b8-017c-4d7e-a2dd-d5e7d1e6ca39",
+    "amount": 1268.57,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-06-08T15:03:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3fb50860-fad6-41be-a8be-f56ac149723c",
+    "order_id": "58d0b560-011a-4b1a-a771-a50e2f827492",
+    "amount": 1041.63,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-02-12T03:55:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c4355bf3-3168-4be4-a66a-e599e98ef2da",
+    "order_id": "5d6ea18d-6733-4372-acd8-bba36b0725f1",
+    "amount": 194.65,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-05T06:01:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "31c34f12-5bf5-46a2-a82d-573637ef5aac",
+    "order_id": "eb96233b-4474-4203-a450-f099224718c2",
+    "amount": 2274.36,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-04-06T17:01:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c2b739ec-20c5-4437-a0ab-d3cddc8c264f",
+    "order_id": "adfd5648-01e0-4bee-ad4e-72446cbbd5ad",
+    "amount": 2122.51,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-12-28T06:52:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "92280877-8a79-4634-a40c-73aa933eb07e",
+    "order_id": "54e4a6e1-5194-47dd-a5d9-22e79da3b55f",
+    "amount": 1339.6,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-01-11T09:14:37"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "334f9ce7-96b3-4814-a1b1-737a781133ab",
+    "order_id": "f8f60639-fa62-4e99-a91f-5eae200f19c7",
+    "amount": 1795.88,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-10-16T19:21:32"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "82ef6899-fc27-4a54-a2bf-8e27f88c6d24",
+    "order_id": "2afe5b76-17ed-4d8c-a951-86bf89f0d950",
+    "amount": 1205.43,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-01-03T20:55:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f2d7f486-32bc-4151-a42c-0f0727dc74ee",
+    "order_id": "e5e82edd-30ab-4264-ac2a-d85a1419e4d9",
+    "amount": 1527.09,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-01-09T22:08:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "bfc1d297-baae-48d7-a5f2-dd64d6cd45d5",
+    "order_id": "2b8ba663-dc05-4cec-a22f-9e1f69c80fdb",
+    "amount": 2217.22,
+    "method": "PAYPAL",
+    "event_timestamp": "2018-07-05T11:58:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a06fab57-1515-4563-a431-2739c7dca34a",
+    "order_id": "7bad89d7-b2ba-4a1c-a42a-61eeb2eb7591",
+    "amount": 559.86,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-07-30T09:37:43"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5c4c48be-5dd7-46c1-a399-18371c2e56af",
+    "order_id": "5480a105-8990-4800-a23b-49244dddb34d",
+    "amount": 962.45,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-11-07T03:55:35"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4fecd32d-65a1-4efa-a58f-606d0c8d11d3",
+    "order_id": "0839cd48-f8dd-4506-ab40-d91a1db056ca",
+    "amount": 2339.22,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-12-25T18:15:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "199e3f62-7509-4cc8-aa42-cf7dbca97e3d",
+    "order_id": "6f2bccca-8ce7-4490-a2dc-98d3ae82decd",
+    "amount": 1977.59,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-02-04T22:01:56"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2edb84c8-01de-47ae-aa78-6d9cc695d66f",
+    "order_id": "00a8c2ec-852d-43b1-a488-8561155a14aa",
+    "amount": 1981.96,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-01-12T00:56:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f9787ae9-733f-4ff8-a649-2f40b2859a97",
+    "order_id": "1dad3ef5-3ffb-454a-a70a-959b59db80ff",
+    "amount": 413.01,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-04-16T06:32:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2ef5a7cf-4d48-46e0-a5b6-b6b49878a5ef",
+    "order_id": "b2ace212-cfea-4747-ae1c-44fe6021d30f",
+    "amount": 1475.72,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-02-13T19:30:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "48f94aea-b872-4dfb-a06a-37572b1cdc24",
+    "order_id": "ca0ebf56-9a5f-4bbc-a601-63bac3063eb4",
+    "amount": 3222.67,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-08-11T22:26:32"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7f19e36c-fb35-497e-abbf-eb9b11e9908a",
+    "order_id": "24dea2b3-18e0-477c-ad48-0d08929d927b",
+    "amount": 1980.93,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2017-08-29T23:57:41"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6d4b19a0-4406-4de2-a93b-1372603fec89",
+    "order_id": "edb0eb06-2bbe-4f79-ac42-c8cba3c56113",
+    "amount": 1119.59,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-08-06T15:12:56"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1d29158e-341a-4f82-aab6-7bbabbd9f606",
+    "order_id": "513a6173-41cb-48cd-af91-952f77fb00ea",
+    "amount": 1066.66,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-10-06T19:44:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "74ff4311-8f9c-4cf4-ae09-6427067a80a7",
+    "order_id": "ada26186-6680-486e-aefe-54f1c42a7ec6",
+    "amount": 1785.37,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-07-01T02:11:34"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "61f45cf5-fa35-4744-a1c4-f306136b7eb0",
+    "order_id": "fb19dfb2-6955-43e7-a4dd-c26b6a9b1142",
+    "amount": 131.56,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-05-23T07:50:47"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "418da536-ff40-436c-a621-734627175e5b",
+    "order_id": "c8adf5a4-77b1-4e7b-ae31-5912dcefbc8f",
+    "amount": 1259.32,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-12-21T04:09:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "33aec4ca-4536-4db8-a9d1-e503cad5f7c7",
+    "order_id": "8aec5454-7f7f-4dc7-a063-0ca26b45c688",
+    "amount": 974.77,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-02-27T22:31:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "77fc4bd0-95f9-45fc-a764-6ad5af528277",
+    "order_id": "dbe7d8c3-e770-4c6e-a1a0-00e55ebba01f",
+    "amount": 526.06,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-02-07T21:14:36"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "cb87f898-fce1-407a-a8e7-6e79437b99a6",
+    "order_id": "4fe68acc-4a2d-4d95-a9a5-a1b935bb85ac",
+    "amount": 1127.68,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-02-17T01:28:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2def6ed9-1a4b-4304-a22a-314284b544fe",
+    "order_id": "2d4b7019-8a2e-4baf-a2c4-0b1c89c96ba9",
+    "amount": 366.78,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-08-27T16:45:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "48f26a5b-99f9-4f81-af87-6895f138602d",
+    "order_id": "abcc0152-905e-4d42-a032-20cc5e4207eb",
+    "amount": 227.98,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-07-14T04:44:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d7924988-4213-4b8d-a534-6423d2a986a0",
+    "order_id": "f8ffb575-620c-4e76-a5e7-82a5c808932d",
+    "amount": 969.42,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-08-31T00:00:13"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "bb30d9c8-d5b8-43c1-a030-06b6d489ea59",
+    "order_id": "b8b0dee9-2ecc-494f-a660-af7727068e21",
+    "amount": 2275.79,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-09-18T09:11:08"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b3e0b398-8605-44b1-a1e1-d2072f5a1e2c",
+    "order_id": "ef90e8be-7799-4e57-a86e-3fb0dc9403bd",
+    "amount": 935.35,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-09-16T15:13:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "dd12fbbf-9ab0-49d2-abd3-e2ea817940b6",
+    "order_id": "15a4240a-2da5-4770-ad7a-f8a8486b7d98",
+    "amount": 1273.29,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2021-05-01T02:16:39"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "cfc7c2ec-5030-47f3-a1ea-e9fece89fe22",
+    "order_id": "cf42b5e1-b9fa-4e62-a6d4-38de8d228c5e",
+    "amount": 671.07,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-04-02T18:00:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8c069dae-e952-4d3a-a677-6a5fbb1513eb",
+    "order_id": "69b78d7c-081f-42e8-a732-2380663f3964",
+    "amount": 3020.71,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-09-15T22:06:54"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9e2d9bb1-390e-441c-a983-64bcf5fd0f02",
+    "order_id": "f0d2a94a-77d1-4a28-a4a1-c0c6dfbce0ce",
+    "amount": 911.62,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-04-29T20:40:53"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "086abf54-fce5-40ae-a10b-88a201ff568c",
+    "order_id": "cd793425-b08c-4de0-adc1-7c95a337794c",
+    "amount": 1129.6,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2019-04-17T23:17:58"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "be8c0494-4314-4640-ab62-3d65ed0967a9",
+    "order_id": "7871315a-9bd4-4430-ab35-ffb2f7ca4c9b",
+    "amount": 433.02,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-07-23T21:11:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "680d5e6f-1a8e-49f7-af0e-7db54e146420",
+    "order_id": "c9a50b7e-4c12-466c-acfb-e0333648fab1",
+    "amount": 1374.84,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-09-14T14:07:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4e9857dd-4eef-404a-ab05-51f8eb058655",
+    "order_id": "9638bd76-da14-4238-aeb3-204957871264",
+    "amount": 2122.78,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-06-02T11:12:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e67e9f93-70b9-4197-acb4-554d0f86f99f",
+    "order_id": "9dac1d80-c5a4-4fda-aeb1-8037f6866cfa",
+    "amount": 267.9,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-06-17T14:46:13"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "05f44c36-e866-4a58-af7a-e6b077c3c9f7",
+    "order_id": "3aa257ac-d4ce-4b84-a996-e572922070e7",
+    "amount": 1319.59,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-10-13T23:57:43"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "478c96f2-ab70-45da-a4f9-c0bcd6653350",
+    "order_id": "55fbf594-c07c-46d4-a361-0bcd57501fed",
+    "amount": 1137.3,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-04-26T09:25:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "28b8035a-3195-4060-a069-eb662fcd5c10",
+    "order_id": "1400a389-d32b-4700-a975-5f0e893ea8b2",
+    "amount": 535.8,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-04-22T21:06:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2ca72c6f-9af1-4a0f-a48a-b4ba47fead39",
+    "order_id": "f83ba03e-c206-4101-a061-d712582b05ee",
+    "amount": 1777.83,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2021-11-26T12:09:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0622194e-e94e-433f-a5d6-7d8525649098",
+    "order_id": "717a8641-f1c0-4fe1-a679-858df1e66ea7",
+    "amount": 787.99,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-05-27T14:23:10"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d996e8a9-a2bd-4c76-af58-1681b91751e8",
+    "order_id": "e85b52fc-2bd8-4190-abff-d56862c57269",
+    "amount": 219.26,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-05-20T00:35:19"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "971044f0-b4af-4220-a99a-380b6836d435",
+    "order_id": "b065599e-c80d-4a70-a571-d39391ebad47",
+    "amount": 1868.74,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-08-28T10:06:11"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "22f0cc12-488c-45c0-a116-9dd5afebe505",
+    "order_id": "34a23488-81e9-4894-aa82-25b1fba32ea1",
+    "amount": 1917.56,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-04-19T03:08:42"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b712f845-be64-4514-a3f5-34021f47cfa0",
+    "order_id": "e8c17da3-cfd3-48f8-aedd-65b94047a0a3",
+    "amount": 1103.78,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-09-22T21:51:34"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d241ea06-a19d-4e59-a1b1-d262cfa9b52c",
+    "order_id": "93e07762-6892-4ff8-a553-0ab45af3009e",
+    "amount": 479.88,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-15T00:12:38"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "65334db0-716c-4e0b-a7fb-4b6be07baae2",
+    "order_id": "bae7cc62-4b62-4e4d-a7b8-12606314063d",
+    "amount": 759.21,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-07-19T20:54:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c92abdff-de93-48ac-a7a1-0c72143fa847",
+    "order_id": "b6f81861-9619-4885-abe0-3bc089b0505d",
+    "amount": 230.04,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-08-01T08:14:13"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "35cab2ad-a571-4430-a484-a59d00bf6242",
+    "order_id": "d34728b9-50ee-48c0-ae7c-7a9fa8b427d8",
+    "amount": 197.34,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-03-29T15:27:41"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9f0854d5-fb30-40f0-aca8-9cee8fa5df2a",
+    "order_id": "61eed8c8-5139-4468-a5e1-dd525a603800",
+    "amount": 2256.71,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-09-21T05:09:19"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2af33032-88eb-45bd-a539-956b25e47504",
+    "order_id": "bc50e3b8-affe-40c5-a5e6-281adb74fcfd",
+    "amount": 2340.39,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-05-09T05:53:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "b2c353a4-d79f-4fee-aafc-6787906fd03b",
+    "order_id": "b26cbaaf-b89f-4af1-a377-44c2ef44204b",
+    "amount": 1624.66,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-05-20T21:43:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a5e3af89-03c5-4695-adf3-195e5e1945d7",
+    "order_id": "80867a6e-1e93-4e93-afbe-1a427d53d8ce",
+    "amount": 520.98,
+    "method": "PAYPAL",
+    "event_timestamp": "2020-05-31T14:52:41"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c7ea9f95-a23a-4a27-a40f-7a900c49f422",
+    "order_id": "b5e50c60-e9ec-45c2-aa7e-f54a2ecc8515",
+    "amount": 1154.62,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-04-22T20:25:43"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a63af1f6-94b6-4f6a-a3fb-9c3958efa7c6",
+    "order_id": "f0b5acd0-94bb-4af6-ac64-ff0ffd9ebc71",
+    "amount": 483.23,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-06-22T04:24:27"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "08207f4b-c1db-4e85-aae2-3fb6911cac4c",
+    "order_id": "c8d08438-7dfd-401d-ae6e-b4e8b072a7b9",
+    "amount": 1088.92,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-05-14T08:54:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2bbcd175-e62a-42d1-a57c-f04d6908b8c3",
+    "order_id": "4ede8449-f78f-4e8f-a757-b7d1d67d0a9e",
+    "amount": 455.0,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-01-24T01:46:27"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "0101e95d-b328-474a-a7f7-f6a7ad02c86d",
+    "order_id": "cdfa8222-e6c4-4836-a2eb-0ee07873d527",
+    "amount": 1212.6,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-04-07T05:00:17"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6f3a1cdd-8c35-413f-a7cf-caa41bd8eaab",
+    "order_id": "f2746d6b-d99f-4929-aa8e-617efe6e1ec6",
+    "amount": 1963.08,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-02-21T18:03:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "820d7afe-7a3b-4fa9-aed2-fb75b943c41a",
+    "order_id": "56417edf-43f0-4eda-aa8a-915ed8212f71",
+    "amount": 2118.12,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-01-13T02:49:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "87c2524f-ce3f-486e-aed5-eaf713fa6fff",
+    "order_id": "7347c5ec-14f7-43b2-aff8-da2322c45fb1",
+    "amount": 1693.08,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2020-11-03T02:17:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "32d263cf-aa76-40dc-a45f-aa8d98d5ccf9",
+    "order_id": "d8c1804e-af57-4e43-afb5-2dd192ec78a2",
+    "amount": 281.51,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-12-23T22:54:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4016ead3-c05f-4695-ac1c-009b57c09127",
+    "order_id": "d85171db-6223-4375-add8-3068ae397ccd",
+    "amount": 2005.35,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-11-18T16:35:00"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "22d33d4d-26bf-401d-a76a-bf9f299c19a2",
+    "order_id": "876d51e3-91d1-467b-a57b-37e8af66bb21",
+    "amount": 212.45,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-07-26T04:02:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1d6f082e-a99f-45b3-a423-e3a8c2824584",
+    "order_id": "f8892daa-fabe-4519-a5c4-5817309796cb",
+    "amount": 1835.59,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-08-23T04:50:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "89641c99-8244-47fb-a062-ac8070e9c2b3",
+    "order_id": "a7bda4b0-695d-4e1a-aeca-5d31e93a7432",
+    "amount": 1506.49,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-07-26T23:35:28"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "bc5684d0-c5f9-4a62-a63d-258da777827f",
+    "order_id": "0f4155de-bed9-4bb5-a159-afe44b720431",
+    "amount": 2837.61,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-12-08T08:36:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4475fb3a-d325-4885-a7f5-3beba9971a98",
+    "order_id": "bae8fd00-d3b7-4182-a359-0518af91074e",
+    "amount": 1227.77,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-03-25T22:12:06"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c3767aca-dc1b-4118-a16f-97353bdc4d9d",
+    "order_id": "ba137506-dc54-40ed-a69f-f5481a21869c",
+    "amount": 4925.16,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-07-17T15:51:23"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "514884ae-6f52-4323-a1e7-9d609a6df30c",
+    "order_id": "17367396-f259-4c5c-aeac-92f7eb24faac",
+    "amount": 452.85,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-13T22:21:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "29adc33a-6e69-4b19-adcb-a84ab8d9c165",
+    "order_id": "71b4ca1a-eb8d-408d-ae4e-78053ea173ee",
+    "amount": 195.73,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-24T16:12:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ba871b86-ddd7-4e8b-ab57-e61aa4631149",
+    "order_id": "ad660df6-3316-4d58-a340-c8b4c3fcd858",
+    "amount": 444.84,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-06-14T03:04:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "91b9d153-fa2e-414a-a05e-34f22429b43a",
+    "order_id": "93820e7b-d163-4a83-a968-85f507ae3400",
+    "amount": 654.33,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2019-05-23T16:02:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "971da564-3c6b-4134-a1c4-b52e1398ac77",
+    "order_id": "6fe67072-83f7-47fb-a6ed-40f1a0089a79",
+    "amount": 2402.79,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-03-21T22:31:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a6e2a227-83bd-4571-a807-38047ee95733",
+    "order_id": "c2a0d199-4d29-4f0c-a04e-cc50252a1a65",
+    "amount": 2847.91,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-11-24T20:31:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ede397f5-8a17-4b63-adf1-80a9d205918c",
+    "order_id": "2fb4b266-8122-4516-a1ca-bb60d087a19c",
+    "amount": 743.58,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-01-28T13:06:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "38edf3f2-dcfd-4935-aa16-33e2dae821ba",
+    "order_id": "9f04e17a-3423-4c42-a0f4-bea656997ff4",
+    "amount": 906.42,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2021-12-01T03:35:36"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f454c943-9ae4-4079-a452-cdf909b32891",
+    "order_id": "08b1b9dd-a7c8-403f-ac95-bb530aebe270",
+    "amount": 68.38,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-04-14T01:10:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a5f23fb2-e57b-4887-a1e2-a5ef05c070f6",
+    "order_id": "2350d152-f616-4b99-a168-9abe79d6357d",
+    "amount": 2101.17,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-09-01T18:30:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a214ee0c-974e-474b-aca2-79c271769b46",
+    "order_id": "32e4a6e9-fc97-48af-aa1b-681a148b6f8f",
+    "amount": 1483.54,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-05-06T17:36:11"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "862037da-5a18-497b-a9e6-de7b79a6fc6c",
+    "order_id": "8479c59d-74a9-4802-a079-94ca20e514cc",
+    "amount": 49.04,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-06-24T10:09:16"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3d034559-b304-4327-ac87-e8e3d60e5a2a",
+    "order_id": "96d55789-dfe3-40b2-a45e-2adfe84cc224",
+    "amount": 2473.26,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-10-24T07:04:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7823564c-eefa-4404-ad71-68dfae6305a6",
+    "order_id": "4c654640-15f8-4543-affc-5905d9e066ef",
+    "amount": 1823.52,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-01-17T02:24:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9518a5f4-65a0-4b5b-a8bb-df634086a5e8",
+    "order_id": "2c0ea036-f618-4ed0-a9ee-3ead0eb89147",
+    "amount": 966.46,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-02-10T03:42:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "7e4d9656-a605-408a-a472-0bd753e1e2ed",
+    "order_id": "0081c76e-5528-4378-a03d-2f39855e2b4c",
+    "amount": 280.14,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-02-06T01:59:04"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c6793330-8b7b-4e74-a4fb-0699da39e504",
+    "order_id": "30c1e797-901d-4e31-a5da-face81bb80b6",
+    "amount": 2565.05,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-12T05:27:03"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "867dee4b-6183-49e3-af38-144567167959",
+    "order_id": "2c8b28ac-3cb5-4b8f-a4c7-967af80dfc0a",
+    "amount": 145.11,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-20T09:27:15"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ed5a86e5-d7fe-4bf4-ab62-c374a24db25c",
+    "order_id": "10cc40b4-292f-4daf-a465-0e09c5c1aa90",
+    "amount": 1793.15,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2020-05-06T19:41:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "42f3ec3d-48e4-4805-a441-ac7dfbca6d0e",
+    "order_id": "6a76200a-9bf1-4790-a7e5-d5a032723b9d",
+    "amount": 1747.23,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-09-29T22:41:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ae6b7b25-6a02-4baa-a05e-0199dae1f416",
+    "order_id": "4917361f-cc62-43c2-ab55-42c9d5cc6edf",
+    "amount": 1558.91,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-05-13T03:53:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "08592913-e4ff-4c87-a894-9a314b5e2329",
+    "order_id": "b02abe3a-468a-4576-a089-fe4fcaa5325c",
+    "amount": 2474.36,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-04-11T15:43:39"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "eb39c7f5-7b83-4eac-a2f8-acaa4c100b70",
+    "order_id": "86126133-9931-483a-af74-b7075d37df26",
+    "amount": 67.17,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-01-01T15:19:59"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "85e2671a-0ff2-4860-a702-4f2a8f3d037b",
+    "order_id": "42c9c003-09f7-4405-ae06-db713d23eea2",
+    "amount": 1601.33,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-03-27T13:41:01"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "eadf1885-bc5e-4685-a50b-e30d9ef36920",
+    "order_id": "84016502-03ea-4f72-a84f-1df0e59f93c6",
+    "amount": 412.86,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-06-04T00:37:36"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "eb46f1b1-5a1f-4423-a963-e8396603d780",
+    "order_id": "a59dc017-8413-45f2-aa5e-2fec355d1ed9",
+    "amount": 2443.28,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-01-09T23:40:41"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "744fca55-e066-412f-aed0-3481a9c7d026",
+    "order_id": "b0aa9487-d543-426a-a1f0-750c58f5f08b",
+    "amount": 3272.14,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-04-09T16:23:30"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "21facff7-3586-4a64-a97d-78311b1d282e",
+    "order_id": "fad68d4e-d302-4e69-ad54-cf577cbe66ba",
+    "amount": 1472.06,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-05-24T18:02:34"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "da6d97a4-0a1c-4cee-af43-35ecb6afce3f",
+    "order_id": "de392b6a-f32d-484d-a603-9404b9b7a33b",
+    "amount": 1393.5,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-05-28T10:35:55"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "378aff87-1fab-4864-aed5-7a6bbf6fb927",
+    "order_id": "b9ea3983-26db-4e7d-adaa-7e34282e84b3",
+    "amount": 583.65,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-04-06T08:14:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3e85e099-0130-4b18-aa55-7c62ec631a34",
+    "order_id": "749c8ec6-24a1-493c-afb7-346a4b47dbac",
+    "amount": 3630.02,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-05-15T17:55:09"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "83a624c3-18cd-478d-a058-8f19850ed1ed",
+    "order_id": "f05d0ce3-2792-4eeb-af46-78ba61651177",
+    "amount": 1057.67,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-06-19T16:05:29"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ebdbf731-4b2b-4382-a250-8f0257b18725",
+    "order_id": "338b48ad-464b-43ba-a03c-458d83907a9a",
+    "amount": 2556.33,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-11-20T08:04:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3c988d55-189f-457c-a7bb-059f13bc8842",
+    "order_id": "8ad0aceb-1692-4f57-a3d6-b2564ef401fc",
+    "amount": 1411.23,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2021-09-07T13:47:19"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3fe29b59-b46b-4272-a276-829b5c8e776b",
+    "order_id": "d438f54a-8b85-4060-ab8c-c556eb2c6422",
+    "amount": 844.53,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-07-18T18:49:06"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "00f25378-78f9-444e-af54-b0661b2614d5",
+    "order_id": "b4443995-c5ca-4c8a-a188-0cd8b341d8d8",
+    "amount": 780.43,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-05-20T15:24:26"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "425d70d8-cf1f-4d58-a385-a4c2969bbea9",
+    "order_id": "6dd4475e-4c6c-4e7c-a382-a6ce95303240",
+    "amount": 506.14,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2022-05-04T10:11:05"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c2db9198-21f8-4367-a1cd-b471da410edd",
+    "order_id": "9517ab75-8d4d-4d8e-a236-50fd3e82e3e7",
+    "amount": 157.56,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-11-24T20:22:39"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "f6432b23-3a40-4570-a949-4b9ecd937277",
+    "order_id": "bcbda426-1dc0-40e9-a2b7-51f3b133276d",
+    "amount": 1587.2,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-12-07T03:41:11"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1c2a753f-80f4-4db8-a739-338844a9128d",
+    "order_id": "2009bdae-e3cd-4c9d-ad91-0dce5db17109",
+    "amount": 1908.95,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-11-23T18:42:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "bc91ebaa-a887-47f2-a69d-d9ce91a40c6c",
+    "order_id": "5a7a6565-fcb3-4c4b-a934-e88ae46409ed",
+    "amount": 2518.66,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-07-08T16:56:13"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "57b2ddac-6be1-47b7-ad4b-9644795711c5",
+    "order_id": "f83ee1db-45c2-4703-a952-a357399cd708",
+    "amount": 720.59,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-03-17T16:48:41"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1b421280-1a42-46a1-a9e4-3b404ba1e1bf",
+    "order_id": "814e6eb6-b0d2-4c7b-a667-188f61ae4199",
+    "amount": 1177.52,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-11-23T13:59:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "306b8328-17c7-405a-aab9-cc9e6a159a3d",
+    "order_id": "59a6df7d-576d-45af-aac4-261e2be32b5f",
+    "amount": 583.95,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-02-15T21:55:56"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4586e469-50d2-414f-abd0-403f8ab754dc",
+    "order_id": "e7950f86-eac5-4324-acbc-efe980e9c1ba",
+    "amount": 105.09,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2017-02-23T06:51:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "168b3154-7598-4a62-aaf1-79a1f5213f0d",
+    "order_id": "b68b50c1-845d-445b-a16c-ae8d9182c934",
+    "amount": 2216.14,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-10-29T07:11:26"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "779f77d1-7c77-479c-acce-4dd917f3729e",
+    "order_id": "3da8cab0-39c9-4b82-a740-ab1b571fcf73",
+    "amount": 225.59,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-10-30T04:50:29"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "92c86270-1db1-4add-a865-09f97f410c0e",
+    "order_id": "444a5d91-40f3-4bca-a6a6-655e535da89d",
+    "amount": 1610.51,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-06-29T15:58:57"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ad411cb9-78e3-4120-acd7-f51a7e49b081",
+    "order_id": "a0ac3363-09ea-4742-a40f-6707ffd34930",
+    "amount": 1848.27,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-01-10T09:45:44"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "76eca604-ab87-4b96-a1a5-a623619a56ec",
+    "order_id": "5d2882ca-d9e4-452b-a437-4972ad7444d4",
+    "amount": 237.83,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-10-09T11:28:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "dcda6e5f-ac16-4a15-a4f3-c6d47423a3bb",
+    "order_id": "4ca7887c-5dfd-4230-a2ca-67ba6c045bdf",
+    "amount": 330.68,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-01-20T03:09:52"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "a63c0374-fc23-424c-a75f-b5b64dbe1fd5",
+    "order_id": "94ca002e-58a0-442e-a5fc-fdfca27a1539",
+    "amount": 1345.44,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-12-09T14:45:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ab1c2798-a523-4a9d-a7d3-42462859b202",
+    "order_id": "0ab2b5f9-6fba-44c4-a8bd-0610d397b56b",
+    "amount": 600.98,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-10-12T18:23:40"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "42f9af69-87b5-4287-add9-ea088bac666e",
+    "order_id": "035d0b78-15ff-4009-a738-cbea6f709f38",
+    "amount": 230.41,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-04-05T21:56:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9c0ab69b-5ae4-4722-a07c-20858f6b91d9",
+    "order_id": "333f774e-4661-41b5-a45a-6d0cf183bf20",
+    "amount": 583.95,
+    "method": "PAYPAL",
+    "event_timestamp": "2023-05-13T05:04:26"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "260f0b49-b4f7-4fa4-ade5-700a825c43aa",
+    "order_id": "7cf3c835-29eb-4c74-a664-18eedc4ee8bd",
+    "amount": 1769.5,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-26T11:38:25"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1efa9f11-b24c-4c75-addb-8ab7742bdecb",
+    "order_id": "55d8f166-3443-4bdb-a4f5-b2f91f44b405",
+    "amount": 950.74,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-03-12T10:01:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "2ff176a0-7328-4be6-ae58-7e550be38546",
+    "order_id": "bb3b04c7-d089-4668-a180-79c904eff2cb",
+    "amount": 1464.25,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2020-10-20T10:13:21"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9e9bea75-2154-4ff7-a1e0-460913649819",
+    "order_id": "b629a55a-368e-40c2-a667-c3144dce5a39",
+    "amount": 416.98,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2024-01-12T21:58:06"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "79d373eb-9b12-43c0-a8de-56b7441177c5",
+    "order_id": "d2ae7efd-0cb2-4013-ab60-6e62e1191965",
+    "amount": 262.02,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-07-11T06:47:01"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "634858a1-fd6d-4786-a5c3-39c8dfe47dd5",
+    "order_id": "b98cc642-38ff-4554-a8ee-c32363bbff82",
+    "amount": 1247.97,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-08-26T05:36:01"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "547b18f6-a864-4896-a5ae-b7aa99e0fd0a",
+    "order_id": "5d7802c9-5397-4b92-a748-434326b320aa",
+    "amount": 2644.8,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-03-21T08:24:55"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d65a3faf-042d-409b-a931-ff70bb313a7b",
+    "order_id": "828929a0-391f-4a38-a470-f22b3ebc1c14",
+    "amount": 2229.55,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-08-20T01:23:55"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d9ad4bb5-9be5-4e6e-a6dc-f4cbbed12124",
+    "order_id": "36f4d4f5-a216-4ba7-a4f4-6ce24bec9720",
+    "amount": 1986.16,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-05-12T22:29:37"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3fd00500-a704-413f-a2ae-2c295b8bf6c3",
+    "order_id": "11dfb2ca-f974-4e5b-a346-9de1bc8121cc",
+    "amount": 1868.82,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2023-04-07T22:56:39"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6c170198-0182-4d06-a361-a90969fadb5d",
+    "order_id": "4d9b07d3-fbf5-4aba-ac3f-9903a6270aa6",
+    "amount": 1235.18,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-09-22T02:32:00"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "40e2d7a0-b347-4f46-a713-d1ba73d68c38",
+    "order_id": "4486ff76-5fc9-4fd5-a365-f1f027e7b20d",
+    "amount": 1063.98,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-09-04T19:38:26"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "ce8a6a56-2cff-450c-ab5b-1cd663ee66c0",
+    "order_id": "069d1b94-408a-4653-a289-c0e8b5ae8795",
+    "amount": 65.78,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2025-09-01T17:24:14"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "3bbbeaab-fcd6-432f-aaa6-4e0acd8e7074",
+    "order_id": "643cb592-98aa-459f-adb9-5fa900f76610",
+    "amount": 1584.24,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-05-25T10:50:09"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "de178764-8bc3-43c6-ad66-3bf32d568633",
+    "order_id": "c066d470-46a2-4f06-a40b-4b095e496449",
+    "amount": 552.39,
+    "method": "PAYPAL",
+    "event_timestamp": "2019-04-08T09:51:24"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "db503546-89e5-462b-ab47-65bc9b08126b",
+    "order_id": "c306f6a9-3e95-4493-a051-289577cc511d",
+    "amount": 592.48,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-11-03T09:52:19"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "efcb4d5f-e3cc-4bf3-a1ec-d849cdcc04f0",
+    "order_id": "09e8e114-6b4e-4692-a381-7e913368ca37",
+    "amount": 743.1,
+    "method": "PAYPAL",
+    "event_timestamp": "2021-03-19T14:36:20"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "d1bb4c7a-61fc-44ac-a25c-e9dc3c3b7568",
+    "order_id": "3d45b616-7f69-4642-ab2f-917de2f11daa",
+    "amount": 3364.5,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2025-03-06T13:32:46"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9fc6a65c-5fac-42e6-a4be-53624c31cd8a",
+    "order_id": "3071ce6e-360d-4edf-a3d5-663971ff8b41",
+    "amount": 1933.08,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2026-09-02T17:19:16"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "5486d4ee-da4a-48ae-ad71-93466e95e9cc",
+    "order_id": "af20ecbb-97d0-478b-a13f-771329267088",
+    "amount": 2712.3,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-07-21T10:45:59"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "8bbe6761-f411-45c6-a37b-3fada5818598",
+    "order_id": "641f2f97-0538-43e1-a78a-ff047f59fc3c",
+    "amount": 1428.68,
+    "method": "PAYPAL",
+    "event_timestamp": "2020-04-06T16:46:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "6b29f563-7dcc-4781-aa13-5fb57643f7a4",
+    "order_id": "9f499454-95b0-4bb5-a0c9-7bbbfbb9e1ac",
+    "amount": 978.9,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2022-05-30T09:56:33"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "9d27aab6-a4c1-4459-acb7-998fabdbab91",
+    "order_id": "16544f3e-40f8-4396-a636-339c34271148",
+    "amount": 831.25,
+    "method": "PAYPAL",
+    "event_timestamp": "2022-12-24T12:26:51"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "4ab15f5d-91c7-47be-a823-360944e820ea",
+    "order_id": "0fce07b2-2f43-4d37-a1cb-3d83f17300d0",
+    "amount": 1458.59,
+    "method": "PAYPAL",
+    "event_timestamp": "2024-03-29T03:29:18"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "62923075-e172-420d-a568-707f20128d9e",
+    "order_id": "b80a4d8b-2793-433e-a25a-e0de2422bb6a",
+    "amount": 1212.6,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-11-08T06:17:54"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "1ec559ce-d0f2-4cde-a5ee-6c2752467156",
+    "order_id": "f8453525-2e14-41ea-ac32-6951a449a58a",
+    "amount": 1069.26,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2023-05-29T08:29:07"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "c1e966a0-a195-4d3d-ac6d-5c3098ee711a",
+    "order_id": "9185bc60-918d-47c0-a9fa-b1002c6cf6ad",
+    "amount": 1491.34,
+    "method": "PAYPAL",
+    "event_timestamp": "2025-09-02T14:40:29"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "aa8952c5-52e2-4602-ac98-32df1cf835a1",
+    "order_id": "26168b21-a819-443c-ae5f-fe249bd90a0c",
+    "amount": 254.11,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-11-23T07:58:12"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "63e2910b-20ae-4087-ada9-8701452045a5",
+    "order_id": "1351d72a-83fc-4d07-a814-0d3d344ffb7d",
+    "amount": 757.56,
+    "method": "CREDIT_CARD",
+    "event_timestamp": "2024-11-04T07:38:48"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "e9fc4d52-3249-49ce-aa17-3f61ab342f6c",
+    "order_id": "c3680031-bfea-4885-a500-b1b450d999b6",
+    "amount": 1936.87,
+    "method": "BANK_TRANSFER",
+    "event_timestamp": "2026-01-04T04:51:02"
+  },
+  {
+    "schema_version": "v1",
+    "payment_id": "02f220ec-1795-4a0f-a550-39288b65759b",
+    "order_id": "eab51c88-9a44-4a44-a1d0-27d15d7728f0",
+    "amount": 414.28,
+    "method": "PAYPAL",
+    "event_timestamp": "2026-05-07T22:53:13"
+  }
+]
