@@ -5,7 +5,7 @@
     "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
     "amount": 2850.6,
     "currency": "USD",
-    "event_timestamp": "2020-11-20T03:00:13"
+    "event_timestamp": "2020-11-20T06:11:43"
   },
   {
     "schema_version": "v2",
@@ -13,7 +13,7 @@
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "amount": 376.7,
     "currency": "USD",
-    "event_timestamp": "2025-06-28T08:01:51"
+    "event_timestamp": "2025-06-28T11:13:21"
   },
   {
     "schema_version": "v2",
@@ -21,7 +21,7 @@
     "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
     "amount": 506.14,
     "currency": "USD",
-    "event_timestamp": "2025-12-16T08:37:07"
+    "event_timestamp": "2025-12-16T11:48:37"
   },
   {
     "schema_version": "v2",
@@ -29,7 +29,7 @@
     "customer_id": "b4d8bca3-7dd5-4ae6-af69-a557073f3ffd",
     "amount": 2114.87,
     "currency": "USD",
-    "event_timestamp": "2023-07-21T00:42:12"
+    "event_timestamp": "2023-07-21T03:53:42"
   },
   {
     "schema_version": "v2",
@@ -37,7 +37,7 @@
     "customer_id": "9fc2c52a-3a0a-4b9e-a54e-b6bfb536528f",
     "amount": 379.55,
     "currency": "USD",
-    "event_timestamp": "2022-09-11T03:16:14"
+    "event_timestamp": "2022-09-11T06:27:44"
   },
   {
     "schema_version": "v2",
@@ -45,7 +45,7 @@
     "customer_id": "22987e62-04f7-472d-aac5-15cb9ee820e4",
     "amount": 829.74,
     "currency": "USD",
-    "event_timestamp": "2023-06-17T07:44:14"
+    "event_timestamp": "2023-06-17T10:55:44"
   },
   {
     "schema_version": "v2",
@@ -53,7 +53,7 @@
     "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
     "amount": 562.67,
     "currency": "USD",
-    "event_timestamp": "2024-05-27T04:23:45"
+    "event_timestamp": "2024-05-27T07:35:15"
   },
   {
     "schema_version": "v2",
@@ -61,7 +61,7 @@
     "customer_id": "af5aa080-d279-4a4d-a4c2-9b4f396c4d49",
     "amount": 1117.48,
     "currency": "USD",
-    "event_timestamp": "2025-01-16T10:30:26"
+    "event_timestamp": "2025-01-16T13:41:56"
   },
   {
     "schema_version": "v2",
@@ -69,7 +69,7 @@
     "customer_id": "d56fdad6-60eb-4419-a3b6-2da18ca52275",
     "amount": 192.88,
     "currency": "USD",
-    "event_timestamp": "2026-06-18T14:19:02"
+    "event_timestamp": "2026-06-18T17:30:32"
   },
   {
     "schema_version": "v2",
@@ -77,7 +77,7 @@
     "customer_id": "446b069f-3548-4090-a4de-7c7c856e9ea3",
     "amount": 1259.66,
     "currency": "USD",
-    "event_timestamp": "2024-06-16T17:00:36"
+    "event_timestamp": "2024-06-16T20:12:06"
   },
   {
     "schema_version": "v2",
@@ -85,7 +85,7 @@
     "customer_id": "e37ed88f-5c5c-4eef-a1c6-6d00e550d894",
     "amount": 2968.87,
     "currency": "USD",
-    "event_timestamp": "2026-08-29T03:11:16"
+    "event_timestamp": "2026-08-29T06:22:46"
   },
   {
     "schema_version": "v2",
@@ -93,7 +93,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 469.98,
     "currency": "USD",
-    "event_timestamp": "2026-01-03T20:29:04"
+    "event_timestamp": "2026-01-03T23:40:34"
   },
   {
     "schema_version": "v2",
@@ -101,7 +101,7 @@
     "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
     "amount": 376.7,
     "currency": "USD",
-    "event_timestamp": "2021-08-06T15:43:54"
+    "event_timestamp": "2021-08-06T18:55:24"
   },
   {
     "schema_version": "v2",
@@ -109,7 +109,7 @@
     "customer_id": "39206b9a-0b6f-4705-a0b6-d22c4efa149d",
     "amount": 1074.1,
     "currency": "USD",
-    "event_timestamp": "2026-07-20T00:00:24"
+    "event_timestamp": "2026-07-20T03:11:54"
   },
   {
     "schema_version": "v2",
@@ -117,7 +117,7 @@
     "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
     "amount": 1464.92,
     "currency": "USD",
-    "event_timestamp": "2025-10-22T20:54:00"
+    "event_timestamp": "2025-10-23T00:05:30"
   },
   {
     "schema_version": "v2",
@@ -125,7 +125,7 @@
     "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
     "amount": 2771.11,
     "currency": "USD",
-    "event_timestamp": "2026-04-14T19:37:51"
+    "event_timestamp": "2026-04-14T22:49:21"
   },
   {
     "schema_version": "v2",
@@ -133,7 +133,7 @@
     "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
     "amount": 1419.92,
     "currency": "USD",
-    "event_timestamp": "2019-04-11T05:12:56"
+    "event_timestamp": "2019-04-11T08:24:26"
   },
   {
     "schema_version": "v2",
@@ -141,7 +141,7 @@
     "customer_id": "3e09f8da-406a-4c02-ac09-326c7ab4a03a",
     "amount": 1466.41,
     "currency": "USD",
-    "event_timestamp": "2026-06-30T09:59:16"
+    "event_timestamp": "2026-06-30T13:10:46"
   },
   {
     "schema_version": "v2",
@@ -149,7 +149,7 @@
     "customer_id": "86b84f32-e8e7-4fc5-af6b-f25eff6d9cf8",
     "amount": 2005.36,
     "currency": "USD",
-    "event_timestamp": "2024-12-02T00:30:21"
+    "event_timestamp": "2024-12-02T03:41:51"
   },
   {
     "schema_version": "v2",
@@ -157,7 +157,7 @@
     "customer_id": "dd9e1dca-0f78-4305-a9b4-355ec562efa1",
     "amount": 1506.41,
     "currency": "USD",
-    "event_timestamp": "2023-01-27T08:06:05"
+    "event_timestamp": "2023-01-27T11:17:35"
   },
   {
     "schema_version": "v2",
@@ -165,7 +165,7 @@
     "customer_id": "e37ed88f-5c5c-4eef-a1c6-6d00e550d894",
     "amount": 1598.61,
     "currency": "USD",
-    "event_timestamp": "2026-06-06T21:25:00"
+    "event_timestamp": "2026-06-07T00:36:30"
   },
   {
     "schema_version": "v2",
@@ -173,7 +173,7 @@
     "customer_id": "e0d43681-e1ee-4f6f-a2ba-0d216cb5fffa",
     "amount": 612.21,
     "currency": "USD",
-    "event_timestamp": "2026-08-14T03:33:33"
+    "event_timestamp": "2026-08-14T06:45:03"
   },
   {
     "schema_version": "v2",
@@ -181,7 +181,7 @@
     "customer_id": "eeb3fcb1-827f-4270-a281-dd15600211ec",
     "amount": 755.01,
     "currency": "USD",
-    "event_timestamp": "2018-11-15T22:14:24"
+    "event_timestamp": "2018-11-16T01:25:54"
   },
   {
     "schema_version": "v2",
@@ -189,7 +189,7 @@
     "customer_id": "31fb3809-0ded-4a28-ae6a-932fcccff107",
     "amount": 106.89,
     "currency": "USD",
-    "event_timestamp": "2024-08-06T04:00:18"
+    "event_timestamp": "2024-08-06T07:11:48"
   },
   {
     "schema_version": "v2",
@@ -197,7 +197,7 @@
     "customer_id": "eeb3fcb1-827f-4270-a281-dd15600211ec",
     "amount": 1621.34,
     "currency": "USD",
-    "event_timestamp": "2019-03-01T21:22:25"
+    "event_timestamp": "2019-03-02T00:33:55"
   },
   {
     "schema_version": "v2",
@@ -205,7 +205,7 @@
     "customer_id": "af5aa080-d279-4a4d-a4c2-9b4f396c4d49",
     "amount": 1663.16,
     "currency": "USD",
-    "event_timestamp": "2019-08-07T11:01:36"
+    "event_timestamp": "2019-08-07T14:13:06"
   },
   {
     "schema_version": "v2",
@@ -213,7 +213,7 @@
     "customer_id": "96d79886-a59b-48fa-afe3-c3144ebecfcc",
     "amount": 1697.7,
     "currency": "USD",
-    "event_timestamp": "2026-08-27T01:11:48"
+    "event_timestamp": "2026-08-27T04:23:18"
   },
   {
     "schema_version": "v2",
@@ -221,7 +221,7 @@
     "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
     "amount": 1849.24,
     "currency": "USD",
-    "event_timestamp": "2025-10-24T21:57:46"
+    "event_timestamp": "2025-10-25T01:09:16"
   },
   {
     "schema_version": "v2",
@@ -229,7 +229,7 @@
     "customer_id": "54882d68-7a51-4f6c-ae32-fd7128f963a2",
     "amount": 197.34,
     "currency": "USD",
-    "event_timestamp": "2024-08-09T19:46:28"
+    "event_timestamp": "2024-08-09T22:57:58"
   },
   {
     "schema_version": "v2",
@@ -237,7 +237,7 @@
     "customer_id": "177e363f-807b-41eb-a47a-5e92c213c7f1",
     "amount": 166.73,
     "currency": "USD",
-    "event_timestamp": "2026-08-18T01:25:46"
+    "event_timestamp": "2026-08-18T04:37:16"
   },
   {
     "schema_version": "v2",
@@ -245,7 +245,7 @@
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "amount": 483.95,
     "currency": "USD",
-    "event_timestamp": "2026-05-07T10:11:55"
+    "event_timestamp": "2026-05-07T13:23:25"
   },
   {
     "schema_version": "v2",
@@ -253,7 +253,7 @@
     "customer_id": "b14f5282-cf3f-458c-a10b-8207c636c1c3",
     "amount": 2982.94,
     "currency": "USD",
-    "event_timestamp": "2025-11-11T20:07:49"
+    "event_timestamp": "2025-11-11T23:19:19"
   },
   {
     "schema_version": "v2",
@@ -261,7 +261,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 1509.43,
     "currency": "USD",
-    "event_timestamp": "2024-06-03T10:45:45"
+    "event_timestamp": "2024-06-03T13:57:15"
   },
   {
     "schema_version": "v2",
@@ -269,7 +269,7 @@
     "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
     "amount": 2211.56,
     "currency": "USD",
-    "event_timestamp": "2021-01-02T05:23:01"
+    "event_timestamp": "2021-01-02T08:34:31"
   },
   {
     "schema_version": "v2",
@@ -277,7 +277,7 @@
     "customer_id": "a52000c4-0ca4-458f-a0e0-ff57affcc7ab",
     "amount": 966.46,
     "currency": "USD",
-    "event_timestamp": "2025-06-22T22:21:03"
+    "event_timestamp": "2025-06-23T01:32:33"
   },
   {
     "schema_version": "v2",
@@ -285,7 +285,7 @@
     "customer_id": "0418883f-a6f5-4b17-a542-615ea8690180",
     "amount": 775.44,
     "currency": "USD",
-    "event_timestamp": "2019-02-23T09:35:47"
+    "event_timestamp": "2019-02-23T12:47:17"
   },
   {
     "schema_version": "v2",
@@ -293,7 +293,7 @@
     "customer_id": "b14f5282-cf3f-458c-a10b-8207c636c1c3",
     "amount": 1701.0,
     "currency": "USD",
-    "event_timestamp": "2025-12-24T23:38:26"
+    "event_timestamp": "2025-12-25T02:49:56"
   },
   {
     "schema_version": "v2",
@@ -301,7 +301,7 @@
     "customer_id": "eeb3fcb1-827f-4270-a281-dd15600211ec",
     "amount": 507.34,
     "currency": "USD",
-    "event_timestamp": "2024-04-22T15:45:26"
+    "event_timestamp": "2024-04-22T18:56:56"
   },
   {
     "schema_version": "v2",
@@ -309,7 +309,7 @@
     "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
     "amount": 1116.56,
     "currency": "USD",
-    "event_timestamp": "2025-05-15T09:59:07"
+    "event_timestamp": "2025-05-15T13:10:37"
   },
   {
     "schema_version": "v2",
@@ -317,7 +317,7 @@
     "customer_id": "70d40298-19d3-4d3a-a4b4-adf07f77c8e9",
     "amount": 144.34,
     "currency": "USD",
-    "event_timestamp": "2025-09-05T00:04:54"
+    "event_timestamp": "2025-09-05T03:16:24"
   },
   {
     "schema_version": "v2",
@@ -325,7 +325,7 @@
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "amount": 2928.28,
     "currency": "USD",
-    "event_timestamp": "2025-05-01T09:19:23"
+    "event_timestamp": "2025-05-01T12:30:53"
   },
   {
     "schema_version": "v2",
@@ -333,7 +333,7 @@
     "customer_id": "54882d68-7a51-4f6c-ae32-fd7128f963a2",
     "amount": 277.73,
     "currency": "USD",
-    "event_timestamp": "2025-12-01T14:59:45"
+    "event_timestamp": "2025-12-01T18:11:15"
   },
   {
     "schema_version": "v2",
@@ -341,7 +341,7 @@
     "customer_id": "e0d43681-e1ee-4f6f-a2ba-0d216cb5fffa",
     "amount": 1893.21,
     "currency": "USD",
-    "event_timestamp": "2026-08-22T06:35:21"
+    "event_timestamp": "2026-08-22T09:46:51"
   },
   {
     "schema_version": "v2",
@@ -349,7 +349,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 371.34,
     "currency": "USD",
-    "event_timestamp": "2026-06-12T23:04:04"
+    "event_timestamp": "2026-06-13T02:15:34"
   },
   {
     "schema_version": "v2",
@@ -357,7 +357,7 @@
     "customer_id": "53f5ceef-a1e7-4d05-abf3-f4676e84ccb6",
     "amount": 683.94,
     "currency": "USD",
-    "event_timestamp": "2021-04-29T12:12:56"
+    "event_timestamp": "2021-04-29T15:24:26"
   },
   {
     "schema_version": "v2",
@@ -365,7 +365,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 563.02,
     "currency": "USD",
-    "event_timestamp": "2025-08-26T05:33:15"
+    "event_timestamp": "2025-08-26T08:44:45"
   },
   {
     "schema_version": "v2",
@@ -373,7 +373,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 1048.79,
     "currency": "USD",
-    "event_timestamp": "2024-12-15T00:19:05"
+    "event_timestamp": "2024-12-15T03:30:35"
   },
   {
     "schema_version": "v2",
@@ -381,7 +381,7 @@
     "customer_id": "8cab6725-7e90-4b81-a9d8-324cf10d2ebd",
     "amount": 976.16,
     "currency": "USD",
-    "event_timestamp": "2025-08-24T22:16:09"
+    "event_timestamp": "2025-08-25T01:27:39"
   },
   {
     "schema_version": "v2",
@@ -389,7 +389,7 @@
     "customer_id": "d56fdad6-60eb-4419-a3b6-2da18ca52275",
     "amount": 1261.11,
     "currency": "USD",
-    "event_timestamp": "2026-05-23T14:43:04"
+    "event_timestamp": "2026-05-23T17:54:34"
   },
   {
     "schema_version": "v2",
@@ -397,7 +397,7 @@
     "customer_id": "6daab15a-cc4b-4aa3-acf6-04fb20dc5737",
     "amount": 2214.47,
     "currency": "USD",
-    "event_timestamp": "2025-07-11T23:43:47"
+    "event_timestamp": "2025-07-12T02:55:17"
   },
   {
     "schema_version": "v2",
@@ -405,7 +405,7 @@
     "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
     "amount": 227.98,
     "currency": "USD",
-    "event_timestamp": "2026-01-23T16:10:20"
+    "event_timestamp": "2026-01-23T19:21:50"
   },
   {
     "schema_version": "v2",
@@ -413,7 +413,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 1852.13,
     "currency": "USD",
-    "event_timestamp": "2023-12-20T12:57:21"
+    "event_timestamp": "2023-12-20T16:08:51"
   },
   {
     "schema_version": "v2",
@@ -421,7 +421,7 @@
     "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
     "amount": 135.31,
     "currency": "USD",
-    "event_timestamp": "2025-03-12T07:51:13"
+    "event_timestamp": "2025-03-12T11:02:43"
   },
   {
     "schema_version": "v2",
@@ -429,7 +429,7 @@
     "customer_id": "6daab15a-cc4b-4aa3-acf6-04fb20dc5737",
     "amount": 638.8,
     "currency": "USD",
-    "event_timestamp": "2024-04-06T05:09:17"
+    "event_timestamp": "2024-04-06T08:20:47"
   },
   {
     "schema_version": "v2",
@@ -437,7 +437,7 @@
     "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
     "amount": 496.21,
     "currency": "USD",
-    "event_timestamp": "2021-02-15T01:06:45"
+    "event_timestamp": "2021-02-15T04:18:15"
   },
   {
     "schema_version": "v2",
@@ -445,7 +445,7 @@
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "amount": 1690.16,
     "currency": "USD",
-    "event_timestamp": "2025-01-22T22:02:03"
+    "event_timestamp": "2025-01-23T01:13:33"
   },
   {
     "schema_version": "v2",
@@ -453,7 +453,7 @@
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "amount": 2486.61,
     "currency": "USD",
-    "event_timestamp": "2025-09-05T09:28:27"
+    "event_timestamp": "2025-09-05T12:39:57"
   },
   {
     "schema_version": "v2",
@@ -461,7 +461,7 @@
     "customer_id": "23e58bed-ff84-4dc5-a9aa-2d3f5cb904ef",
     "amount": 978.47,
     "currency": "USD",
-    "event_timestamp": "2017-12-25T21:36:04"
+    "event_timestamp": "2017-12-26T00:47:34"
   },
   {
     "schema_version": "v2",
@@ -469,7 +469,7 @@
     "customer_id": "085c0f4e-0ab0-4289-ab87-aee84926c399",
     "amount": 430.79,
     "currency": "USD",
-    "event_timestamp": "2024-01-06T00:47:37"
+    "event_timestamp": "2024-01-06T03:59:07"
   },
   {
     "schema_version": "v2",
@@ -477,7 +477,7 @@
     "customer_id": "8cab6725-7e90-4b81-a9d8-324cf10d2ebd",
     "amount": 374.62,
     "currency": "USD",
-    "event_timestamp": "2018-02-27T12:09:22"
+    "event_timestamp": "2018-02-27T15:20:52"
   },
   {
     "schema_version": "v2",
@@ -485,7 +485,7 @@
     "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
     "amount": 336.24,
     "currency": "USD",
-    "event_timestamp": "2020-11-18T18:42:47"
+    "event_timestamp": "2020-11-18T21:54:17"
   },
   {
     "schema_version": "v2",
@@ -493,7 +493,7 @@
     "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
     "amount": 883.8,
     "currency": "USD",
-    "event_timestamp": "2024-07-14T23:20:13"
+    "event_timestamp": "2024-07-15T02:31:43"
   },
   {
     "schema_version": "v2",
@@ -501,7 +501,7 @@
     "customer_id": "81c0df43-5a84-4f43-af93-31fc45954f5d",
     "amount": 2620.57,
     "currency": "USD",
-    "event_timestamp": "2024-02-16T04:44:10"
+    "event_timestamp": "2024-02-16T07:55:40"
   },
   {
     "schema_version": "v2",
@@ -509,7 +509,7 @@
     "customer_id": "938a8043-48f2-4357-a5b5-04e27025a799",
     "amount": 1941.68,
     "currency": "USD",
-    "event_timestamp": "2024-10-07T11:57:07"
+    "event_timestamp": "2024-10-07T15:08:37"
   },
   {
     "schema_version": "v2",
@@ -517,7 +517,7 @@
     "customer_id": "d316616a-da43-4c5a-a6a6-49776cdcf905",
     "amount": 1177.08,
     "currency": "USD",
-    "event_timestamp": "2022-08-10T16:26:35"
+    "event_timestamp": "2022-08-10T19:38:05"
   },
   {
     "schema_version": "v2",
@@ -525,7 +525,7 @@
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "amount": 1008.54,
     "currency": "USD",
-    "event_timestamp": "2025-05-09T04:44:18"
+    "event_timestamp": "2025-05-09T07:55:48"
   },
   {
     "schema_version": "v2",
@@ -533,7 +533,7 @@
     "customer_id": "c4b8a5fd-1adb-4e83-aee2-2a999e787a42",
     "amount": 1631.96,
     "currency": "USD",
-    "event_timestamp": "2024-11-18T05:10:21"
+    "event_timestamp": "2024-11-18T08:21:51"
   },
   {
     "schema_version": "v2",
@@ -541,7 +541,7 @@
     "customer_id": "446b069f-3548-4090-a4de-7c7c856e9ea3",
     "amount": 355.05,
     "currency": "USD",
-    "event_timestamp": "2020-09-21T11:50:52"
+    "event_timestamp": "2020-09-21T15:02:22"
   },
   {
     "schema_version": "v2",
@@ -549,7 +549,7 @@
     "customer_id": "0418883f-a6f5-4b17-a542-615ea8690180",
     "amount": 1130.1,
     "currency": "USD",
-    "event_timestamp": "2022-01-20T00:41:52"
+    "event_timestamp": "2022-01-20T03:53:22"
   },
   {
     "schema_version": "v2",
@@ -557,7 +557,7 @@
     "customer_id": "31fb3809-0ded-4a28-ae6a-932fcccff107",
     "amount": 230.41,
     "currency": "USD",
-    "event_timestamp": "2023-04-11T15:51:52"
+    "event_timestamp": "2023-04-11T19:03:22"
   },
   {
     "schema_version": "v2",
@@ -565,7 +565,7 @@
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "amount": 2747.7,
     "currency": "USD",
-    "event_timestamp": "2025-11-22T20:44:03"
+    "event_timestamp": "2025-11-22T23:55:33"
   },
   {
     "schema_version": "v2",
@@ -573,7 +573,7 @@
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "amount": 2574.03,
     "currency": "USD",
-    "event_timestamp": "2025-06-04T22:37:30"
+    "event_timestamp": "2025-06-05T01:49:00"
   },
   {
     "schema_version": "v2",
@@ -581,7 +581,7 @@
     "customer_id": "3200b5b0-7162-4924-a708-b8a910e983f6",
     "amount": 1950.73,
     "currency": "USD",
-    "event_timestamp": "2026-08-11T19:13:29"
+    "event_timestamp": "2026-08-11T22:24:59"
   },
   {
     "schema_version": "v2",
@@ -589,7 +589,7 @@
     "customer_id": "085c0f4e-0ab0-4289-ab87-aee84926c399",
     "amount": 365.75,
     "currency": "USD",
-    "event_timestamp": "2025-09-26T01:21:09"
+    "event_timestamp": "2025-09-26T04:32:39"
   },
   {
     "schema_version": "v2",
@@ -597,7 +597,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 2059.88,
     "currency": "USD",
-    "event_timestamp": "2021-09-13T07:02:03"
+    "event_timestamp": "2021-09-13T10:13:33"
   },
   {
     "schema_version": "v2",
@@ -605,7 +605,7 @@
     "customer_id": "70d40298-19d3-4d3a-a4b4-adf07f77c8e9",
     "amount": 1122.65,
     "currency": "USD",
-    "event_timestamp": "2025-03-23T19:07:40"
+    "event_timestamp": "2025-03-23T22:19:10"
   },
   {
     "schema_version": "v2",
@@ -613,7 +613,7 @@
     "customer_id": "b82d395d-3ef4-4fee-af49-48a32fde8c4a",
     "amount": 1770.91,
     "currency": "USD",
-    "event_timestamp": "2026-08-31T04:47:18"
+    "event_timestamp": "2026-08-31T07:58:48"
   },
   {
     "schema_version": "v2",
@@ -621,7 +621,7 @@
     "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
     "amount": 224.16,
     "currency": "USD",
-    "event_timestamp": "2024-02-25T05:57:28"
+    "event_timestamp": "2024-02-25T09:08:58"
   },
   {
     "schema_version": "v2",
@@ -629,7 +629,7 @@
     "customer_id": "b861e15e-937c-4ae1-aeac-152b1c4a8dc1",
     "amount": 1338.41,
     "currency": "USD",
-    "event_timestamp": "2025-02-04T17:21:34"
+    "event_timestamp": "2025-02-04T20:33:04"
   },
   {
     "schema_version": "v2",
@@ -637,7 +637,7 @@
     "customer_id": "61db11b5-ea47-406e-ab35-a68d0da84a93",
     "amount": 472.68,
     "currency": "USD",
-    "event_timestamp": "2021-09-11T08:36:40"
+    "event_timestamp": "2021-09-11T11:48:10"
   },
   {
     "schema_version": "v2",
@@ -645,7 +645,7 @@
     "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
     "amount": 1486.73,
     "currency": "USD",
-    "event_timestamp": "2024-12-16T15:35:57"
+    "event_timestamp": "2024-12-16T18:47:27"
   },
   {
     "schema_version": "v2",
@@ -653,7 +653,7 @@
     "customer_id": "3200b5b0-7162-4924-a708-b8a910e983f6",
     "amount": 178.35,
     "currency": "USD",
-    "event_timestamp": "2026-08-30T10:57:23"
+    "event_timestamp": "2026-08-30T14:08:53"
   },
   {
     "schema_version": "v2",
@@ -661,7 +661,7 @@
     "customer_id": "2aeb4bc5-5360-4733-a48e-f9cecf2451b6",
     "amount": 623.46,
     "currency": "USD",
-    "event_timestamp": "2025-08-20T20:53:51"
+    "event_timestamp": "2025-08-21T00:05:21"
   },
   {
     "schema_version": "v2",
@@ -669,7 +669,7 @@
     "customer_id": "142aa2cc-a993-43e5-a52e-750e5fe63b02",
     "amount": 336.18,
     "currency": "USD",
-    "event_timestamp": "2026-02-15T00:52:36"
+    "event_timestamp": "2026-02-15T04:04:06"
   },
   {
     "schema_version": "v2",
@@ -677,7 +677,7 @@
     "customer_id": "28f70b22-694f-4ea6-a824-46cd5acf2e4f",
     "amount": 145.11,
     "currency": "USD",
-    "event_timestamp": "2024-07-26T10:08:44"
+    "event_timestamp": "2024-07-26T13:20:14"
   },
   {
     "schema_version": "v2",
@@ -685,7 +685,7 @@
     "customer_id": "3e09f8da-406a-4c02-ac09-326c7ab4a03a",
     "amount": 803.7,
     "currency": "USD",
-    "event_timestamp": "2026-08-05T22:16:04"
+    "event_timestamp": "2026-08-06T01:27:34"
   },
   {
     "schema_version": "v2",
@@ -693,7 +693,7 @@
     "customer_id": "862a5183-91fc-4ee8-ade5-13b76f5be038",
     "amount": 472.68,
     "currency": "USD",
-    "event_timestamp": "2025-05-02T21:08:58"
+    "event_timestamp": "2025-05-03T00:20:28"
   },
   {
     "schema_version": "v2",
@@ -701,7 +701,7 @@
     "customer_id": "cd568a51-3a46-468b-a329-ff19e778f501",
     "amount": 1390.26,
     "currency": "USD",
-    "event_timestamp": "2025-10-22T13:41:04"
+    "event_timestamp": "2025-10-22T16:52:34"
   },
   {
     "schema_version": "v2",
@@ -709,7 +709,7 @@
     "customer_id": "0418883f-a6f5-4b17-a542-615ea8690180",
     "amount": 41.65,
     "currency": "USD",
-    "event_timestamp": "2019-05-03T10:00:06"
+    "event_timestamp": "2019-05-03T13:11:36"
   },
   {
     "schema_version": "v2",
@@ -717,7 +717,7 @@
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "amount": 967.96,
     "currency": "USD",
-    "event_timestamp": "2026-06-23T15:18:58"
+    "event_timestamp": "2026-06-23T18:30:28"
   },
   {
     "schema_version": "v2",
@@ -725,7 +725,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 2092.15,
     "currency": "USD",
-    "event_timestamp": "2020-05-29T18:11:25"
+    "event_timestamp": "2020-05-29T21:22:55"
   },
   {
     "schema_version": "v2",
@@ -733,7 +733,7 @@
     "customer_id": "6daab15a-cc4b-4aa3-acf6-04fb20dc5737",
     "amount": 2788.61,
     "currency": "USD",
-    "event_timestamp": "2021-09-02T13:21:15"
+    "event_timestamp": "2021-09-02T16:32:45"
   },
   {
     "schema_version": "v2",
@@ -741,7 +741,7 @@
     "customer_id": "31fb3809-0ded-4a28-ae6a-932fcccff107",
     "amount": 1033.47,
     "currency": "USD",
-    "event_timestamp": "2026-03-25T17:21:37"
+    "event_timestamp": "2026-03-25T20:33:07"
   },
   {
     "schema_version": "v2",
@@ -749,7 +749,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 2869.85,
     "currency": "USD",
-    "event_timestamp": "2018-09-16T12:28:22"
+    "event_timestamp": "2018-09-16T15:39:52"
   },
   {
     "schema_version": "v2",
@@ -757,7 +757,7 @@
     "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
     "amount": 1192.17,
     "currency": "USD",
-    "event_timestamp": "2025-08-30T13:09:30"
+    "event_timestamp": "2025-08-30T16:21:00"
   },
   {
     "schema_version": "v2",
@@ -765,7 +765,7 @@
     "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
     "amount": 21.39,
     "currency": "USD",
-    "event_timestamp": "2025-10-30T04:51:53"
+    "event_timestamp": "2025-10-30T08:03:23"
   },
   {
     "schema_version": "v2",
@@ -773,7 +773,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 42.78,
     "currency": "USD",
-    "event_timestamp": "2025-04-18T22:24:16"
+    "event_timestamp": "2025-04-19T01:35:46"
   },
   {
     "schema_version": "v2",
@@ -781,7 +781,7 @@
     "customer_id": "86b84f32-e8e7-4fc5-af6b-f25eff6d9cf8",
     "amount": 1898.75,
     "currency": "USD",
-    "event_timestamp": "2026-01-29T02:18:02"
+    "event_timestamp": "2026-01-29T05:29:32"
   },
   {
     "schema_version": "v2",
@@ -789,7 +789,7 @@
     "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
     "amount": 1413.3,
     "currency": "USD",
-    "event_timestamp": "2024-03-30T13:59:10"
+    "event_timestamp": "2024-03-30T17:10:40"
   },
   {
     "schema_version": "v2",
@@ -797,7 +797,7 @@
     "customer_id": "c4b8a5fd-1adb-4e83-aee2-2a999e787a42",
     "amount": 1555.1,
     "currency": "USD",
-    "event_timestamp": "2024-09-04T17:43:17"
+    "event_timestamp": "2024-09-04T20:54:47"
   },
   {
     "schema_version": "v2",
@@ -805,7 +805,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 2272.35,
     "currency": "USD",
-    "event_timestamp": "2025-12-26T04:17:42"
+    "event_timestamp": "2025-12-26T07:29:12"
   },
   {
     "schema_version": "v2",
@@ -813,7 +813,7 @@
     "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
     "amount": 1416.45,
     "currency": "USD",
-    "event_timestamp": "2026-02-02T06:02:09"
+    "event_timestamp": "2026-02-02T09:13:39"
   },
   {
     "schema_version": "v2",
@@ -821,7 +821,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 2662.66,
     "currency": "USD",
-    "event_timestamp": "2026-07-28T12:49:11"
+    "event_timestamp": "2026-07-28T16:00:41"
   },
   {
     "schema_version": "v2",
@@ -829,7 +829,7 @@
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "amount": 961.35,
     "currency": "USD",
-    "event_timestamp": "2025-12-12T03:48:39"
+    "event_timestamp": "2025-12-12T07:00:09"
   },
   {
     "schema_version": "v2",
@@ -837,7 +837,7 @@
     "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
     "amount": 1935.94,
     "currency": "USD",
-    "event_timestamp": "2022-07-07T15:10:42"
+    "event_timestamp": "2022-07-07T18:22:12"
   },
   {
     "schema_version": "v2",
@@ -845,7 +845,7 @@
     "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
     "amount": 1998.18,
     "currency": "USD",
-    "event_timestamp": "2024-11-09T12:29:59"
+    "event_timestamp": "2024-11-09T15:41:29"
   },
   {
     "schema_version": "v2",
@@ -853,7 +853,7 @@
     "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
     "amount": 692.88,
     "currency": "USD",
-    "event_timestamp": "2024-06-14T14:07:20"
+    "event_timestamp": "2024-06-14T17:18:50"
   },
   {
     "schema_version": "v2",
@@ -861,7 +861,7 @@
     "customer_id": "96d79886-a59b-48fa-afe3-c3144ebecfcc",
     "amount": 2073.87,
     "currency": "USD",
-    "event_timestamp": "2025-10-26T03:56:49"
+    "event_timestamp": "2025-10-26T07:08:19"
   },
   {
     "schema_version": "v2",
@@ -869,7 +869,7 @@
     "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
     "amount": 2035.72,
     "currency": "USD",
-    "event_timestamp": "2021-08-17T09:29:01"
+    "event_timestamp": "2021-08-17T12:40:31"
   },
   {
     "schema_version": "v2",
@@ -877,7 +877,7 @@
     "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
     "amount": 1664.31,
     "currency": "USD",
-    "event_timestamp": "2022-07-17T23:54:38"
+    "event_timestamp": "2022-07-18T03:06:08"
   },
   {
     "schema_version": "v2",
@@ -885,7 +885,7 @@
     "customer_id": "eeb3fcb1-827f-4270-a281-dd15600211ec",
     "amount": 416.98,
     "currency": "USD",
-    "event_timestamp": "2026-03-08T16:51:42"
+    "event_timestamp": "2026-03-08T20:03:12"
   },
   {
     "schema_version": "v2",
@@ -893,7 +893,7 @@
     "customer_id": "177e363f-807b-41eb-a47a-5e92c213c7f1",
     "amount": 230.41,
     "currency": "USD",
-    "event_timestamp": "2018-10-21T14:34:43"
+    "event_timestamp": "2018-10-21T17:46:13"
   },
   {
     "schema_version": "v2",
@@ -901,7 +901,7 @@
     "customer_id": "b861e15e-937c-4ae1-aeac-152b1c4a8dc1",
     "amount": 2069.1,
     "currency": "USD",
-    "event_timestamp": "2023-08-21T05:25:38"
+    "event_timestamp": "2023-08-21T08:37:08"
   },
   {
     "schema_version": "v2",
@@ -909,7 +909,7 @@
     "customer_id": "7702b3f3-54fd-49c0-a3d4-3a43ba89153c",
     "amount": 2301.32,
     "currency": "USD",
-    "event_timestamp": "2026-07-24T08:03:21"
+    "event_timestamp": "2026-07-24T11:14:51"
   },
   {
     "schema_version": "v2",
@@ -917,7 +917,7 @@
     "customer_id": "862a5183-91fc-4ee8-ade5-13b76f5be038",
     "amount": 710.1,
     "currency": "USD",
-    "event_timestamp": "2025-07-23T05:25:07"
+    "event_timestamp": "2025-07-23T08:36:37"
   },
   {
     "schema_version": "v2",
@@ -925,7 +925,7 @@
     "customer_id": "c4b8a5fd-1adb-4e83-aee2-2a999e787a42",
     "amount": 1172.4,
     "currency": "USD",
-    "event_timestamp": "2025-06-28T03:04:52"
+    "event_timestamp": "2025-06-28T06:16:22"
   },
   {
     "schema_version": "v2",
@@ -933,7 +933,7 @@
     "customer_id": "415b6990-d066-4bd4-a788-01ff6c0be6a6",
     "amount": 433.02,
     "currency": "USD",
-    "event_timestamp": "2026-02-24T06:51:30"
+    "event_timestamp": "2026-02-24T10:03:00"
   },
   {
     "schema_version": "v2",
@@ -941,7 +941,7 @@
     "customer_id": "5da69a06-7834-421e-a8d4-576db96c82be",
     "amount": 516.32,
     "currency": "USD",
-    "event_timestamp": "2017-01-29T17:44:35"
+    "event_timestamp": "2017-01-29T20:56:05"
   },
   {
     "schema_version": "v2",
@@ -949,7 +949,7 @@
     "customer_id": "44d556a9-f5a3-436d-a1bb-44e7aaf5f686",
     "amount": 557.26,
     "currency": "USD",
-    "event_timestamp": "2025-10-29T02:29:31"
+    "event_timestamp": "2025-10-29T05:41:01"
   },
   {
     "schema_version": "v2",
@@ -957,7 +957,7 @@
     "customer_id": "6daab15a-cc4b-4aa3-acf6-04fb20dc5737",
     "amount": 1213.88,
     "currency": "USD",
-    "event_timestamp": "2023-05-25T00:55:35"
+    "event_timestamp": "2023-05-25T04:07:05"
   },
   {
     "schema_version": "v2",
@@ -965,7 +965,7 @@
     "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
     "amount": 1627.58,
     "currency": "USD",
-    "event_timestamp": "2023-04-08T09:08:19"
+    "event_timestamp": "2023-04-08T12:19:49"
   },
   {
     "schema_version": "v2",
@@ -973,7 +973,7 @@
     "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
     "amount": 3034.91,
     "currency": "USD",
-    "event_timestamp": "2018-08-27T12:25:28"
+    "event_timestamp": "2018-08-27T15:36:58"
   },
   {
     "schema_version": "v2",
@@ -981,7 +981,7 @@
     "customer_id": "22987e62-04f7-472d-aac5-15cb9ee820e4",
     "amount": 1800.67,
     "currency": "USD",
-    "event_timestamp": "2017-09-03T08:01:09"
+    "event_timestamp": "2017-09-03T11:12:39"
   },
   {
     "schema_version": "v2",
@@ -989,7 +989,7 @@
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "amount": 1111.62,
     "currency": "USD",
-    "event_timestamp": "2024-08-25T15:02:37"
+    "event_timestamp": "2024-08-25T18:14:07"
   },
   {
     "schema_version": "v2",
@@ -997,7 +997,7 @@
     "customer_id": "15fd5efc-afec-4bdb-a591-18a670adf72d",
     "amount": 1426.16,
     "currency": "USD",
-    "event_timestamp": "2022-02-14T10:06:03"
+    "event_timestamp": "2022-02-14T13:17:33"
   },
   {
     "schema_version": "v2",
@@ -1005,7 +1005,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 1630.73,
     "currency": "USD",
-    "event_timestamp": "2020-08-06T05:54:19"
+    "event_timestamp": "2020-08-06T09:05:49"
   },
   {
     "schema_version": "v2",
@@ -1013,7 +1013,7 @@
     "customer_id": "177e363f-807b-41eb-a47a-5e92c213c7f1",
     "amount": 299.39,
     "currency": "USD",
-    "event_timestamp": "2017-08-21T07:01:30"
+    "event_timestamp": "2017-08-21T10:13:00"
   },
   {
     "schema_version": "v2",
@@ -1021,7 +1021,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 1431.39,
     "currency": "USD",
-    "event_timestamp": "2026-02-07T22:36:57"
+    "event_timestamp": "2026-02-08T01:48:27"
   },
   {
     "schema_version": "v2",
@@ -1029,7 +1029,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 1608.19,
     "currency": "USD",
-    "event_timestamp": "2025-08-03T18:05:33"
+    "event_timestamp": "2025-08-03T21:17:03"
   },
   {
     "schema_version": "v2",
@@ -1037,7 +1037,7 @@
     "customer_id": "eeb3fcb1-827f-4270-a281-dd15600211ec",
     "amount": 2865.53,
     "currency": "USD",
-    "event_timestamp": "2020-03-15T08:04:56"
+    "event_timestamp": "2020-03-15T11:16:26"
   },
   {
     "schema_version": "v2",
@@ -1045,7 +1045,7 @@
     "customer_id": "31fb3809-0ded-4a28-ae6a-932fcccff107",
     "amount": 289.32,
     "currency": "USD",
-    "event_timestamp": "2024-05-22T07:56:40"
+    "event_timestamp": "2024-05-22T11:08:10"
   },
   {
     "schema_version": "v2",
@@ -1053,7 +1053,7 @@
     "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
     "amount": 472.68,
     "currency": "USD",
-    "event_timestamp": "2021-06-18T01:57:55"
+    "event_timestamp": "2021-06-18T05:09:25"
   },
   {
     "schema_version": "v2",
@@ -1061,7 +1061,7 @@
     "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
     "amount": 1513.78,
     "currency": "USD",
-    "event_timestamp": "2023-11-27T08:25:32"
+    "event_timestamp": "2023-11-27T11:37:02"
   },
   {
     "schema_version": "v2",
@@ -1069,7 +1069,7 @@
     "customer_id": "6298085e-684b-4de0-a6ff-823bd471d3c5",
     "amount": 230.41,
     "currency": "USD",
-    "event_timestamp": "2022-10-08T18:54:14"
+    "event_timestamp": "2022-10-08T22:05:44"
   },
   {
     "schema_version": "v2",
@@ -1077,7 +1077,7 @@
     "customer_id": "28f70b22-694f-4ea6-a824-46cd5acf2e4f",
     "amount": 1565.63,
     "currency": "USD",
-    "event_timestamp": "2025-12-13T22:45:55"
+    "event_timestamp": "2025-12-14T01:57:25"
   },
   {
     "schema_version": "v2",
@@ -1085,7 +1085,7 @@
     "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
     "amount": 2132.6,
     "currency": "USD",
-    "event_timestamp": "2021-11-09T23:42:33"
+    "event_timestamp": "2021-11-10T02:54:03"
   },
   {
     "schema_version": "v2",
@@ -1093,7 +1093,7 @@
     "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
     "amount": 2391.32,
     "currency": "USD",
-    "event_timestamp": "2025-01-03T22:43:14"
+    "event_timestamp": "2025-01-04T01:54:44"
   },
   {
     "schema_version": "v2",
@@ -1101,7 +1101,7 @@
     "customer_id": "990cf566-7659-4327-a78b-36e8d3ccab83",
     "amount": 1915.77,
     "currency": "USD",
-    "event_timestamp": "2026-06-23T20:44:12"
+    "event_timestamp": "2026-06-23T23:55:42"
   },
   {
     "schema_version": "v2",
@@ -1109,7 +1109,7 @@
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "amount": 2994.27,
     "currency": "USD",
-    "event_timestamp": "2023-10-23T06:17:55"
+    "event_timestamp": "2023-10-23T09:29:25"
   },
   {
     "schema_version": "v2",
@@ -1117,7 +1117,7 @@
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "amount": 712.84,
     "currency": "USD",
-    "event_timestamp": "2024-11-27T22:31:43"
+    "event_timestamp": "2024-11-28T01:43:13"
   },
   {
     "schema_version": "v2",
@@ -1125,7 +1125,7 @@
     "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
     "amount": 1427.52,
     "currency": "USD",
-    "event_timestamp": "2024-08-13T23:18:58"
+    "event_timestamp": "2024-08-14T02:30:28"
   },
   {
     "schema_version": "v2",
@@ -1133,7 +1133,7 @@
     "customer_id": "b861e15e-937c-4ae1-aeac-152b1c4a8dc1",
     "amount": 2462.05,
     "currency": "USD",
-    "event_timestamp": "2024-07-04T04:42:05"
+    "event_timestamp": "2024-07-04T07:53:35"
   },
   {
     "schema_version": "v2",
@@ -1141,7 +1141,7 @@
     "customer_id": "c4b8a5fd-1adb-4e83-aee2-2a999e787a42",
     "amount": 983.65,
     "currency": "USD",
-    "event_timestamp": "2024-02-27T15:40:33"
+    "event_timestamp": "2024-02-27T18:52:03"
   },
   {
     "schema_version": "v2",
@@ -1149,7 +1149,7 @@
     "customer_id": "177e363f-807b-41eb-a47a-5e92c213c7f1",
     "amount": 802.93,
     "currency": "USD",
-    "event_timestamp": "2019-04-28T14:30:32"
+    "event_timestamp": "2019-04-28T17:42:02"
   },
   {
     "schema_version": "v2",
@@ -1157,7 +1157,7 @@
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "amount": 1435.5,
     "currency": "USD",
-    "event_timestamp": "2026-07-17T13:17:58"
+    "event_timestamp": "2026-07-17T16:29:28"
   },
   {
     "schema_version": "v2",
@@ -1165,7 +1165,7 @@
     "customer_id": "b14f5282-cf3f-458c-a10b-8207c636c1c3",
     "amount": 1065.15,
     "currency": "USD",
-    "event_timestamp": "2026-08-27T07:30:12"
+    "event_timestamp": "2026-08-27T10:41:42"
   },
   {
     "schema_version": "v2",
@@ -1173,7 +1173,7 @@
     "customer_id": "8614332f-9208-4636-abbb-51cd8e960563",
     "amount": 500.54,
     "currency": "USD",
-    "event_timestamp": "2023-12-13T21:33:03"
+    "event_timestamp": "2023-12-14T00:44:33"
   },
   {
     "schema_version": "v2",
@@ -1181,7 +1181,7 @@
     "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
     "amount": 1492.88,
     "currency": "USD",
-    "event_timestamp": "2024-03-12T06:44:48"
+    "event_timestamp": "2024-03-12T09:56:18"
   },
   {
     "schema_version": "v2",
@@ -1189,7 +1189,7 @@
     "customer_id": "00a26b34-5858-49f2-a1f5-23903adf7024",
     "amount": 1715.62,
     "currency": "USD",
-    "event_timestamp": "2022-03-13T13:16:07"
+    "event_timestamp": "2022-03-13T16:27:37"
   },
   {
     "schema_version": "v2",
@@ -1197,7 +1197,7 @@
     "customer_id": "23e58bed-ff84-4dc5-a9aa-2d3f5cb904ef",
     "amount": 561.83,
     "currency": "USD",
-    "event_timestamp": "2022-08-12T21:49:44"
+    "event_timestamp": "2022-08-13T01:01:14"
   },
   {
     "schema_version": "v2",
@@ -1205,7 +1205,7 @@
     "customer_id": "862a5183-91fc-4ee8-ade5-13b76f5be038",
     "amount": 949.03,
     "currency": "USD",
-    "event_timestamp": "2022-07-06T01:54:17"
+    "event_timestamp": "2022-07-06T05:05:47"
   },
   {
     "schema_version": "v2",
@@ -1213,7 +1213,7 @@
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "amount": 1413.82,
     "currency": "USD",
-    "event_timestamp": "2025-09-29T15:57:07"
+    "event_timestamp": "2025-09-29T19:08:37"
   },
   {
     "schema_version": "v2",
@@ -1221,7 +1221,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 2012.77,
     "currency": "USD",
-    "event_timestamp": "2025-02-20T02:30:54"
+    "event_timestamp": "2025-02-20T05:42:24"
   },
   {
     "schema_version": "v2",
@@ -1229,7 +1229,7 @@
     "customer_id": "cb7d85bb-ed92-4611-a157-74a9cc777263",
     "amount": 1010.99,
     "currency": "USD",
-    "event_timestamp": "2026-08-19T04:36:41"
+    "event_timestamp": "2026-08-19T07:48:11"
   },
   {
     "schema_version": "v2",
@@ -1237,7 +1237,7 @@
     "customer_id": "c0cc12de-3c6f-4e9f-a1dd-d117f8c3c735",
     "amount": 2347.37,
     "currency": "USD",
-    "event_timestamp": "2024-11-15T02:34:39"
+    "event_timestamp": "2024-11-15T05:46:09"
   },
   {
     "schema_version": "v2",
@@ -1245,7 +1245,7 @@
     "customer_id": "862a5183-91fc-4ee8-ade5-13b76f5be038",
     "amount": 684.78,
     "currency": "USD",
-    "event_timestamp": "2026-03-17T12:44:19"
+    "event_timestamp": "2026-03-17T15:55:49"
   },
   {
     "schema_version": "v2",
@@ -1253,7 +1253,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 1865.6,
     "currency": "USD",
-    "event_timestamp": "2024-08-04T21:02:32"
+    "event_timestamp": "2024-08-05T00:14:02"
   },
   {
     "schema_version": "v2",
@@ -1261,7 +1261,7 @@
     "customer_id": "2091d4dd-6fec-42a9-a3dd-10382d3c2046",
     "amount": 136.76,
     "currency": "USD",
-    "event_timestamp": "2023-03-05T03:02:24"
+    "event_timestamp": "2023-03-05T06:13:54"
   },
   {
     "schema_version": "v2",
@@ -1269,7 +1269,7 @@
     "customer_id": "81c0df43-5a84-4f43-af93-31fc45954f5d",
     "amount": 1168.15,
     "currency": "USD",
-    "event_timestamp": "2026-09-01T11:55:27"
+    "event_timestamp": "2026-09-01T15:06:57"
   },
   {
     "schema_version": "v2",
@@ -1277,7 +1277,7 @@
     "customer_id": "a3e48cbb-692d-4f0a-a865-a99a3a45b50e",
     "amount": 1342.71,
     "currency": "USD",
-    "event_timestamp": "2024-03-12T13:39:22"
+    "event_timestamp": "2024-03-12T16:50:52"
   },
   {
     "schema_version": "v2",
@@ -1285,7 +1285,7 @@
     "customer_id": "54882d68-7a51-4f6c-ae32-fd7128f963a2",
     "amount": 3788.76,
     "currency": "USD",
-    "event_timestamp": "2025-12-23T12:13:25"
+    "event_timestamp": "2025-12-23T15:24:55"
   },
   {
     "schema_version": "v2",
@@ -1293,7 +1293,7 @@
     "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
     "amount": 652.86,
     "currency": "USD",
-    "event_timestamp": "2023-02-13T21:54:24"
+    "event_timestamp": "2023-02-14T01:05:54"
   },
   {
     "schema_version": "v2",
@@ -1301,7 +1301,7 @@
     "customer_id": "6298085e-684b-4de0-a6ff-823bd471d3c5",
     "amount": 2336.11,
     "currency": "USD",
-    "event_timestamp": "2025-02-12T21:03:10"
+    "event_timestamp": "2025-02-13T00:14:40"
   },
   {
     "schema_version": "v2",
@@ -1309,7 +1309,7 @@
     "customer_id": "82f1f9e6-f4be-4a71-af9e-807866d981c2",
     "amount": 1197.78,
     "currency": "USD",
-    "event_timestamp": "2026-06-21T06:50:23"
+    "event_timestamp": "2026-06-21T10:01:53"
   },
   {
     "schema_version": "v2",
@@ -1317,7 +1317,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 1980.82,
     "currency": "USD",
-    "event_timestamp": "2020-11-02T01:05:13"
+    "event_timestamp": "2020-11-02T04:16:43"
   },
   {
     "schema_version": "v2",
@@ -1325,7 +1325,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 1066.54,
     "currency": "USD",
-    "event_timestamp": "2025-09-01T21:43:48"
+    "event_timestamp": "2025-09-02T00:55:18"
   },
   {
     "schema_version": "v2",
@@ -1333,7 +1333,7 @@
     "customer_id": "23e58bed-ff84-4dc5-a9aa-2d3f5cb904ef",
     "amount": 1231.89,
     "currency": "USD",
-    "event_timestamp": "2024-05-03T09:42:51"
+    "event_timestamp": "2024-05-03T12:54:21"
   },
   {
     "schema_version": "v2",
@@ -1341,7 +1341,7 @@
     "customer_id": "0ea76e29-a244-490e-acad-c7aeec3b3793",
     "amount": 1339.5,
     "currency": "USD",
-    "event_timestamp": "2023-03-02T01:18:41"
+    "event_timestamp": "2023-03-02T04:30:11"
   },
   {
     "schema_version": "v2",
@@ -1349,7 +1349,7 @@
     "customer_id": "af5aa080-d279-4a4d-a4c2-9b4f396c4d49",
     "amount": 376.7,
     "currency": "USD",
-    "event_timestamp": "2025-06-28T11:21:16"
+    "event_timestamp": "2025-06-28T14:32:46"
   },
   {
     "schema_version": "v2",
@@ -1357,7 +1357,7 @@
     "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
     "amount": 1573.37,
     "currency": "USD",
-    "event_timestamp": "2025-12-08T20:04:31"
+    "event_timestamp": "2025-12-08T23:16:01"
   },
   {
     "schema_version": "v2",
@@ -1365,7 +1365,7 @@
     "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
     "amount": 2226.67,
     "currency": "USD",
-    "event_timestamp": "2025-02-25T18:58:50"
+    "event_timestamp": "2025-02-25T22:10:20"
   },
   {
     "schema_version": "v2",
@@ -1373,7 +1373,7 @@
     "customer_id": "c4b8a5fd-1adb-4e83-aee2-2a999e787a42",
     "amount": 1634.57,
     "currency": "USD",
-    "event_timestamp": "2026-06-27T06:48:27"
+    "event_timestamp": "2026-06-27T09:59:57"
   },
   {
     "schema_version": "v2",
@@ -1381,7 +1381,7 @@
     "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
     "amount": 563.02,
     "currency": "USD",
-    "event_timestamp": "2020-12-28T17:59:36"
+    "event_timestamp": "2020-12-28T21:11:06"
   },
   {
     "schema_version": "v2",
@@ -1389,7 +1389,7 @@
     "customer_id": "d316616a-da43-4c5a-a6a6-49776cdcf905",
     "amount": 1070.36,
     "currency": "USD",
-    "event_timestamp": "2024-08-26T19:59:24"
+    "event_timestamp": "2024-08-26T23:10:54"
   },
   {
     "schema_version": "v2",
@@ -1397,7 +1397,7 @@
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "amount": 869.65,
     "currency": "USD",
-    "event_timestamp": "2026-02-06T00:09:42"
+    "event_timestamp": "2026-02-06T03:21:12"
   },
   {
     "schema_version": "v2",
@@ -1405,7 +1405,7 @@
     "customer_id": "2091d4dd-6fec-42a9-a3dd-10382d3c2046",
     "amount": 1923.79,
     "currency": "USD",
-    "event_timestamp": "2019-10-08T23:28:15"
+    "event_timestamp": "2019-10-09T02:39:45"
   },
   {
     "schema_version": "v2",
@@ -1413,7 +1413,7 @@
     "customer_id": "28f70b22-694f-4ea6-a824-46cd5acf2e4f",
     "amount": 242.0,
     "currency": "USD",
-    "event_timestamp": "2025-10-11T10:59:44"
+    "event_timestamp": "2025-10-11T14:11:14"
   },
   {
     "schema_version": "v2",
@@ -1421,7 +1421,7 @@
     "customer_id": "8614332f-9208-4636-abbb-51cd8e960563",
     "amount": 1184.44,
     "currency": "USD",
-    "event_timestamp": "2022-07-24T04:09:41"
+    "event_timestamp": "2022-07-24T07:21:11"
   },
   {
     "schema_version": "v2",
@@ -1429,7 +1429,7 @@
     "customer_id": "ecc0040a-de88-4b82-abf7-5a95cdee432f",
     "amount": 617.68,
     "currency": "USD",
-    "event_timestamp": "2023-03-18T05:02:53"
+    "event_timestamp": "2023-03-18T08:14:23"
   },
   {
     "schema_version": "v2",
@@ -1437,7 +1437,7 @@
     "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
     "amount": 995.0,
     "currency": "USD",
-    "event_timestamp": "2025-10-08T06:16:42"
+    "event_timestamp": "2025-10-08T09:28:12"
   },
   {
     "schema_version": "v2",
@@ -1445,7 +1445,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 1639.28,
     "currency": "USD",
-    "event_timestamp": "2022-01-21T22:16:54"
+    "event_timestamp": "2022-01-22T01:28:24"
   },
   {
     "schema_version": "v2",
@@ -1453,7 +1453,7 @@
     "customer_id": "df849b97-440b-48c3-ad10-8b91f8cc5515",
     "amount": 270.62,
     "currency": "USD",
-    "event_timestamp": "2023-06-12T20:06:20"
+    "event_timestamp": "2023-06-12T23:17:50"
   },
   {
     "schema_version": "v2",
@@ -1461,7 +1461,7 @@
     "customer_id": "085c0f4e-0ab0-4289-ab87-aee84926c399",
     "amount": 1158.75,
     "currency": "USD",
-    "event_timestamp": "2025-06-18T19:31:05"
+    "event_timestamp": "2025-06-18T22:42:35"
   },
   {
     "schema_version": "v2",
@@ -1469,7 +1469,7 @@
     "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
     "amount": 2407.72,
     "currency": "USD",
-    "event_timestamp": "2021-09-05T14:02:33"
+    "event_timestamp": "2021-09-05T17:14:03"
   },
   {
     "schema_version": "v2",
@@ -1477,7 +1477,7 @@
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "amount": 1194.38,
     "currency": "USD",
-    "event_timestamp": "2023-11-02T05:26:28"
+    "event_timestamp": "2023-11-02T08:37:58"
   },
   {
     "schema_version": "v2",
@@ -1485,7 +1485,7 @@
     "customer_id": "b4d8bca3-7dd5-4ae6-af69-a557073f3ffd",
     "amount": 2194.94,
     "currency": "USD",
-    "event_timestamp": "2023-10-06T22:28:28"
+    "event_timestamp": "2023-10-07T01:39:58"
   },
   {
     "schema_version": "v2",
@@ -1493,7 +1493,7 @@
     "customer_id": "dd9e1dca-0f78-4305-a9b4-355ec562efa1",
     "amount": 2295.73,
     "currency": "USD",
-    "event_timestamp": "2021-05-22T10:51:09"
+    "event_timestamp": "2021-05-22T14:02:39"
   },
   {
     "schema_version": "v2",
@@ -1501,7 +1501,7 @@
     "customer_id": "39206b9a-0b6f-4705-a0b6-d22c4efa149d",
     "amount": 2493.81,
     "currency": "USD",
-    "event_timestamp": "2025-07-27T05:31:11"
+    "event_timestamp": "2025-07-27T08:42:41"
   },
   {
     "schema_version": "v2",
@@ -1509,7 +1509,7 @@
     "customer_id": "aafa9118-e54b-4206-a16c-efa8171f22e2",
     "amount": 1497.51,
     "currency": "USD",
-    "event_timestamp": "2026-06-14T20:37:21"
+    "event_timestamp": "2026-06-14T23:48:51"
   },
   {
     "schema_version": "v2",
@@ -1517,7 +1517,7 @@
     "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
     "amount": 378.37,
     "currency": "USD",
-    "event_timestamp": "2026-04-22T18:38:53"
+    "event_timestamp": "2026-04-22T21:50:23"
   },
   {
     "schema_version": "v2",
@@ -1525,7 +1525,7 @@
     "customer_id": "aafa9118-e54b-4206-a16c-efa8171f22e2",
     "amount": 1436.58,
     "currency": "USD",
-    "event_timestamp": "2026-08-28T10:20:20"
+    "event_timestamp": "2026-08-28T13:31:50"
   },
   {
     "schema_version": "v2",
@@ -1533,7 +1533,7 @@
     "customer_id": "56ad85f7-47bf-445c-a9d9-7fd0f7b8dbbe",
     "amount": 26.03,
     "currency": "USD",
-    "event_timestamp": "2025-06-03T16:42:40"
+    "event_timestamp": "2025-06-03T19:54:10"
   },
   {
     "schema_version": "v2",
@@ -1541,7 +1541,7 @@
     "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
     "amount": 1457.5,
     "currency": "USD",
-    "event_timestamp": "2023-05-17T11:39:34"
+    "event_timestamp": "2023-05-17T14:51:04"
   },
   {
     "schema_version": "v2",
@@ -1549,7 +1549,7 @@
     "customer_id": "e37ed88f-5c5c-4eef-a1c6-6d00e550d894",
     "amount": 1102.46,
     "currency": "USD",
-    "event_timestamp": "2025-09-18T17:03:14"
+    "event_timestamp": "2025-09-18T20:14:44"
   },
   {
     "schema_version": "v2",
@@ -1557,7 +1557,7 @@
     "customer_id": "37a3a29c-adf9-4891-a8b2-b52872d0575f",
     "amount": 2346.99,
     "currency": "USD",
-    "event_timestamp": "2021-05-11T05:42:36"
+    "event_timestamp": "2021-05-11T08:54:06"
   },
   {
     "schema_version": "v2",
@@ -1565,7 +1565,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 3379.79,
     "currency": "USD",
-    "event_timestamp": "2023-12-10T21:47:51"
+    "event_timestamp": "2023-12-11T00:59:21"
   },
   {
     "schema_version": "v2",
@@ -1573,7 +1573,7 @@
     "customer_id": "8cab6725-7e90-4b81-a9d8-324cf10d2ebd",
     "amount": 288.96,
     "currency": "USD",
-    "event_timestamp": "2021-06-25T21:05:49"
+    "event_timestamp": "2021-06-26T00:17:19"
   },
   {
     "schema_version": "v2",
@@ -1581,7 +1581,7 @@
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "amount": 676.77,
     "currency": "USD",
-    "event_timestamp": "2024-05-10T00:21:20"
+    "event_timestamp": "2024-05-10T03:32:50"
   },
   {
     "schema_version": "v2",
@@ -1589,7 +1589,7 @@
     "customer_id": "446b069f-3548-4090-a4de-7c7c856e9ea3",
     "amount": 495.67,
     "currency": "USD",
-    "event_timestamp": "2026-03-08T22:08:35"
+    "event_timestamp": "2026-03-09T01:20:05"
   },
   {
     "schema_version": "v2",
@@ -1597,7 +1597,7 @@
     "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
     "amount": 144.34,
     "currency": "USD",
-    "event_timestamp": "2024-07-24T11:49:10"
+    "event_timestamp": "2024-07-24T15:00:40"
   },
   {
     "schema_version": "v2",
@@ -1605,7 +1605,7 @@
     "customer_id": "a047121a-1c74-4799-a7dc-68a887c10561",
     "amount": 2694.24,
     "currency": "USD",
-    "event_timestamp": "2025-03-27T11:30:22"
+    "event_timestamp": "2025-03-27T14:41:52"
   },
   {
     "schema_version": "v2",
@@ -1613,7 +1613,7 @@
     "customer_id": "37a3a29c-adf9-4891-a8b2-b52872d0575f",
     "amount": 672.36,
     "currency": "USD",
-    "event_timestamp": "2021-04-26T19:58:32"
+    "event_timestamp": "2021-04-26T23:10:02"
   },
   {
     "schema_version": "v2",
@@ -1621,7 +1621,7 @@
     "customer_id": "df849b97-440b-48c3-ad10-8b91f8cc5515",
     "amount": 975.27,
     "currency": "USD",
-    "event_timestamp": "2024-02-25T11:21:01"
+    "event_timestamp": "2024-02-25T14:32:31"
   },
   {
     "schema_version": "v2",
@@ -1629,7 +1629,7 @@
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "amount": 239.32,
     "currency": "USD",
-    "event_timestamp": "2025-06-01T13:06:28"
+    "event_timestamp": "2025-06-01T16:17:58"
   },
   {
     "schema_version": "v2",
@@ -1637,7 +1637,7 @@
     "customer_id": "82f1f9e6-f4be-4a71-af9e-807866d981c2",
     "amount": 2049.77,
     "currency": "USD",
-    "event_timestamp": "2026-01-17T10:18:43"
+    "event_timestamp": "2026-01-17T13:30:13"
   },
   {
     "schema_version": "v2",
@@ -1645,7 +1645,7 @@
     "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
     "amount": 303.67,
     "currency": "USD",
-    "event_timestamp": "2023-05-01T13:16:45"
+    "event_timestamp": "2023-05-01T16:28:15"
   },
   {
     "schema_version": "v2",
@@ -1653,7 +1653,7 @@
     "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
     "amount": 584.72,
     "currency": "USD",
-    "event_timestamp": "2022-04-26T10:51:12"
+    "event_timestamp": "2022-04-26T14:02:42"
   },
   {
     "schema_version": "v2",
@@ -1661,7 +1661,7 @@
     "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
     "amount": 523.54,
     "currency": "USD",
-    "event_timestamp": "2024-03-12T06:43:03"
+    "event_timestamp": "2024-03-12T09:54:33"
   },
   {
     "schema_version": "v2",
@@ -1669,7 +1669,7 @@
     "customer_id": "862a5183-91fc-4ee8-ade5-13b76f5be038",
     "amount": 1039.18,
     "currency": "USD",
-    "event_timestamp": "2023-10-17T18:06:21"
+    "event_timestamp": "2023-10-17T21:17:51"
   },
   {
     "schema_version": "v2",
@@ -1677,7 +1677,7 @@
     "customer_id": "4fc7b791-b069-4cdb-ae1d-3218776f1a34",
     "amount": 1667.43,
     "currency": "USD",
-    "event_timestamp": "2020-12-09T05:05:15"
+    "event_timestamp": "2020-12-09T08:16:45"
   },
   {
     "schema_version": "v2",
@@ -1685,7 +1685,7 @@
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "amount": 2326.83,
     "currency": "USD",
-    "event_timestamp": "2026-06-28T22:14:11"
+    "event_timestamp": "2026-06-29T01:25:41"
   },
   {
     "schema_version": "v2",
@@ -1693,7 +1693,7 @@
     "customer_id": "938a8043-48f2-4357-a5b5-04e27025a799",
     "amount": 1173.13,
     "currency": "USD",
-    "event_timestamp": "2024-12-29T16:40:30"
+    "event_timestamp": "2024-12-29T19:52:00"
   },
   {
     "schema_version": "v2",
@@ -1701,7 +1701,7 @@
     "customer_id": "c4b8a5fd-1adb-4e83-aee2-2a999e787a42",
     "amount": 712.84,
     "currency": "USD",
-    "event_timestamp": "2026-01-19T02:45:29"
+    "event_timestamp": "2026-01-19T05:56:59"
   },
   {
     "schema_version": "v2",
@@ -1709,7 +1709,7 @@
     "customer_id": "8cab6725-7e90-4b81-a9d8-324cf10d2ebd",
     "amount": 1429.66,
     "currency": "USD",
-    "event_timestamp": "2025-01-23T15:03:39"
+    "event_timestamp": "2025-01-23T18:15:09"
   },
   {
     "schema_version": "v2",
@@ -1717,7 +1717,7 @@
     "customer_id": "9b5ba54f-ae92-40e0-a69b-5b8a1433f17d",
     "amount": 3112.31,
     "currency": "USD",
-    "event_timestamp": "2021-06-30T21:44:30"
+    "event_timestamp": "2021-07-01T00:56:00"
   },
   {
     "schema_version": "v2",
@@ -1725,7 +1725,7 @@
     "customer_id": "81c0df43-5a84-4f43-af93-31fc45954f5d",
     "amount": 242.0,
     "currency": "USD",
-    "event_timestamp": "2026-05-03T14:14:48"
+    "event_timestamp": "2026-05-03T17:26:18"
   },
   {
     "schema_version": "v2",
@@ -1733,7 +1733,7 @@
     "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
     "amount": 26.03,
     "currency": "USD",
-    "event_timestamp": "2026-06-26T14:27:00"
+    "event_timestamp": "2026-06-26T17:38:30"
   },
   {
     "schema_version": "v2",
@@ -1741,7 +1741,7 @@
     "customer_id": "938a8043-48f2-4357-a5b5-04e27025a799",
     "amount": 707.58,
     "currency": "USD",
-    "event_timestamp": "2025-05-14T03:36:46"
+    "event_timestamp": "2025-05-14T06:48:16"
   },
   {
     "schema_version": "v2",
@@ -1749,7 +1749,7 @@
     "customer_id": "c0cc12de-3c6f-4e9f-a1dd-d117f8c3c735",
     "amount": 1618.15,
     "currency": "USD",
-    "event_timestamp": "2023-07-09T10:22:38"
+    "event_timestamp": "2023-07-09T13:34:08"
   },
   {
     "schema_version": "v2",
@@ -1757,7 +1757,7 @@
     "customer_id": "42375316-9a84-4841-a3f8-c166584c8bc6",
     "amount": 1290.12,
     "currency": "USD",
-    "event_timestamp": "2026-09-04T08:47:38"
+    "event_timestamp": "2026-09-04T11:59:08"
   },
   {
     "schema_version": "v2",
@@ -1765,7 +1765,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 762.33,
     "currency": "USD",
-    "event_timestamp": "2025-05-30T19:58:53"
+    "event_timestamp": "2025-05-30T23:10:23"
   },
   {
     "schema_version": "v2",
@@ -1773,7 +1773,7 @@
     "customer_id": "a3e48cbb-692d-4f0a-a865-a99a3a45b50e",
     "amount": 70.06,
     "currency": "USD",
-    "event_timestamp": "2023-03-08T14:27:50"
+    "event_timestamp": "2023-03-08T17:39:20"
   },
   {
     "schema_version": "v2",
@@ -1781,7 +1781,7 @@
     "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
     "amount": 873.98,
     "currency": "USD",
-    "event_timestamp": "2022-09-12T08:40:40"
+    "event_timestamp": "2022-09-12T11:52:10"
   },
   {
     "schema_version": "v2",
@@ -1789,7 +1789,7 @@
     "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
     "amount": 416.98,
     "currency": "USD",
-    "event_timestamp": "2023-08-25T07:32:23"
+    "event_timestamp": "2023-08-25T10:43:53"
   },
   {
     "schema_version": "v2",
@@ -1797,7 +1797,7 @@
     "customer_id": "0b2b171f-f825-4772-a28b-8a3453dbc3ad",
     "amount": 928.96,
     "currency": "USD",
-    "event_timestamp": "2022-12-23T18:35:53"
+    "event_timestamp": "2022-12-23T21:47:23"
   },
   {
     "schema_version": "v2",
@@ -1805,7 +1805,7 @@
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "amount": 545.43,
     "currency": "USD",
-    "event_timestamp": "2026-04-09T05:09:58"
+    "event_timestamp": "2026-04-09T08:21:28"
   },
   {
     "schema_version": "v2",
@@ -1813,7 +1813,7 @@
     "customer_id": "44d556a9-f5a3-436d-a1bb-44e7aaf5f686",
     "amount": 783.15,
     "currency": "USD",
-    "event_timestamp": "2026-01-29T05:13:50"
+    "event_timestamp": "2026-01-29T08:25:20"
   },
   {
     "schema_version": "v2",
@@ -1821,7 +1821,7 @@
     "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
     "amount": 270.62,
     "currency": "USD",
-    "event_timestamp": "2023-01-12T20:58:31"
+    "event_timestamp": "2023-01-13T00:10:01"
   },
   {
     "schema_version": "v2",
@@ -1829,7 +1829,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 556.71,
     "currency": "USD",
-    "event_timestamp": "2024-11-01T04:05:49"
+    "event_timestamp": "2024-11-01T07:17:19"
   },
   {
     "schema_version": "v2",
@@ -1837,7 +1837,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 1264.3,
     "currency": "USD",
-    "event_timestamp": "2021-07-29T06:15:02"
+    "event_timestamp": "2021-07-29T09:26:32"
   },
   {
     "schema_version": "v2",
@@ -1845,7 +1845,7 @@
     "customer_id": "70d40298-19d3-4d3a-a4b4-adf07f77c8e9",
     "amount": 2429.06,
     "currency": "USD",
-    "event_timestamp": "2025-10-12T06:26:25"
+    "event_timestamp": "2025-10-12T09:37:55"
   },
   {
     "schema_version": "v2",
@@ -1853,7 +1853,7 @@
     "customer_id": "96d79886-a59b-48fa-afe3-c3144ebecfcc",
     "amount": 178.35,
     "currency": "USD",
-    "event_timestamp": "2026-07-18T22:11:44"
+    "event_timestamp": "2026-07-19T01:23:14"
   },
   {
     "schema_version": "v2",
@@ -1861,7 +1861,7 @@
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "amount": 759.21,
     "currency": "USD",
-    "event_timestamp": "2026-03-13T13:04:25"
+    "event_timestamp": "2026-03-13T16:15:55"
   },
   {
     "schema_version": "v2",
@@ -1869,7 +1869,7 @@
     "customer_id": "990cf566-7659-4327-a78b-36e8d3ccab83",
     "amount": 887.21,
     "currency": "USD",
-    "event_timestamp": "2022-06-01T07:35:55"
+    "event_timestamp": "2022-06-01T10:47:25"
   },
   {
     "schema_version": "v2",
@@ -1877,7 +1877,7 @@
     "customer_id": "81c0df43-5a84-4f43-af93-31fc45954f5d",
     "amount": 2400.71,
     "currency": "USD",
-    "event_timestamp": "2025-03-10T10:32:42"
+    "event_timestamp": "2025-03-10T13:44:12"
   },
   {
     "schema_version": "v2",
@@ -1885,7 +1885,7 @@
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "amount": 2418.22,
     "currency": "USD",
-    "event_timestamp": "2025-09-10T00:17:35"
+    "event_timestamp": "2025-09-10T03:29:05"
   },
   {
     "schema_version": "v2",
@@ -1893,7 +1893,7 @@
     "customer_id": "415b6990-d066-4bd4-a788-01ff6c0be6a6",
     "amount": 3522.74,
     "currency": "USD",
-    "event_timestamp": "2022-05-11T04:05:46"
+    "event_timestamp": "2022-05-11T07:17:16"
   },
   {
     "schema_version": "v2",
@@ -1901,7 +1901,7 @@
     "customer_id": "9fc2c52a-3a0a-4b9e-a54e-b6bfb536528f",
     "amount": 1031.52,
     "currency": "USD",
-    "event_timestamp": "2026-08-08T07:01:33"
+    "event_timestamp": "2026-08-08T10:13:03"
   },
   {
     "schema_version": "v2",
@@ -1909,7 +1909,7 @@
     "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
     "amount": 67.17,
     "currency": "USD",
-    "event_timestamp": "2025-09-18T10:22:52"
+    "event_timestamp": "2025-09-18T13:34:22"
   },
   {
     "schema_version": "v2",
@@ -1917,7 +1917,7 @@
     "customer_id": "dd9e1dca-0f78-4305-a9b4-355ec562efa1",
     "amount": 463.31,
     "currency": "USD",
-    "event_timestamp": "2021-09-25T02:25:18"
+    "event_timestamp": "2021-09-25T05:36:48"
   },
   {
     "schema_version": "v2",
@@ -1925,7 +1925,7 @@
     "customer_id": "cb7d85bb-ed92-4611-a157-74a9cc777263",
     "amount": 1364.9,
     "currency": "USD",
-    "event_timestamp": "2026-08-08T02:19:23"
+    "event_timestamp": "2026-08-08T05:30:53"
   },
   {
     "schema_version": "v2",
@@ -1933,7 +1933,7 @@
     "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
     "amount": 2042.1,
     "currency": "USD",
-    "event_timestamp": "2024-09-27T20:47:14"
+    "event_timestamp": "2024-09-27T23:58:44"
   },
   {
     "schema_version": "v2",
@@ -1941,7 +1941,7 @@
     "customer_id": "45132b4e-f2f7-4240-ab72-3899fb3d0237",
     "amount": 115.21,
     "currency": "USD",
-    "event_timestamp": "2024-02-10T04:56:22"
+    "event_timestamp": "2024-02-10T08:07:52"
   },
   {
     "schema_version": "v2",
@@ -1949,7 +1949,7 @@
     "customer_id": "4fc7b791-b069-4cdb-ae1d-3218776f1a34",
     "amount": 956.05,
     "currency": "USD",
-    "event_timestamp": "2021-06-21T09:29:07"
+    "event_timestamp": "2021-06-21T12:40:37"
   },
   {
     "schema_version": "v2",
@@ -1957,7 +1957,7 @@
     "customer_id": "b82d395d-3ef4-4fee-af49-48a32fde8c4a",
     "amount": 123.94,
     "currency": "USD",
-    "event_timestamp": "2026-08-23T20:30:10"
+    "event_timestamp": "2026-08-23T23:41:40"
   },
   {
     "schema_version": "v2",
@@ -1965,7 +1965,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 1492.3,
     "currency": "USD",
-    "event_timestamp": "2018-08-27T06:38:52"
+    "event_timestamp": "2018-08-27T09:50:22"
   },
   {
     "schema_version": "v2",
@@ -1973,7 +1973,7 @@
     "customer_id": "45132b4e-f2f7-4240-ab72-3899fb3d0237",
     "amount": 2054.64,
     "currency": "USD",
-    "event_timestamp": "2025-01-09T06:54:27"
+    "event_timestamp": "2025-01-09T10:05:57"
   },
   {
     "schema_version": "v2",
@@ -1981,7 +1981,7 @@
     "customer_id": "00a26b34-5858-49f2-a1f5-23903adf7024",
     "amount": 1411.38,
     "currency": "USD",
-    "event_timestamp": "2024-05-07T00:11:38"
+    "event_timestamp": "2024-05-07T03:23:08"
   },
   {
     "schema_version": "v2",
@@ -1989,7 +1989,7 @@
     "customer_id": "00a26b34-5858-49f2-a1f5-23903adf7024",
     "amount": 2077.54,
     "currency": "USD",
-    "event_timestamp": "2024-08-10T10:52:06"
+    "event_timestamp": "2024-08-10T14:03:36"
   },
   {
     "schema_version": "v2",
@@ -1997,7 +1997,7 @@
     "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
     "amount": 1974.63,
     "currency": "USD",
-    "event_timestamp": "2026-07-07T11:49:00"
+    "event_timestamp": "2026-07-07T15:00:30"
   },
   {
     "schema_version": "v2",
@@ -2005,7 +2005,7 @@
     "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
     "amount": 759.21,
     "currency": "USD",
-    "event_timestamp": "2024-06-06T22:45:31"
+    "event_timestamp": "2024-06-07T01:57:01"
   },
   {
     "schema_version": "v2",
@@ -2013,7 +2013,7 @@
     "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
     "amount": 1100.34,
     "currency": "USD",
-    "event_timestamp": "2024-12-02T05:36:20"
+    "event_timestamp": "2024-12-02T08:47:50"
   },
   {
     "schema_version": "v2",
@@ -2021,7 +2021,7 @@
     "customer_id": "39206b9a-0b6f-4705-a0b6-d22c4efa149d",
     "amount": 541.39,
     "currency": "USD",
-    "event_timestamp": "2021-05-13T12:15:16"
+    "event_timestamp": "2021-05-13T15:26:46"
   },
   {
     "schema_version": "v2",
@@ -2029,7 +2029,7 @@
     "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
     "amount": 563.02,
     "currency": "USD",
-    "event_timestamp": "2019-11-19T08:16:46"
+    "event_timestamp": "2019-11-19T11:28:16"
   },
   {
     "schema_version": "v2",
@@ -2037,7 +2037,7 @@
     "customer_id": "0ea76e29-a244-490e-acad-c7aeec3b3793",
     "amount": 124.95,
     "currency": "USD",
-    "event_timestamp": "2024-05-28T14:50:22"
+    "event_timestamp": "2024-05-28T18:01:52"
   },
   {
     "schema_version": "v2",
@@ -2045,7 +2045,7 @@
     "customer_id": "4155aa61-8aa7-4370-a2bc-c2dc2ed53a10",
     "amount": 2678.7,
     "currency": "USD",
-    "event_timestamp": "2024-12-15T17:16:33"
+    "event_timestamp": "2024-12-15T20:28:03"
   },
   {
     "schema_version": "v2",
@@ -2053,7 +2053,7 @@
     "customer_id": "9fc2c52a-3a0a-4b9e-a54e-b6bfb536528f",
     "amount": 1181.09,
     "currency": "USD",
-    "event_timestamp": "2022-01-20T16:30:30"
+    "event_timestamp": "2022-01-20T19:42:00"
   },
   {
     "schema_version": "v2",
@@ -2061,7 +2061,7 @@
     "customer_id": "d56fdad6-60eb-4419-a3b6-2da18ca52275",
     "amount": 665.96,
     "currency": "USD",
-    "event_timestamp": "2026-06-22T14:06:38"
+    "event_timestamp": "2026-06-22T17:18:08"
   },
   {
     "schema_version": "v2",
@@ -2069,7 +2069,7 @@
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "amount": 2966.26,
     "currency": "USD",
-    "event_timestamp": "2026-08-03T14:41:24"
+    "event_timestamp": "2026-08-03T17:52:54"
   },
   {
     "schema_version": "v2",
@@ -2077,7 +2077,7 @@
     "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
     "amount": 1262.14,
     "currency": "USD",
-    "event_timestamp": "2025-10-21T12:32:59"
+    "event_timestamp": "2025-10-21T15:44:29"
   },
   {
     "schema_version": "v2",
@@ -2085,7 +2085,7 @@
     "customer_id": "b4d8bca3-7dd5-4ae6-af69-a557073f3ffd",
     "amount": 455.96,
     "currency": "USD",
-    "event_timestamp": "2025-01-08T16:50:24"
+    "event_timestamp": "2025-01-08T20:01:54"
   },
   {
     "schema_version": "v2",
@@ -2093,7 +2093,7 @@
     "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
     "amount": 1366.92,
     "currency": "USD",
-    "event_timestamp": "2023-01-26T18:14:15"
+    "event_timestamp": "2023-01-26T21:25:45"
   },
   {
     "schema_version": "v2",
@@ -2101,7 +2101,7 @@
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "amount": 1173.24,
     "currency": "USD",
-    "event_timestamp": "2025-09-07T14:57:59"
+    "event_timestamp": "2025-09-07T18:09:29"
   },
   {
     "schema_version": "v2",
@@ -2109,7 +2109,7 @@
     "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
     "amount": 759.2,
     "currency": "USD",
-    "event_timestamp": "2025-04-01T18:04:31"
+    "event_timestamp": "2025-04-01T21:16:01"
   },
   {
     "schema_version": "v2",
@@ -2117,7 +2117,7 @@
     "customer_id": "37a3a29c-adf9-4891-a8b2-b52872d0575f",
     "amount": 1039.7,
     "currency": "USD",
-    "event_timestamp": "2026-06-19T01:56:51"
+    "event_timestamp": "2026-06-19T05:08:21"
   },
   {
     "schema_version": "v2",
@@ -2125,7 +2125,7 @@
     "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
     "amount": 1335.77,
     "currency": "USD",
-    "event_timestamp": "2024-12-30T23:58:48"
+    "event_timestamp": "2024-12-31T03:10:18"
   },
   {
     "schema_version": "v2",
@@ -2133,7 +2133,7 @@
     "customer_id": "44d556a9-f5a3-436d-a1bb-44e7aaf5f686",
     "amount": 1567.48,
     "currency": "USD",
-    "event_timestamp": "2025-09-02T20:14:58"
+    "event_timestamp": "2025-09-02T23:26:28"
   },
   {
     "schema_version": "v2",
@@ -2141,7 +2141,7 @@
     "customer_id": "af5aa080-d279-4a4d-a4c2-9b4f396c4d49",
     "amount": 1830.55,
     "currency": "USD",
-    "event_timestamp": "2025-04-22T05:28:15"
+    "event_timestamp": "2025-04-22T08:39:45"
   },
   {
     "schema_version": "v2",
@@ -2149,7 +2149,7 @@
     "customer_id": "177e363f-807b-41eb-a47a-5e92c213c7f1",
     "amount": 2092.73,
     "currency": "USD",
-    "event_timestamp": "2022-11-16T18:16:58"
+    "event_timestamp": "2022-11-16T21:28:28"
   },
   {
     "schema_version": "v2",
@@ -2157,7 +2157,7 @@
     "customer_id": "667c46f7-63ea-4a75-a8e6-08a5d51abf27",
     "amount": 2184.52,
     "currency": "USD",
-    "event_timestamp": "2025-03-08T01:37:31"
+    "event_timestamp": "2025-03-08T04:49:01"
   },
   {
     "schema_version": "v2",
@@ -2165,7 +2165,7 @@
     "customer_id": "415f845e-f985-411f-a3c5-57a298f30f99",
     "amount": 315.12,
     "currency": "USD",
-    "event_timestamp": "2021-08-16T08:18:23"
+    "event_timestamp": "2021-08-16T11:29:53"
   },
   {
     "schema_version": "v2",
@@ -2173,7 +2173,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 602.27,
     "currency": "USD",
-    "event_timestamp": "2026-01-17T21:05:48"
+    "event_timestamp": "2026-01-18T00:17:18"
   },
   {
     "schema_version": "v2",
@@ -2181,7 +2181,7 @@
     "customer_id": "56ad85f7-47bf-445c-a9d9-7fd0f7b8dbbe",
     "amount": 289.32,
     "currency": "USD",
-    "event_timestamp": "2026-06-02T22:40:18"
+    "event_timestamp": "2026-06-03T01:51:48"
   },
   {
     "schema_version": "v2",
@@ -2189,7 +2189,7 @@
     "customer_id": "53f5ceef-a1e7-4d05-abf3-f4676e84ccb6",
     "amount": 148.92,
     "currency": "USD",
-    "event_timestamp": "2022-06-02T11:18:19"
+    "event_timestamp": "2022-06-02T14:29:49"
   },
   {
     "schema_version": "v2",
@@ -2197,7 +2197,7 @@
     "customer_id": "96d79886-a59b-48fa-afe3-c3144ebecfcc",
     "amount": 759.21,
     "currency": "USD",
-    "event_timestamp": "2026-08-22T18:26:18"
+    "event_timestamp": "2026-08-22T21:37:48"
   },
   {
     "schema_version": "v2",
@@ -2205,7 +2205,7 @@
     "customer_id": "44d556a9-f5a3-436d-a1bb-44e7aaf5f686",
     "amount": 2147.88,
     "currency": "USD",
-    "event_timestamp": "2025-06-09T18:59:31"
+    "event_timestamp": "2025-06-09T22:11:01"
   },
   {
     "schema_version": "v2",
@@ -2213,7 +2213,7 @@
     "customer_id": "7702b3f3-54fd-49c0-a3d4-3a43ba89153c",
     "amount": 858.49,
     "currency": "USD",
-    "event_timestamp": "2025-12-14T13:19:14"
+    "event_timestamp": "2025-12-14T16:30:44"
   },
   {
     "schema_version": "v2",
@@ -2221,7 +2221,7 @@
     "customer_id": "0b69d5a5-9303-4b27-a151-afda6683b57c",
     "amount": 3175.6,
     "currency": "USD",
-    "event_timestamp": "2021-07-04T07:58:40"
+    "event_timestamp": "2021-07-04T11:10:10"
   },
   {
     "schema_version": "v2",
@@ -2229,7 +2229,7 @@
     "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
     "amount": 1847.12,
     "currency": "USD",
-    "event_timestamp": "2023-12-25T03:16:40"
+    "event_timestamp": "2023-12-25T06:28:10"
   },
   {
     "schema_version": "v2",
@@ -2237,7 +2237,7 @@
     "customer_id": "663649ed-5b9b-43aa-a4d3-ed69c07b0025",
     "amount": 2003.62,
     "currency": "USD",
-    "event_timestamp": "2026-03-08T14:34:08"
+    "event_timestamp": "2026-03-08T17:45:38"
   },
   {
     "schema_version": "v2",
@@ -2245,7 +2245,7 @@
     "customer_id": "dd9e1dca-0f78-4305-a9b4-355ec562efa1",
     "amount": 320.67,
     "currency": "USD",
-    "event_timestamp": "2025-01-30T01:53:40"
+    "event_timestamp": "2025-01-30T05:05:10"
   },
   {
     "schema_version": "v2",
@@ -2253,7 +2253,7 @@
     "customer_id": "e0d43681-e1ee-4f6f-a2ba-0d216cb5fffa",
     "amount": 131.56,
     "currency": "USD",
-    "event_timestamp": "2026-07-10T15:24:53"
+    "event_timestamp": "2026-07-10T18:36:23"
   },
   {
     "schema_version": "v2",
@@ -2261,7 +2261,7 @@
     "customer_id": "8cab6725-7e90-4b81-a9d8-324cf10d2ebd",
     "amount": 21.39,
     "currency": "USD",
-    "event_timestamp": "2023-12-07T05:35:22"
+    "event_timestamp": "2023-12-07T08:46:52"
   },
   {
     "schema_version": "v2",
@@ -2269,7 +2269,7 @@
     "customer_id": "eb5b9d11-9705-42b6-a303-fd00636c9c55",
     "amount": 712.84,
     "currency": "USD",
-    "event_timestamp": "2024-02-20T05:49:31"
+    "event_timestamp": "2024-02-20T09:01:01"
   },
   {
     "schema_version": "v2",
@@ -2277,7 +2277,7 @@
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "amount": 1789.46,
     "currency": "USD",
-    "event_timestamp": "2026-01-22T14:15:29"
+    "event_timestamp": "2026-01-22T17:26:59"
   },
   {
     "schema_version": "v2",
@@ -2285,7 +2285,7 @@
     "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
     "amount": 2045.76,
     "currency": "USD",
-    "event_timestamp": "2023-12-19T08:48:51"
+    "event_timestamp": "2023-12-19T12:00:21"
   },
   {
     "schema_version": "v2",
@@ -2293,7 +2293,7 @@
     "customer_id": "15fd5efc-afec-4bdb-a591-18a670adf72d",
     "amount": 1918.92,
     "currency": "USD",
-    "event_timestamp": "2022-04-15T08:35:17"
+    "event_timestamp": "2022-04-15T11:46:47"
   },
   {
     "schema_version": "v2",
@@ -2301,7 +2301,7 @@
     "customer_id": "2091d4dd-6fec-42a9-a3dd-10382d3c2046",
     "amount": 1397.47,
     "currency": "USD",
-    "event_timestamp": "2019-11-19T11:21:07"
+    "event_timestamp": "2019-11-19T14:32:37"
   },
   {
     "schema_version": "v2",
@@ -2309,7 +2309,7 @@
     "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
     "amount": 472.68,
     "currency": "USD",
-    "event_timestamp": "2018-04-17T04:47:48"
+    "event_timestamp": "2018-04-17T07:59:18"
   },
   {
     "schema_version": "v2",
@@ -2317,7 +2317,7 @@
     "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
     "amount": 844.53,
     "currency": "USD",
-    "event_timestamp": "2021-01-18T06:50:40"
+    "event_timestamp": "2021-01-18T10:02:10"
   },
   {
     "schema_version": "v2",
@@ -2325,7 +2325,7 @@
     "customer_id": "45132b4e-f2f7-4240-ab72-3899fb3d0237",
     "amount": 1087.07,
     "currency": "USD",
-    "event_timestamp": "2026-01-24T19:38:02"
+    "event_timestamp": "2026-01-24T22:49:32"
   },
   {
     "schema_version": "v2",
@@ -2333,7 +2333,7 @@
     "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
     "amount": 1688.68,
     "currency": "USD",
-    "event_timestamp": "2026-01-25T20:18:28"
+    "event_timestamp": "2026-01-25T23:29:58"
   },
   {
     "schema_version": "v2",
@@ -2341,7 +2341,7 @@
     "customer_id": "663649ed-5b9b-43aa-a4d3-ed69c07b0025",
     "amount": 1194.73,
     "currency": "USD",
-    "event_timestamp": "2026-07-12T16:51:53"
+    "event_timestamp": "2026-07-12T20:03:23"
   },
   {
     "schema_version": "v2",
@@ -2349,7 +2349,7 @@
     "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
     "amount": 899.03,
     "currency": "USD",
-    "event_timestamp": "2021-01-04T21:08:53"
+    "event_timestamp": "2021-01-05T00:20:23"
   },
   {
     "schema_version": "v2",
@@ -2357,7 +2357,7 @@
     "customer_id": "7702b3f3-54fd-49c0-a3d4-3a43ba89153c",
     "amount": 857.44,
     "currency": "USD",
-    "event_timestamp": "2026-02-25T11:34:20"
+    "event_timestamp": "2026-02-25T14:45:50"
   },
   {
     "schema_version": "v2",
@@ -2365,7 +2365,7 @@
     "customer_id": "990cf566-7659-4327-a78b-36e8d3ccab83",
     "amount": 942.78,
     "currency": "USD",
-    "event_timestamp": "2025-09-08T05:08:58"
+    "event_timestamp": "2025-09-08T08:20:28"
   },
   {
     "schema_version": "v2",
@@ -2373,7 +2373,7 @@
     "customer_id": "c0cc12de-3c6f-4e9f-a1dd-d117f8c3c735",
     "amount": 2146.17,
     "currency": "USD",
-    "event_timestamp": "2025-10-02T11:09:04"
+    "event_timestamp": "2025-10-02T14:20:34"
   },
   {
     "schema_version": "v2",
@@ -2381,7 +2381,7 @@
     "customer_id": "6298085e-684b-4de0-a6ff-823bd471d3c5",
     "amount": 1912.06,
     "currency": "USD",
-    "event_timestamp": "2025-09-23T02:41:52"
+    "event_timestamp": "2025-09-23T05:53:22"
   },
   {
     "schema_version": "v2",
@@ -2389,7 +2389,7 @@
     "customer_id": "663649ed-5b9b-43aa-a4d3-ed69c07b0025",
     "amount": 2019.98,
     "currency": "USD",
-    "event_timestamp": "2026-02-23T21:00:46"
+    "event_timestamp": "2026-02-24T00:12:16"
   },
   {
     "schema_version": "v2",
@@ -2397,7 +2397,7 @@
     "customer_id": "3e09f8da-406a-4c02-ac09-326c7ab4a03a",
     "amount": 1860.06,
     "currency": "USD",
-    "event_timestamp": "2022-01-30T06:25:28"
+    "event_timestamp": "2022-01-30T09:36:58"
   },
   {
     "schema_version": "v2",
@@ -2405,7 +2405,7 @@
     "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
     "amount": 1604.02,
     "currency": "USD",
-    "event_timestamp": "2024-02-21T13:50:17"
+    "event_timestamp": "2024-02-21T17:01:47"
   },
   {
     "schema_version": "v2",
@@ -2413,7 +2413,7 @@
     "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
     "amount": 337.99,
     "currency": "USD",
-    "event_timestamp": "2025-04-29T19:06:52"
+    "event_timestamp": "2025-04-29T22:18:22"
   },
   {
     "schema_version": "v2",
@@ -2421,7 +2421,7 @@
     "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
     "amount": 605.73,
     "currency": "USD",
-    "event_timestamp": "2025-11-17T10:50:48"
+    "event_timestamp": "2025-11-17T14:02:18"
   },
   {
     "schema_version": "v2",
@@ -2429,7 +2429,7 @@
     "customer_id": "e37ed88f-5c5c-4eef-a1c6-6d00e550d894",
     "amount": 52.06,
     "currency": "USD",
-    "event_timestamp": "2023-06-28T00:57:00"
+    "event_timestamp": "2023-06-28T04:08:30"
   },
   {
     "schema_version": "v2",
@@ -2437,7 +2437,7 @@
     "customer_id": "61db11b5-ea47-406e-ab35-a68d0da84a93",
     "amount": 2533.1,
     "currency": "USD",
-    "event_timestamp": "2021-02-25T23:55:47"
+    "event_timestamp": "2021-02-26T03:07:17"
   },
   {
     "schema_version": "v2",
@@ -2445,7 +2445,7 @@
     "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
     "amount": 542.39,
     "currency": "USD",
-    "event_timestamp": "2024-02-12T21:26:23"
+    "event_timestamp": "2024-02-13T00:37:53"
   },
   {
     "schema_version": "v2",
@@ -2453,7 +2453,7 @@
     "customer_id": "37a3a29c-adf9-4891-a8b2-b52872d0575f",
     "amount": 1522.87,
     "currency": "USD",
-    "event_timestamp": "2022-10-16T19:20:24"
+    "event_timestamp": "2022-10-16T22:31:54"
   },
   {
     "schema_version": "v2",
@@ -2461,7 +2461,7 @@
     "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
     "amount": 431.51,
     "currency": "USD",
-    "event_timestamp": "2026-04-17T10:18:38"
+    "event_timestamp": "2026-04-17T13:30:08"
   },
   {
     "schema_version": "v2",
@@ -2469,7 +2469,7 @@
     "customer_id": "b861e15e-937c-4ae1-aeac-152b1c4a8dc1",
     "amount": 61.97,
     "currency": "USD",
-    "event_timestamp": "2024-09-19T12:48:08"
+    "event_timestamp": "2024-09-19T15:59:38"
   },
   {
     "schema_version": "v2",
@@ -2477,7 +2477,7 @@
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "amount": 1254.19,
     "currency": "USD",
-    "event_timestamp": "2025-09-20T14:58:02"
+    "event_timestamp": "2025-09-20T18:09:32"
   },
   {
     "schema_version": "v2",
@@ -2485,7 +2485,7 @@
     "customer_id": "44d556a9-f5a3-436d-a1bb-44e7aaf5f686",
     "amount": 1090.65,
     "currency": "USD",
-    "event_timestamp": "2026-05-20T06:07:57"
+    "event_timestamp": "2026-05-20T09:19:27"
   },
   {
     "schema_version": "v2",
@@ -2493,7 +2493,7 @@
     "customer_id": "446b069f-3548-4090-a4de-7c7c856e9ea3",
     "amount": 979.95,
     "currency": "USD",
-    "event_timestamp": "2026-05-23T01:40:05"
+    "event_timestamp": "2026-05-23T04:51:35"
   },
   {
     "schema_version": "v2",
@@ -2501,7 +2501,7 @@
     "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
     "amount": 1699.96,
     "currency": "USD",
-    "event_timestamp": "2025-07-21T10:39:25"
+    "event_timestamp": "2025-07-21T13:50:55"
   },
   {
     "schema_version": "v2",
@@ -2509,7 +2509,7 @@
     "customer_id": "142aa2cc-a993-43e5-a52e-750e5fe63b02",
     "amount": 2403.39,
     "currency": "USD",
-    "event_timestamp": "2026-03-10T14:01:25"
+    "event_timestamp": "2026-03-10T17:12:55"
   },
   {
     "schema_version": "v2",
@@ -2517,7 +2517,7 @@
     "customer_id": "085c0f4e-0ab0-4289-ab87-aee84926c399",
     "amount": 898.17,
     "currency": "USD",
-    "event_timestamp": "2023-01-26T12:37:02"
+    "event_timestamp": "2023-01-26T15:48:32"
   },
   {
     "schema_version": "v2",
@@ -2525,7 +2525,7 @@
     "customer_id": "9a498078-f9fe-4ee6-a6ca-fecd1b446456",
     "amount": 1881.02,
     "currency": "USD",
-    "event_timestamp": "2026-06-13T04:30:28"
+    "event_timestamp": "2026-06-13T07:41:58"
   },
   {
     "schema_version": "v2",
@@ -2533,7 +2533,7 @@
     "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
     "amount": 1956.74,
     "currency": "USD",
-    "event_timestamp": "2019-01-13T00:50:37"
+    "event_timestamp": "2019-01-13T04:02:07"
   },
   {
     "schema_version": "v2",
@@ -2541,7 +2541,7 @@
     "customer_id": "5d2d0b2f-a1c5-4e49-a868-a7ad1cf6850b",
     "amount": 2461.75,
     "currency": "USD",
-    "event_timestamp": "2026-06-03T23:37:45"
+    "event_timestamp": "2026-06-04T02:49:15"
   },
   {
     "schema_version": "v2",
@@ -2549,7 +2549,7 @@
     "customer_id": "a3e48cbb-692d-4f0a-a865-a99a3a45b50e",
     "amount": 1061.09,
     "currency": "USD",
-    "event_timestamp": "2020-03-30T08:57:38"
+    "event_timestamp": "2020-03-30T12:09:08"
   },
   {
     "schema_version": "v2",
@@ -2557,7 +2557,7 @@
     "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
     "amount": 1319.26,
     "currency": "USD",
-    "event_timestamp": "2021-12-24T19:42:28"
+    "event_timestamp": "2021-12-24T22:53:58"
   },
   {
     "schema_version": "v2",
@@ -2565,7 +2565,7 @@
     "customer_id": "e37ed88f-5c5c-4eef-a1c6-6d00e550d894",
     "amount": 219.26,
     "currency": "USD",
-    "event_timestamp": "2024-04-02T18:51:34"
+    "event_timestamp": "2024-04-02T22:03:04"
   },
   {
     "schema_version": "v2",
@@ -2573,7 +2573,7 @@
     "customer_id": "15fd5efc-afec-4bdb-a591-18a670adf72d",
     "amount": 832.99,
     "currency": "USD",
-    "event_timestamp": "2026-03-09T19:56:06"
+    "event_timestamp": "2026-03-09T23:07:36"
   },
   {
     "schema_version": "v2",
@@ -2581,7 +2581,7 @@
     "customer_id": "667c46f7-63ea-4a75-a8e6-08a5d51abf27",
     "amount": 2431.6,
     "currency": "USD",
-    "event_timestamp": "2025-07-15T05:46:28"
+    "event_timestamp": "2025-07-15T08:57:58"
   },
   {
     "schema_version": "v2",
@@ -2589,7 +2589,7 @@
     "customer_id": "39206b9a-0b6f-4705-a0b6-d22c4efa149d",
     "amount": 373.22,
     "currency": "USD",
-    "event_timestamp": "2023-01-31T04:40:48"
+    "event_timestamp": "2023-01-31T07:52:18"
   },
   {
     "schema_version": "v2",
@@ -2597,7 +2597,7 @@
     "customer_id": "23e58bed-ff84-4dc5-a9aa-2d3f5cb904ef",
     "amount": 583.95,
     "currency": "USD",
-    "event_timestamp": "2022-06-25T06:15:21"
+    "event_timestamp": "2022-06-25T09:26:51"
   },
   {
     "schema_version": "v2",
@@ -2605,7 +2605,7 @@
     "customer_id": "81c0df43-5a84-4f43-af93-31fc45954f5d",
     "amount": 1008.54,
     "currency": "USD",
-    "event_timestamp": "2024-07-27T21:32:39"
+    "event_timestamp": "2024-07-28T00:44:09"
   },
   {
     "schema_version": "v2",
@@ -2613,7 +2613,7 @@
     "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
     "amount": 1207.23,
     "currency": "USD",
-    "event_timestamp": "2025-06-14T00:50:08"
+    "event_timestamp": "2025-06-14T04:01:38"
   },
   {
     "schema_version": "v2",
@@ -2621,7 +2621,7 @@
     "customer_id": "ecc0040a-de88-4b82-abf7-5a95cdee432f",
     "amount": 587.68,
     "currency": "USD",
-    "event_timestamp": "2021-08-06T23:15:14"
+    "event_timestamp": "2021-08-07T02:26:44"
   },
   {
     "schema_version": "v2",
@@ -2629,7 +2629,7 @@
     "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
     "amount": 1624.07,
     "currency": "USD",
-    "event_timestamp": "2023-01-25T12:47:49"
+    "event_timestamp": "2023-01-25T15:59:19"
   },
   {
     "schema_version": "v2",
@@ -2637,7 +2637,7 @@
     "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
     "amount": 334.77,
     "currency": "USD",
-    "event_timestamp": "2025-10-17T18:08:40"
+    "event_timestamp": "2025-10-17T21:20:10"
   },
   {
     "schema_version": "v2",
@@ -2645,7 +2645,7 @@
     "customer_id": "446b069f-3548-4090-a4de-7c7c856e9ea3",
     "amount": 433.02,
     "currency": "USD",
-    "event_timestamp": "2025-04-05T07:08:26"
+    "event_timestamp": "2025-04-05T10:19:56"
   },
   {
     "schema_version": "v2",
@@ -2653,7 +2653,7 @@
     "customer_id": "862a5183-91fc-4ee8-ade5-13b76f5be038",
     "amount": 534.41,
     "currency": "USD",
-    "event_timestamp": "2024-01-23T07:28:07"
+    "event_timestamp": "2024-01-23T10:39:37"
   },
   {
     "schema_version": "v2",
@@ -2661,7 +2661,7 @@
     "customer_id": "ecc0040a-de88-4b82-abf7-5a95cdee432f",
     "amount": 1576.16,
     "currency": "USD",
-    "event_timestamp": "2024-05-10T04:13:12"
+    "event_timestamp": "2024-05-10T07:24:42"
   },
   {
     "schema_version": "v2",
@@ -2669,7 +2669,7 @@
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "amount": 1880.63,
     "currency": "USD",
-    "event_timestamp": "2024-05-03T16:33:54"
+    "event_timestamp": "2024-05-03T19:45:24"
   },
   {
     "schema_version": "v2",
@@ -2677,7 +2677,7 @@
     "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
     "amount": 1870.78,
     "currency": "USD",
-    "event_timestamp": "2026-01-08T11:09:10"
+    "event_timestamp": "2026-01-08T14:20:40"
   },
   {
     "schema_version": "v2",
@@ -2685,7 +2685,7 @@
     "customer_id": "a3e48cbb-692d-4f0a-a865-a99a3a45b50e",
     "amount": 851.6,
     "currency": "USD",
-    "event_timestamp": "2019-01-31T02:13:27"
+    "event_timestamp": "2019-01-31T05:24:57"
   },
   {
     "schema_version": "v2",
@@ -2693,7 +2693,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 106.89,
     "currency": "USD",
-    "event_timestamp": "2024-01-28T23:16:21"
+    "event_timestamp": "2024-01-29T02:27:51"
   },
   {
     "schema_version": "v2",
@@ -2701,7 +2701,7 @@
     "customer_id": "3e09f8da-406a-4c02-ac09-326c7ab4a03a",
     "amount": 2339.44,
     "currency": "USD",
-    "event_timestamp": "2022-04-18T03:56:23"
+    "event_timestamp": "2022-04-18T07:07:53"
   },
   {
     "schema_version": "v2",
@@ -2709,7 +2709,7 @@
     "customer_id": "22987e62-04f7-472d-aac5-15cb9ee820e4",
     "amount": 816.69,
     "currency": "USD",
-    "event_timestamp": "2018-09-10T16:34:05"
+    "event_timestamp": "2018-09-10T19:45:35"
   },
   {
     "schema_version": "v2",
@@ -2717,7 +2717,7 @@
     "customer_id": "15fd5efc-afec-4bdb-a591-18a670adf72d",
     "amount": 145.11,
     "currency": "USD",
-    "event_timestamp": "2025-02-26T08:16:17"
+    "event_timestamp": "2025-02-26T11:27:47"
   },
   {
     "schema_version": "v2",
@@ -2725,7 +2725,7 @@
     "customer_id": "eeb3fcb1-827f-4270-a281-dd15600211ec",
     "amount": 1268.57,
     "currency": "USD",
-    "event_timestamp": "2021-06-08T14:27:17"
+    "event_timestamp": "2021-06-08T17:38:47"
   },
   {
     "schema_version": "v2",
@@ -2733,7 +2733,7 @@
     "customer_id": "44d556a9-f5a3-436d-a1bb-44e7aaf5f686",
     "amount": 1041.63,
     "currency": "USD",
-    "event_timestamp": "2026-02-12T03:05:51"
+    "event_timestamp": "2026-02-12T06:17:21"
   },
   {
     "schema_version": "v2",
@@ -2741,7 +2741,7 @@
     "customer_id": "2aeb4bc5-5360-4733-a48e-f9cecf2451b6",
     "amount": 194.65,
     "currency": "USD",
-    "event_timestamp": "2026-07-05T05:17:58"
+    "event_timestamp": "2026-07-05T08:29:28"
   },
   {
     "schema_version": "v2",
@@ -2749,7 +2749,7 @@
     "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
     "amount": 2274.36,
     "currency": "USD",
-    "event_timestamp": "2022-04-06T16:40:21"
+    "event_timestamp": "2022-04-06T19:51:51"
   },
   {
     "schema_version": "v2",
@@ -2757,7 +2757,7 @@
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "amount": 2122.51,
     "currency": "USD",
-    "event_timestamp": "2022-12-28T06:37:51"
+    "event_timestamp": "2022-12-28T09:49:21"
   },
   {
     "schema_version": "v2",
@@ -2765,7 +2765,7 @@
     "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
     "amount": 1339.6,
     "currency": "USD",
-    "event_timestamp": "2025-01-11T08:34:37"
+    "event_timestamp": "2025-01-11T11:46:07"
   },
   {
     "schema_version": "v2",
@@ -2773,7 +2773,7 @@
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "amount": 1795.88,
     "currency": "USD",
-    "event_timestamp": "2022-10-16T18:50:32"
+    "event_timestamp": "2022-10-16T22:02:02"
   },
   {
     "schema_version": "v2",
@@ -2781,7 +2781,7 @@
     "customer_id": "86b84f32-e8e7-4fc5-af6b-f25eff6d9cf8",
     "amount": 1205.43,
     "currency": "USD",
-    "event_timestamp": "2026-01-03T20:30:02"
+    "event_timestamp": "2026-01-03T23:41:32"
   },
   {
     "schema_version": "v2",
@@ -2789,7 +2789,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 1527.09,
     "currency": "USD",
-    "event_timestamp": "2021-01-09T21:54:04"
+    "event_timestamp": "2021-01-10T01:05:34"
   },
   {
     "schema_version": "v2",
@@ -2797,7 +2797,7 @@
     "customer_id": "22987e62-04f7-472d-aac5-15cb9ee820e4",
     "amount": 2217.22,
     "currency": "USD",
-    "event_timestamp": "2018-07-05T11:48:38"
+    "event_timestamp": "2018-07-05T15:00:08"
   },
   {
     "schema_version": "v2",
@@ -2805,7 +2805,7 @@
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "amount": 559.86,
     "currency": "USD",
-    "event_timestamp": "2024-07-30T08:46:43"
+    "event_timestamp": "2024-07-30T11:58:13"
   },
   {
     "schema_version": "v2",
@@ -2813,7 +2813,7 @@
     "customer_id": "085c0f4e-0ab0-4289-ab87-aee84926c399",
     "amount": 962.45,
     "currency": "USD",
-    "event_timestamp": "2025-11-07T03:32:35"
+    "event_timestamp": "2025-11-07T06:44:05"
   },
   {
     "schema_version": "v2",
@@ -2821,7 +2821,7 @@
     "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
     "amount": 2339.22,
     "currency": "USD",
-    "event_timestamp": "2025-12-25T17:25:48"
+    "event_timestamp": "2025-12-25T20:37:18"
   },
   {
     "schema_version": "v2",
@@ -2829,7 +2829,7 @@
     "customer_id": "ecc0040a-de88-4b82-abf7-5a95cdee432f",
     "amount": 1977.59,
     "currency": "USD",
-    "event_timestamp": "2025-02-04T21:50:56"
+    "event_timestamp": "2025-02-05T01:02:26"
   },
   {
     "schema_version": "v2",
@@ -2837,7 +2837,7 @@
     "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
     "amount": 1981.96,
     "currency": "USD",
-    "event_timestamp": "2021-01-12T00:29:14"
+    "event_timestamp": "2021-01-12T03:40:44"
   },
   {
     "schema_version": "v2",
@@ -2845,7 +2845,7 @@
     "customer_id": "3200b5b0-7162-4924-a708-b8a910e983f6",
     "amount": 413.01,
     "currency": "USD",
-    "event_timestamp": "2026-04-16T06:06:12"
+    "event_timestamp": "2026-04-16T09:17:42"
   },
   {
     "schema_version": "v2",
@@ -2853,7 +2853,7 @@
     "customer_id": "cd568a51-3a46-468b-a329-ff19e778f501",
     "amount": 1475.72,
     "currency": "USD",
-    "event_timestamp": "2022-02-13T19:01:12"
+    "event_timestamp": "2022-02-13T22:12:42"
   },
   {
     "schema_version": "v2",
@@ -2861,7 +2861,7 @@
     "customer_id": "96d79886-a59b-48fa-afe3-c3144ebecfcc",
     "amount": 3222.67,
     "currency": "USD",
-    "event_timestamp": "2026-08-11T21:52:32"
+    "event_timestamp": "2026-08-12T01:04:02"
   },
   {
     "schema_version": "v2",
@@ -2869,7 +2869,7 @@
     "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
     "amount": 1980.93,
     "currency": "USD",
-    "event_timestamp": "2017-08-29T23:23:41"
+    "event_timestamp": "2017-08-30T02:35:11"
   },
   {
     "schema_version": "v2",
@@ -2877,7 +2877,7 @@
     "customer_id": "6daab15a-cc4b-4aa3-acf6-04fb20dc5737",
     "amount": 1119.59,
     "currency": "USD",
-    "event_timestamp": "2023-08-06T14:59:56"
+    "event_timestamp": "2023-08-06T18:11:26"
   },
   {
     "schema_version": "v2",
@@ -2885,7 +2885,7 @@
     "customer_id": "0418883f-a6f5-4b17-a542-615ea8690180",
     "amount": 1066.66,
     "currency": "USD",
-    "event_timestamp": "2020-10-06T19:25:28"
+    "event_timestamp": "2020-10-06T22:36:58"
   },
   {
     "schema_version": "v2",
@@ -2893,7 +2893,7 @@
     "customer_id": "eb5b9d11-9705-42b6-a303-fd00636c9c55",
     "amount": 1785.37,
     "currency": "USD",
-    "event_timestamp": "2026-07-01T02:07:34"
+    "event_timestamp": "2026-07-01T05:19:04"
   },
   {
     "schema_version": "v2",
@@ -2901,7 +2901,7 @@
     "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
     "amount": 131.56,
     "currency": "USD",
-    "event_timestamp": "2025-05-23T07:35:47"
+    "event_timestamp": "2025-05-23T10:47:17"
   },
   {
     "schema_version": "v2",
@@ -2909,7 +2909,7 @@
     "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
     "amount": 1259.32,
     "currency": "USD",
-    "event_timestamp": "2025-12-21T03:34:23"
+    "event_timestamp": "2025-12-21T06:45:53"
   },
   {
     "schema_version": "v2",
@@ -2917,7 +2917,7 @@
     "customer_id": "53f5ceef-a1e7-4d05-abf3-f4676e84ccb6",
     "amount": 974.77,
     "currency": "USD",
-    "event_timestamp": "2023-02-27T22:01:17"
+    "event_timestamp": "2023-02-28T01:12:47"
   },
   {
     "schema_version": "v2",
@@ -2925,7 +2925,7 @@
     "customer_id": "15fd5efc-afec-4bdb-a591-18a670adf72d",
     "amount": 526.06,
     "currency": "USD",
-    "event_timestamp": "2022-02-07T20:26:36"
+    "event_timestamp": "2022-02-07T23:38:06"
   },
   {
     "schema_version": "v2",
@@ -2933,7 +2933,7 @@
     "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
     "amount": 1127.68,
     "currency": "USD",
-    "event_timestamp": "2021-02-17T01:27:14"
+    "event_timestamp": "2021-02-17T04:38:44"
   },
   {
     "schema_version": "v2",
@@ -2941,7 +2941,7 @@
     "customer_id": "667c46f7-63ea-4a75-a8e6-08a5d51abf27",
     "amount": 366.78,
     "currency": "USD",
-    "event_timestamp": "2025-08-27T16:00:20"
+    "event_timestamp": "2025-08-27T19:11:50"
   },
   {
     "schema_version": "v2",
@@ -2949,7 +2949,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 227.98,
     "currency": "USD",
-    "event_timestamp": "2024-07-14T03:44:38"
+    "event_timestamp": "2024-07-14T06:56:08"
   },
   {
     "schema_version": "v2",
@@ -2957,7 +2957,7 @@
     "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
     "amount": 969.42,
     "currency": "USD",
-    "event_timestamp": "2025-08-30T23:13:13"
+    "event_timestamp": "2025-08-31T02:24:43"
   },
   {
     "schema_version": "v2",
@@ -2965,7 +2965,7 @@
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "amount": 2275.79,
     "currency": "USD",
-    "event_timestamp": "2024-09-18T08:50:08"
+    "event_timestamp": "2024-09-18T12:01:38"
   },
   {
     "schema_version": "v2",
@@ -2973,7 +2973,7 @@
     "customer_id": "990cf566-7659-4327-a78b-36e8d3ccab83",
     "amount": 935.35,
     "currency": "USD",
-    "event_timestamp": "2021-09-16T14:23:18"
+    "event_timestamp": "2021-09-16T17:34:48"
   },
   {
     "schema_version": "v2",
@@ -2981,7 +2981,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 1273.29,
     "currency": "USD",
-    "event_timestamp": "2021-05-01T01:26:39"
+    "event_timestamp": "2021-05-01T04:38:09"
   },
   {
     "schema_version": "v2",
@@ -2989,7 +2989,7 @@
     "customer_id": "3e09f8da-406a-4c02-ac09-326c7ab4a03a",
     "amount": 671.07,
     "currency": "USD",
-    "event_timestamp": "2023-04-02T17:04:25"
+    "event_timestamp": "2023-04-02T20:15:55"
   },
   {
     "schema_version": "v2",
@@ -2997,7 +2997,7 @@
     "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
     "amount": 3020.71,
     "currency": "USD",
-    "event_timestamp": "2025-09-15T22:05:54"
+    "event_timestamp": "2025-09-16T01:17:24"
   },
   {
     "schema_version": "v2",
@@ -3005,7 +3005,7 @@
     "customer_id": "ecc0040a-de88-4b82-abf7-5a95cdee432f",
     "amount": 911.62,
     "currency": "USD",
-    "event_timestamp": "2026-04-29T20:26:53"
+    "event_timestamp": "2026-04-29T23:38:23"
   },
   {
     "schema_version": "v2",
@@ -3013,7 +3013,7 @@
     "customer_id": "9a498078-f9fe-4ee6-a6ca-fecd1b446456",
     "amount": 1129.6,
     "currency": "USD",
-    "event_timestamp": "2019-04-17T22:41:58"
+    "event_timestamp": "2019-04-18T01:53:28"
   },
   {
     "schema_version": "v2",
@@ -3021,7 +3021,7 @@
     "customer_id": "61db11b5-ea47-406e-ab35-a68d0da84a93",
     "amount": 433.02,
     "currency": "USD",
-    "event_timestamp": "2023-07-23T20:26:25"
+    "event_timestamp": "2023-07-23T23:37:55"
   },
   {
     "schema_version": "v2",
@@ -3029,7 +3029,7 @@
     "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
     "amount": 1374.84,
     "currency": "USD",
-    "event_timestamp": "2024-09-14T13:07:51"
+    "event_timestamp": "2024-09-14T16:19:21"
   },
   {
     "schema_version": "v2",
@@ -3037,7 +3037,7 @@
     "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
     "amount": 2122.78,
     "currency": "USD",
-    "event_timestamp": "2021-06-02T10:48:57"
+    "event_timestamp": "2021-06-02T14:00:27"
   },
   {
     "schema_version": "v2",
@@ -3045,7 +3045,7 @@
     "customer_id": "00a26b34-5858-49f2-a1f5-23903adf7024",
     "amount": 267.9,
     "currency": "USD",
-    "event_timestamp": "2024-06-17T14:12:13"
+    "event_timestamp": "2024-06-17T17:23:43"
   },
   {
     "schema_version": "v2",
@@ -3053,7 +3053,7 @@
     "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
     "amount": 1319.59,
     "currency": "USD",
-    "event_timestamp": "2025-10-13T23:50:43"
+    "event_timestamp": "2025-10-14T03:02:13"
   },
   {
     "schema_version": "v2",
@@ -3061,7 +3061,7 @@
     "customer_id": "e37ed88f-5c5c-4eef-a1c6-6d00e550d894",
     "amount": 1137.3,
     "currency": "USD",
-    "event_timestamp": "2026-04-26T08:48:24"
+    "event_timestamp": "2026-04-26T11:59:54"
   },
   {
     "schema_version": "v2",
@@ -3069,7 +3069,7 @@
     "customer_id": "82f1f9e6-f4be-4a71-af9e-807866d981c2",
     "amount": 535.8,
     "currency": "USD",
-    "event_timestamp": "2026-04-22T20:13:46"
+    "event_timestamp": "2026-04-22T23:25:16"
   },
   {
     "schema_version": "v2",
@@ -3077,7 +3077,7 @@
     "customer_id": "9a498078-f9fe-4ee6-a6ca-fecd1b446456",
     "amount": 1777.83,
     "currency": "USD",
-    "event_timestamp": "2021-11-26T11:28:21"
+    "event_timestamp": "2021-11-26T14:39:51"
   },
   {
     "schema_version": "v2",
@@ -3085,7 +3085,7 @@
     "customer_id": "28f70b22-694f-4ea6-a824-46cd5acf2e4f",
     "amount": 787.99,
     "currency": "USD",
-    "event_timestamp": "2024-05-27T13:54:10"
+    "event_timestamp": "2024-05-27T17:05:40"
   },
   {
     "schema_version": "v2",
@@ -3093,7 +3093,7 @@
     "customer_id": "86b84f32-e8e7-4fc5-af6b-f25eff6d9cf8",
     "amount": 219.26,
     "currency": "USD",
-    "event_timestamp": "2026-05-20T00:26:19"
+    "event_timestamp": "2026-05-20T03:37:49"
   },
   {
     "schema_version": "v2",
@@ -3101,7 +3101,7 @@
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "amount": 1868.74,
     "currency": "USD",
-    "event_timestamp": "2026-08-28T09:50:11"
+    "event_timestamp": "2026-08-28T13:01:41"
   },
   {
     "schema_version": "v2",
@@ -3109,7 +3109,7 @@
     "customer_id": "415f845e-f985-411f-a3c5-57a298f30f99",
     "amount": 1917.56,
     "currency": "USD",
-    "event_timestamp": "2026-04-19T02:57:42"
+    "event_timestamp": "2026-04-19T06:09:12"
   },
   {
     "schema_version": "v2",
@@ -3117,7 +3117,7 @@
     "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
     "amount": 1103.78,
     "currency": "USD",
-    "event_timestamp": "2024-09-22T21:22:34"
+    "event_timestamp": "2024-09-23T00:34:04"
   },
   {
     "schema_version": "v2",
@@ -3125,7 +3125,7 @@
     "customer_id": "23e58bed-ff84-4dc5-a9aa-2d3f5cb904ef",
     "amount": 479.88,
     "currency": "USD",
-    "event_timestamp": "2026-06-14T23:32:38"
+    "event_timestamp": "2026-06-15T02:44:08"
   },
   {
     "schema_version": "v2",
@@ -3133,7 +3133,7 @@
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "amount": 759.21,
     "currency": "USD",
-    "event_timestamp": "2026-07-19T20:37:52"
+    "event_timestamp": "2026-07-19T23:49:22"
   },
   {
     "schema_version": "v2",
@@ -3141,7 +3141,7 @@
     "customer_id": "6daab15a-cc4b-4aa3-acf6-04fb20dc5737",
     "amount": 230.04,
     "currency": "USD",
-    "event_timestamp": "2024-08-01T07:31:13"
+    "event_timestamp": "2024-08-01T10:42:43"
   },
   {
     "schema_version": "v2",
@@ -3149,7 +3149,7 @@
     "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
     "amount": 197.34,
     "currency": "USD",
-    "event_timestamp": "2024-03-29T14:29:41"
+    "event_timestamp": "2024-03-29T17:41:11"
   },
   {
     "schema_version": "v2",
@@ -3157,7 +3157,7 @@
     "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
     "amount": 2256.71,
     "currency": "USD",
-    "event_timestamp": "2022-09-21T04:46:19"
+    "event_timestamp": "2022-09-21T07:57:49"
   },
   {
     "schema_version": "v2",
@@ -3165,7 +3165,7 @@
     "customer_id": "415b6990-d066-4bd4-a788-01ff6c0be6a6",
     "amount": 2340.39,
     "currency": "USD",
-    "event_timestamp": "2023-05-09T05:26:03"
+    "event_timestamp": "2023-05-09T08:37:33"
   },
   {
     "schema_version": "v2",
@@ -3173,7 +3173,7 @@
     "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
     "amount": 1624.66,
     "currency": "USD",
-    "event_timestamp": "2022-05-20T21:15:15"
+    "event_timestamp": "2022-05-21T00:26:45"
   },
   {
     "schema_version": "v2",
@@ -3181,7 +3181,7 @@
     "customer_id": "39b96335-a1f2-4d06-a53d-c53a68e0bb99",
     "amount": 520.98,
     "currency": "USD",
-    "event_timestamp": "2020-05-31T14:32:41"
+    "event_timestamp": "2020-05-31T17:44:11"
   },
   {
     "schema_version": "v2",
@@ -3189,7 +3189,7 @@
     "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
     "amount": 1154.62,
     "currency": "USD",
-    "event_timestamp": "2023-04-22T19:46:43"
+    "event_timestamp": "2023-04-22T22:58:13"
   },
   {
     "schema_version": "v2",
@@ -3197,7 +3197,7 @@
     "customer_id": "b4d8bca3-7dd5-4ae6-af69-a557073f3ffd",
     "amount": 483.23,
     "currency": "USD",
-    "event_timestamp": "2025-06-22T03:51:27"
+    "event_timestamp": "2025-06-22T07:02:57"
   },
   {
     "schema_version": "v2",
@@ -3205,7 +3205,7 @@
     "customer_id": "c0cc12de-3c6f-4e9f-a1dd-d117f8c3c735",
     "amount": 1088.92,
     "currency": "USD",
-    "event_timestamp": "2025-05-14T08:27:25"
+    "event_timestamp": "2025-05-14T11:38:55"
   },
   {
     "schema_version": "v2",
@@ -3213,7 +3213,7 @@
     "customer_id": "2091d4dd-6fec-42a9-a3dd-10382d3c2046",
     "amount": 455.0,
     "currency": "USD",
-    "event_timestamp": "2024-01-24T00:49:27"
+    "event_timestamp": "2024-01-24T04:00:57"
   },
   {
     "schema_version": "v2",
@@ -3221,7 +3221,7 @@
     "customer_id": "a3e48cbb-692d-4f0a-a865-a99a3a45b50e",
     "amount": 1212.6,
     "currency": "USD",
-    "event_timestamp": "2023-04-07T04:34:17"
+    "event_timestamp": "2023-04-07T07:45:47"
   },
   {
     "schema_version": "v2",
@@ -3229,7 +3229,7 @@
     "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
     "amount": 1963.08,
     "currency": "USD",
-    "event_timestamp": "2022-02-21T17:50:28"
+    "event_timestamp": "2022-02-21T21:01:58"
   },
   {
     "schema_version": "v2",
@@ -3237,7 +3237,7 @@
     "customer_id": "00a26b34-5858-49f2-a1f5-23903adf7024",
     "amount": 2118.12,
     "currency": "USD",
-    "event_timestamp": "2025-01-13T01:55:40"
+    "event_timestamp": "2025-01-13T05:07:10"
   },
   {
     "schema_version": "v2",
@@ -3245,7 +3245,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 1693.08,
     "currency": "USD",
-    "event_timestamp": "2020-11-03T01:56:40"
+    "event_timestamp": "2020-11-03T05:08:10"
   },
   {
     "schema_version": "v2",
@@ -3253,7 +3253,7 @@
     "customer_id": "c0cc12de-3c6f-4e9f-a1dd-d117f8c3c735",
     "amount": 281.51,
     "currency": "USD",
-    "event_timestamp": "2023-12-23T22:48:18"
+    "event_timestamp": "2023-12-24T01:59:48"
   },
   {
     "schema_version": "v2",
@@ -3261,7 +3261,7 @@
     "customer_id": "7702b3f3-54fd-49c0-a3d4-3a43ba89153c",
     "amount": 2005.35,
     "currency": "USD",
-    "event_timestamp": "2025-11-18T15:48:00"
+    "event_timestamp": "2025-11-18T18:59:30"
   },
   {
     "schema_version": "v2",
@@ -3269,7 +3269,7 @@
     "customer_id": "a047121a-1c74-4799-a7dc-68a887c10561",
     "amount": 212.45,
     "currency": "USD",
-    "event_timestamp": "2025-07-26T03:30:57"
+    "event_timestamp": "2025-07-26T06:42:27"
   },
   {
     "schema_version": "v2",
@@ -3277,7 +3277,7 @@
     "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
     "amount": 1835.59,
     "currency": "USD",
-    "event_timestamp": "2025-08-23T04:38:18"
+    "event_timestamp": "2025-08-23T07:49:48"
   },
   {
     "schema_version": "v2",
@@ -3285,7 +3285,7 @@
     "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
     "amount": 1506.49,
     "currency": "USD",
-    "event_timestamp": "2026-07-26T23:08:28"
+    "event_timestamp": "2026-07-27T02:19:58"
   },
   {
     "schema_version": "v2",
@@ -3293,7 +3293,7 @@
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "amount": 2837.61,
     "currency": "USD",
-    "event_timestamp": "2025-12-08T08:30:52"
+    "event_timestamp": "2025-12-08T11:42:22"
   },
   {
     "schema_version": "v2",
@@ -3301,7 +3301,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 1227.77,
     "currency": "USD",
-    "event_timestamp": "2026-03-25T21:32:06"
+    "event_timestamp": "2026-03-26T00:43:36"
   },
   {
     "schema_version": "v2",
@@ -3309,7 +3309,7 @@
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "amount": 4925.16,
     "currency": "USD",
-    "event_timestamp": "2023-07-17T15:19:23"
+    "event_timestamp": "2023-07-17T18:30:53"
   },
   {
     "schema_version": "v2",
@@ -3317,7 +3317,7 @@
     "customer_id": "d56fdad6-60eb-4419-a3b6-2da18ca52275",
     "amount": 452.85,
     "currency": "USD",
-    "event_timestamp": "2026-07-13T22:18:24"
+    "event_timestamp": "2026-07-14T01:29:54"
   },
   {
     "schema_version": "v2",
@@ -3325,7 +3325,7 @@
     "customer_id": "6298085e-684b-4de0-a6ff-823bd471d3c5",
     "amount": 195.73,
     "currency": "USD",
-    "event_timestamp": "2026-07-24T15:39:12"
+    "event_timestamp": "2026-07-24T18:50:42"
   },
   {
     "schema_version": "v2",
@@ -3333,7 +3333,7 @@
     "customer_id": "0b69d5a5-9303-4b27-a151-afda6683b57c",
     "amount": 444.84,
     "currency": "USD",
-    "event_timestamp": "2024-06-14T02:10:18"
+    "event_timestamp": "2024-06-14T05:21:48"
   },
   {
     "schema_version": "v2",
@@ -3341,7 +3341,7 @@
     "customer_id": "23e58bed-ff84-4dc5-a9aa-2d3f5cb904ef",
     "amount": 654.33,
     "currency": "USD",
-    "event_timestamp": "2019-05-23T15:32:04"
+    "event_timestamp": "2019-05-23T18:43:34"
   },
   {
     "schema_version": "v2",
@@ -3349,7 +3349,7 @@
     "customer_id": "15fd5efc-afec-4bdb-a591-18a670adf72d",
     "amount": 2402.79,
     "currency": "USD",
-    "event_timestamp": "2024-03-21T21:37:18"
+    "event_timestamp": "2024-03-22T00:48:48"
   },
   {
     "schema_version": "v2",
@@ -3357,7 +3357,7 @@
     "customer_id": "4fc7b791-b069-4cdb-ae1d-3218776f1a34",
     "amount": 2847.91,
     "currency": "USD",
-    "event_timestamp": "2021-11-24T19:57:20"
+    "event_timestamp": "2021-11-24T23:08:50"
   },
   {
     "schema_version": "v2",
@@ -3365,7 +3365,7 @@
     "customer_id": "142aa2cc-a993-43e5-a52e-750e5fe63b02",
     "amount": 743.58,
     "currency": "USD",
-    "event_timestamp": "2026-01-28T12:16:03"
+    "event_timestamp": "2026-01-28T15:27:33"
   },
   {
     "schema_version": "v2",
@@ -3373,7 +3373,7 @@
     "customer_id": "0b69d5a5-9303-4b27-a151-afda6683b57c",
     "amount": 906.42,
     "currency": "USD",
-    "event_timestamp": "2021-12-01T03:05:36"
+    "event_timestamp": "2021-12-01T06:17:06"
   },
   {
     "schema_version": "v2",
@@ -3381,7 +3381,7 @@
     "customer_id": "142aa2cc-a993-43e5-a52e-750e5fe63b02",
     "amount": 68.38,
     "currency": "USD",
-    "event_timestamp": "2026-04-14T00:48:57"
+    "event_timestamp": "2026-04-14T04:00:27"
   },
   {
     "schema_version": "v2",
@@ -3389,7 +3389,7 @@
     "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
     "amount": 2101.17,
     "currency": "USD",
-    "event_timestamp": "2024-09-01T18:19:15"
+    "event_timestamp": "2024-09-01T21:30:45"
   },
   {
     "schema_version": "v2",
@@ -3397,7 +3397,7 @@
     "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
     "amount": 1483.54,
     "currency": "USD",
-    "event_timestamp": "2024-05-06T17:32:11"
+    "event_timestamp": "2024-05-06T20:43:41"
   },
   {
     "schema_version": "v2",
@@ -3405,7 +3405,7 @@
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "amount": 49.04,
     "currency": "USD",
-    "event_timestamp": "2025-06-24T09:57:16"
+    "event_timestamp": "2025-06-24T13:08:46"
   },
   {
     "schema_version": "v2",
@@ -3413,7 +3413,7 @@
     "customer_id": "2aeb4bc5-5360-4733-a48e-f9cecf2451b6",
     "amount": 2473.26,
     "currency": "USD",
-    "event_timestamp": "2024-10-24T06:57:20"
+    "event_timestamp": "2024-10-24T10:08:50"
   },
   {
     "schema_version": "v2",
@@ -3421,7 +3421,7 @@
     "customer_id": "b4d8bca3-7dd5-4ae6-af69-a557073f3ffd",
     "amount": 1823.52,
     "currency": "USD",
-    "event_timestamp": "2026-01-17T01:52:46"
+    "event_timestamp": "2026-01-17T05:04:16"
   },
   {
     "schema_version": "v2",
@@ -3429,7 +3429,7 @@
     "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
     "amount": 966.46,
     "currency": "USD",
-    "event_timestamp": "2024-02-10T02:52:02"
+    "event_timestamp": "2024-02-10T06:03:32"
   },
   {
     "schema_version": "v2",
@@ -3437,7 +3437,7 @@
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "amount": 280.14,
     "currency": "USD",
-    "event_timestamp": "2024-02-06T01:08:04"
+    "event_timestamp": "2024-02-06T04:19:34"
   },
   {
     "schema_version": "v2",
@@ -3445,7 +3445,7 @@
     "customer_id": "aafa9118-e54b-4206-a16c-efa8171f22e2",
     "amount": 2565.05,
     "currency": "USD",
-    "event_timestamp": "2026-07-12T04:52:03"
+    "event_timestamp": "2026-07-12T08:03:33"
   },
   {
     "schema_version": "v2",
@@ -3453,7 +3453,7 @@
     "customer_id": "e0d43681-e1ee-4f6f-a2ba-0d216cb5fffa",
     "amount": 145.11,
     "currency": "USD",
-    "event_timestamp": "2026-07-20T08:49:15"
+    "event_timestamp": "2026-07-20T12:00:45"
   },
   {
     "schema_version": "v2",
@@ -3461,7 +3461,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 1793.15,
     "currency": "USD",
-    "event_timestamp": "2020-05-06T18:52:25"
+    "event_timestamp": "2020-05-06T22:03:55"
   },
   {
     "schema_version": "v2",
@@ -3469,7 +3469,7 @@
     "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
     "amount": 1747.23,
     "currency": "USD",
-    "event_timestamp": "2023-09-29T22:03:52"
+    "event_timestamp": "2023-09-30T01:15:22"
   },
   {
     "schema_version": "v2",
@@ -3477,7 +3477,7 @@
     "customer_id": "37a3a29c-adf9-4891-a8b2-b52872d0575f",
     "amount": 1558.91,
     "currency": "USD",
-    "event_timestamp": "2023-05-13T03:12:25"
+    "event_timestamp": "2023-05-13T06:23:55"
   },
   {
     "schema_version": "v2",
@@ -3485,7 +3485,7 @@
     "customer_id": "a3e48cbb-692d-4f0a-a865-a99a3a45b50e",
     "amount": 2474.36,
     "currency": "USD",
-    "event_timestamp": "2025-04-11T15:34:39"
+    "event_timestamp": "2025-04-11T18:46:09"
   },
   {
     "schema_version": "v2",
@@ -3493,7 +3493,7 @@
     "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
     "amount": 67.17,
     "currency": "USD",
-    "event_timestamp": "2024-01-01T15:10:59"
+    "event_timestamp": "2024-01-01T18:22:29"
   },
   {
     "schema_version": "v2",
@@ -3501,7 +3501,7 @@
     "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
     "amount": 1601.33,
     "currency": "USD",
-    "event_timestamp": "2023-03-27T13:02:01"
+    "event_timestamp": "2023-03-27T16:13:31"
   },
   {
     "schema_version": "v2",
@@ -3509,7 +3509,7 @@
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "amount": 412.86,
     "currency": "USD",
-    "event_timestamp": "2025-06-03T23:51:36"
+    "event_timestamp": "2025-06-04T03:03:06"
   },
   {
     "schema_version": "v2",
@@ -3517,7 +3517,7 @@
     "customer_id": "667c46f7-63ea-4a75-a8e6-08a5d51abf27",
     "amount": 2443.28,
     "currency": "USD",
-    "event_timestamp": "2025-01-09T23:09:41"
+    "event_timestamp": "2025-01-10T02:21:11"
   },
   {
     "schema_version": "v2",
@@ -3525,7 +3525,7 @@
     "customer_id": "b4d8bca3-7dd5-4ae6-af69-a557073f3ffd",
     "amount": 3272.14,
     "currency": "USD",
-    "event_timestamp": "2023-04-09T16:12:30"
+    "event_timestamp": "2023-04-09T19:24:00"
   },
   {
     "schema_version": "v2",
@@ -3533,7 +3533,7 @@
     "customer_id": "70d40298-19d3-4d3a-a4b4-adf07f77c8e9",
     "amount": 1472.06,
     "currency": "USD",
-    "event_timestamp": "2024-05-24T17:43:34"
+    "event_timestamp": "2024-05-24T20:55:04"
   },
   {
     "schema_version": "v2",
@@ -3541,7 +3541,7 @@
     "customer_id": "96d79886-a59b-48fa-afe3-c3144ebecfcc",
     "amount": 1393.5,
     "currency": "USD",
-    "event_timestamp": "2026-05-28T10:18:55"
+    "event_timestamp": "2026-05-28T13:30:25"
   },
   {
     "schema_version": "v2",
@@ -3549,7 +3549,7 @@
     "customer_id": "5d2d0b2f-a1c5-4e49-a868-a7ad1cf6850b",
     "amount": 583.65,
     "currency": "USD",
-    "event_timestamp": "2026-04-06T07:25:46"
+    "event_timestamp": "2026-04-06T10:37:16"
   },
   {
     "schema_version": "v2",
@@ -3557,7 +3557,7 @@
     "customer_id": "415b6990-d066-4bd4-a788-01ff6c0be6a6",
     "amount": 3630.02,
     "currency": "USD",
-    "event_timestamp": "2024-05-15T17:35:09"
+    "event_timestamp": "2024-05-15T20:46:39"
   },
   {
     "schema_version": "v2",
@@ -3565,7 +3565,7 @@
     "customer_id": "d56fdad6-60eb-4419-a3b6-2da18ca52275",
     "amount": 1057.67,
     "currency": "USD",
-    "event_timestamp": "2026-06-19T15:58:29"
+    "event_timestamp": "2026-06-19T19:09:59"
   },
   {
     "schema_version": "v2",
@@ -3573,7 +3573,7 @@
     "customer_id": "0418883f-a6f5-4b17-a542-615ea8690180",
     "amount": 2556.33,
     "currency": "USD",
-    "event_timestamp": "2025-11-20T07:20:46"
+    "event_timestamp": "2025-11-20T10:32:16"
   },
   {
     "schema_version": "v2",
@@ -3581,7 +3581,7 @@
     "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
     "amount": 1411.23,
     "currency": "USD",
-    "event_timestamp": "2021-09-07T13:08:19"
+    "event_timestamp": "2021-09-07T16:19:49"
   },
   {
     "schema_version": "v2",
@@ -3589,7 +3589,7 @@
     "customer_id": "cb7d85bb-ed92-4611-a157-74a9cc777263",
     "amount": 844.53,
     "currency": "USD",
-    "event_timestamp": "2026-07-18T17:51:06"
+    "event_timestamp": "2026-07-18T21:02:36"
   },
   {
     "schema_version": "v2",
@@ -3597,7 +3597,7 @@
     "customer_id": "085c0f4e-0ab0-4289-ab87-aee84926c399",
     "amount": 780.43,
     "currency": "USD",
-    "event_timestamp": "2022-05-20T15:07:26"
+    "event_timestamp": "2022-05-20T18:18:56"
   },
   {
     "schema_version": "v2",
@@ -3605,7 +3605,7 @@
     "customer_id": "990cf566-7659-4327-a78b-36e8d3ccab83",
     "amount": 506.14,
     "currency": "USD",
-    "event_timestamp": "2022-05-04T09:18:05"
+    "event_timestamp": "2022-05-04T12:29:35"
   },
   {
     "schema_version": "v2",
@@ -3613,7 +3613,7 @@
     "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
     "amount": 157.56,
     "currency": "USD",
-    "event_timestamp": "2025-11-24T20:15:39"
+    "event_timestamp": "2025-11-24T23:27:09"
   },
   {
     "schema_version": "v2",
@@ -3621,7 +3621,7 @@
     "customer_id": "0b69d5a5-9303-4b27-a151-afda6683b57c",
     "amount": 1587.2,
     "currency": "USD",
-    "event_timestamp": "2025-12-07T03:31:11"
+    "event_timestamp": "2025-12-07T06:42:41"
   },
   {
     "schema_version": "v2",
@@ -3629,7 +3629,7 @@
     "customer_id": "b861e15e-937c-4ae1-aeac-152b1c4a8dc1",
     "amount": 1908.95,
     "currency": "USD",
-    "event_timestamp": "2023-11-23T17:57:57"
+    "event_timestamp": "2023-11-23T21:09:27"
   },
   {
     "schema_version": "v2",
@@ -3637,7 +3637,7 @@
     "customer_id": "4155aa61-8aa7-4370-a2bc-c2dc2ed53a10",
     "amount": 2518.66,
     "currency": "USD",
-    "event_timestamp": "2026-07-08T16:31:13"
+    "event_timestamp": "2026-07-08T19:42:43"
   },
   {
     "schema_version": "v2",
@@ -3645,7 +3645,7 @@
     "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
     "amount": 720.59,
     "currency": "USD",
-    "event_timestamp": "2026-03-17T16:43:41"
+    "event_timestamp": "2026-03-17T19:55:11"
   },
   {
     "schema_version": "v2",
@@ -3653,7 +3653,7 @@
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "amount": 1177.52,
     "currency": "USD",
-    "event_timestamp": "2025-11-23T13:56:52"
+    "event_timestamp": "2025-11-23T17:08:22"
   },
   {
     "schema_version": "v2",
@@ -3661,7 +3661,7 @@
     "customer_id": "5d2d0b2f-a1c5-4e49-a868-a7ad1cf6850b",
     "amount": 583.95,
     "currency": "USD",
-    "event_timestamp": "2026-02-15T21:43:56"
+    "event_timestamp": "2026-02-16T00:55:26"
   },
   {
     "schema_version": "v2",
@@ -3669,7 +3669,7 @@
     "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
     "amount": 105.09,
     "currency": "USD",
-    "event_timestamp": "2017-02-23T05:58:57"
+    "event_timestamp": "2017-02-23T09:10:27"
   },
   {
     "schema_version": "v2",
@@ -3677,7 +3677,7 @@
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "amount": 2216.14,
     "currency": "USD",
-    "event_timestamp": "2025-10-29T06:33:26"
+    "event_timestamp": "2025-10-29T09:44:56"
   },
   {
     "schema_version": "v2",
@@ -3685,7 +3685,7 @@
     "customer_id": "cd568a51-3a46-468b-a329-ff19e778f501",
     "amount": 225.59,
     "currency": "USD",
-    "event_timestamp": "2024-10-30T04:14:29"
+    "event_timestamp": "2024-10-30T07:25:59"
   },
   {
     "schema_version": "v2",
@@ -3693,7 +3693,7 @@
     "customer_id": "81c0df43-5a84-4f43-af93-31fc45954f5d",
     "amount": 1610.51,
     "currency": "USD",
-    "event_timestamp": "2024-06-29T15:13:57"
+    "event_timestamp": "2024-06-29T18:25:27"
   },
   {
     "schema_version": "v2",
@@ -3701,7 +3701,7 @@
     "customer_id": "df849b97-440b-48c3-ad10-8b91f8cc5515",
     "amount": 1848.27,
     "currency": "USD",
-    "event_timestamp": "2023-01-10T09:04:44"
+    "event_timestamp": "2023-01-10T12:16:14"
   },
   {
     "schema_version": "v2",
@@ -3709,7 +3709,7 @@
     "customer_id": "61db11b5-ea47-406e-ab35-a68d0da84a93",
     "amount": 237.83,
     "currency": "USD",
-    "event_timestamp": "2025-10-09T10:48:24"
+    "event_timestamp": "2025-10-09T13:59:54"
   },
   {
     "schema_version": "v2",
@@ -3717,7 +3717,7 @@
     "customer_id": "86b84f32-e8e7-4fc5-af6b-f25eff6d9cf8",
     "amount": 330.68,
     "currency": "USD",
-    "event_timestamp": "2024-01-20T02:37:52"
+    "event_timestamp": "2024-01-20T05:49:22"
   },
   {
     "schema_version": "v2",
@@ -3725,7 +3725,7 @@
     "customer_id": "af5aa080-d279-4a4d-a4c2-9b4f396c4d49",
     "amount": 1345.44,
     "currency": "USD",
-    "event_timestamp": "2023-12-09T14:28:25"
+    "event_timestamp": "2023-12-09T17:39:55"
   },
   {
     "schema_version": "v2",
@@ -3733,7 +3733,7 @@
     "customer_id": "8cab6725-7e90-4b81-a9d8-324cf10d2ebd",
     "amount": 600.98,
     "currency": "USD",
-    "event_timestamp": "2025-10-12T17:56:40"
+    "event_timestamp": "2025-10-12T21:08:10"
   },
   {
     "schema_version": "v2",
@@ -3741,7 +3741,7 @@
     "customer_id": "d56fdad6-60eb-4419-a3b6-2da18ca52275",
     "amount": 230.41,
     "currency": "USD",
-    "event_timestamp": "2026-04-05T21:00:46"
+    "event_timestamp": "2026-04-06T00:12:16"
   },
   {
     "schema_version": "v2",
@@ -3749,7 +3749,7 @@
     "customer_id": "177e363f-807b-41eb-a47a-5e92c213c7f1",
     "amount": 583.95,
     "currency": "USD",
-    "event_timestamp": "2023-05-13T04:50:26"
+    "event_timestamp": "2023-05-13T08:01:56"
   },
   {
     "schema_version": "v2",
@@ -3757,7 +3757,7 @@
     "customer_id": "e0d43681-e1ee-4f6f-a2ba-0d216cb5fffa",
     "amount": 1769.5,
     "currency": "USD",
-    "event_timestamp": "2026-07-26T11:30:25"
+    "event_timestamp": "2026-07-26T14:41:55"
   },
   {
     "schema_version": "v2",
@@ -3765,7 +3765,7 @@
     "customer_id": "61db11b5-ea47-406e-ab35-a68d0da84a93",
     "amount": 950.74,
     "currency": "USD",
-    "event_timestamp": "2022-03-12T09:24:12"
+    "event_timestamp": "2022-03-12T12:35:42"
   },
   {
     "schema_version": "v2",
@@ -3773,7 +3773,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 1464.25,
     "currency": "USD",
-    "event_timestamp": "2020-10-20T09:15:21"
+    "event_timestamp": "2020-10-20T12:26:51"
   },
   {
     "schema_version": "v2",
@@ -3781,7 +3781,7 @@
     "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
     "amount": 416.98,
     "currency": "USD",
-    "event_timestamp": "2024-01-12T21:30:06"
+    "event_timestamp": "2024-01-13T00:41:36"
   },
   {
     "schema_version": "v2",
@@ -3789,7 +3789,7 @@
     "customer_id": "a52000c4-0ca4-458f-a0e0-ff57affcc7ab",
     "amount": 262.02,
     "currency": "USD",
-    "event_timestamp": "2022-07-11T06:02:01"
+    "event_timestamp": "2022-07-11T09:13:31"
   },
   {
     "schema_version": "v2",
@@ -3797,7 +3797,7 @@
     "customer_id": "82f1f9e6-f4be-4a71-af9e-807866d981c2",
     "amount": 1247.97,
     "currency": "USD",
-    "event_timestamp": "2026-08-26T04:50:01"
+    "event_timestamp": "2026-08-26T08:01:31"
   },
   {
     "schema_version": "v2",
@@ -3805,7 +3805,7 @@
     "customer_id": "70d40298-19d3-4d3a-a4b4-adf07f77c8e9",
     "amount": 2644.8,
     "currency": "USD",
-    "event_timestamp": "2024-03-21T08:05:55"
+    "event_timestamp": "2024-03-21T11:17:25"
   },
   {
     "schema_version": "v2",
@@ -3813,7 +3813,7 @@
     "customer_id": "d316616a-da43-4c5a-a6a6-49776cdcf905",
     "amount": 2229.55,
     "currency": "USD",
-    "event_timestamp": "2022-08-20T00:59:55"
+    "event_timestamp": "2022-08-20T04:11:25"
   },
   {
     "schema_version": "v2",
@@ -3821,7 +3821,7 @@
     "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
     "amount": 1986.16,
     "currency": "USD",
-    "event_timestamp": "2022-05-12T21:40:37"
+    "event_timestamp": "2022-05-13T00:52:07"
   },
   {
     "schema_version": "v2",
@@ -3829,7 +3829,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 1868.82,
     "currency": "USD",
-    "event_timestamp": "2023-04-07T22:25:39"
+    "event_timestamp": "2023-04-08T01:37:09"
   },
   {
     "schema_version": "v2",
@@ -3837,7 +3837,7 @@
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "amount": 1235.18,
     "currency": "USD",
-    "event_timestamp": "2025-09-22T02:21:00"
+    "event_timestamp": "2025-09-22T05:32:30"
   },
   {
     "schema_version": "v2",
@@ -3845,7 +3845,7 @@
     "customer_id": "d316616a-da43-4c5a-a6a6-49776cdcf905",
     "amount": 1063.98,
     "currency": "USD",
-    "event_timestamp": "2025-09-04T19:07:26"
+    "event_timestamp": "2025-09-04T22:18:56"
   },
   {
     "schema_version": "v2",
@@ -3853,7 +3853,7 @@
     "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
     "amount": 65.78,
     "currency": "USD",
-    "event_timestamp": "2025-09-01T16:57:14"
+    "event_timestamp": "2025-09-01T20:08:44"
   },
   {
     "schema_version": "v2",
@@ -3861,7 +3861,7 @@
     "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
     "amount": 1584.24,
     "currency": "USD",
-    "event_timestamp": "2025-05-25T09:59:09"
+    "event_timestamp": "2025-05-25T13:10:39"
   },
   {
     "schema_version": "v2",
@@ -3869,7 +3869,7 @@
     "customer_id": "a52000c4-0ca4-458f-a0e0-ff57affcc7ab",
     "amount": 552.39,
     "currency": "USD",
-    "event_timestamp": "2019-04-08T09:39:24"
+    "event_timestamp": "2019-04-08T12:50:54"
   },
   {
     "schema_version": "v2",
@@ -3877,7 +3877,7 @@
     "customer_id": "39b96335-a1f2-4d06-a53d-c53a68e0bb99",
     "amount": 592.48,
     "currency": "USD",
-    "event_timestamp": "2022-11-03T09:38:19"
+    "event_timestamp": "2022-11-03T12:49:49"
   },
   {
     "schema_version": "v2",
@@ -3885,7 +3885,7 @@
     "customer_id": "af5aa080-d279-4a4d-a4c2-9b4f396c4d49",
     "amount": 743.1,
     "currency": "USD",
-    "event_timestamp": "2021-03-19T14:06:20"
+    "event_timestamp": "2021-03-19T17:17:50"
   },
   {
     "schema_version": "v2",
@@ -3893,7 +3893,7 @@
     "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
     "amount": 3364.5,
     "currency": "USD",
-    "event_timestamp": "2025-03-06T12:34:46"
+    "event_timestamp": "2025-03-06T15:46:16"
   },
   {
     "schema_version": "v2",
@@ -3901,7 +3901,7 @@
     "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
     "amount": 1933.08,
     "currency": "USD",
-    "event_timestamp": "2026-09-02T16:35:16"
+    "event_timestamp": "2026-09-02T19:46:46"
   },
   {
     "schema_version": "v2",
@@ -3909,7 +3909,7 @@
     "customer_id": "37a3a29c-adf9-4891-a8b2-b52872d0575f",
     "amount": 2712.3,
     "currency": "USD",
-    "event_timestamp": "2026-07-21T10:26:59"
+    "event_timestamp": "2026-07-21T13:38:29"
   },
   {
     "schema_version": "v2",
@@ -3917,7 +3917,7 @@
     "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
     "amount": 1428.68,
     "currency": "USD",
-    "event_timestamp": "2020-04-06T15:52:51"
+    "event_timestamp": "2020-04-06T19:04:21"
   },
   {
     "schema_version": "v2",
@@ -3925,7 +3925,7 @@
     "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
     "amount": 978.9,
     "currency": "USD",
-    "event_timestamp": "2022-05-30T09:50:33"
+    "event_timestamp": "2022-05-30T13:02:03"
   },
   {
     "schema_version": "v2",
@@ -3933,7 +3933,7 @@
     "customer_id": "8614332f-9208-4636-abbb-51cd8e960563",
     "amount": 831.25,
     "currency": "USD",
-    "event_timestamp": "2022-12-24T11:50:51"
+    "event_timestamp": "2022-12-24T15:02:21"
   },
   {
     "schema_version": "v2",
@@ -3941,7 +3941,7 @@
     "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
     "amount": 1458.59,
     "currency": "USD",
-    "event_timestamp": "2024-03-29T03:27:18"
+    "event_timestamp": "2024-03-29T06:38:48"
   },
   {
     "schema_version": "v2",
@@ -3949,7 +3949,7 @@
     "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
     "amount": 1212.6,
     "currency": "USD",
-    "event_timestamp": "2025-11-08T05:21:54"
+    "event_timestamp": "2025-11-08T08:33:24"
   },
   {
     "schema_version": "v2",
@@ -3957,7 +3957,7 @@
     "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
     "amount": 1069.26,
     "currency": "USD",
-    "event_timestamp": "2023-05-29T08:18:07"
+    "event_timestamp": "2023-05-29T11:29:37"
   },
   {
     "schema_version": "v2",
@@ -3965,7 +3965,7 @@
     "customer_id": "df849b97-440b-48c3-ad10-8b91f8cc5515",
     "amount": 1491.34,
     "currency": "USD",
-    "event_timestamp": "2025-09-02T14:21:29"
+    "event_timestamp": "2025-09-02T17:32:59"
   },
   {
     "schema_version": "v2",
@@ -3973,7 +3973,7 @@
     "customer_id": "8614332f-9208-4636-abbb-51cd8e960563",
     "amount": 254.11,
     "currency": "USD",
-    "event_timestamp": "2024-11-23T07:19:12"
+    "event_timestamp": "2024-11-23T10:30:42"
   },
   {
     "schema_version": "v2",
@@ -3981,7 +3981,7 @@
     "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
     "amount": 757.56,
     "currency": "USD",
-    "event_timestamp": "2024-11-04T07:29:48"
+    "event_timestamp": "2024-11-04T10:41:18"
   },
   {
     "schema_version": "v2",
@@ -3989,7 +3989,7 @@
     "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
     "amount": 1936.87,
     "currency": "USD",
-    "event_timestamp": "2026-01-04T04:24:02"
+    "event_timestamp": "2026-01-04T07:35:32"
   },
   {
     "schema_version": "v2",
@@ -3997,6 +3997,6 @@
     "customer_id": "142aa2cc-a993-43e5-a52e-750e5fe63b02",
     "amount": 414.28,
     "currency": "USD",
-    "event_timestamp": "2026-05-07T22:41:13"
+    "event_timestamp": "2026-05-08T01:52:43"
   }
 ]
