@@ -4,3 +4,10 @@
 - .brain/ memory established.
 - Phase 0 Architecture designed and approved.
 - Professional README and Architecture Documentation merged to main.
+
+## Checkpoint: Phase 1 First Half
+- Implemented Canonical Internal Model
+- Implemented 2016 MySQL Era
+- Implemented 2018 PostgreSQL Migration Era
+- Implemented 2020 Kafka Era
+- Implemented deterministic mapping and tests
