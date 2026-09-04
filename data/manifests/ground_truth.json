@@ -1,0 +1,252 @@
+[
+  {
+    "case_id": "GT-CUST-CUST_00000",
+    "case_type": "POSITIVE",
+    "difficulty": "EASY",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:customers:2016:v1:column:cust_id",
+    "target_urn": "dataset:postgres:customers:2018:v1:column:customer_id",
+    "relationship": "MIGRATED_TO",
+    "expected": true,
+    "evidence_profile": [
+      "NAME_SIMILARITY",
+      "VALUE_OVERLAP",
+      "TEMPORAL_ALIGNMENT"
+    ],
+    "transformation": "IDMapper.to_uuid()",
+    "notes": "Standard customer migration"
+  },
+  {
+    "case_id": "GT-CUST-CUST_00001",
+    "case_type": "POSITIVE",
+    "difficulty": "EASY",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:customers:2016:v1:column:cust_id",
+    "target_urn": "dataset:postgres:customers:2018:v1:column:customer_id",
+    "relationship": "MIGRATED_TO",
+    "expected": true,
+    "evidence_profile": [
+      "NAME_SIMILARITY",
+      "VALUE_OVERLAP",
+      "TEMPORAL_ALIGNMENT"
+    ],
+    "transformation": "IDMapper.to_uuid()",
+    "notes": "Standard customer migration"
+  },
+  {
+    "case_id": "GT-CUST-CUST_00002",
+    "case_type": "POSITIVE",
+    "difficulty": "EASY",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:customers:2016:v1:column:cust_id",
+    "target_urn": "dataset:postgres:customers:2018:v1:column:customer_id",
+    "relationship": "MIGRATED_TO",
+    "expected": true,
+    "evidence_profile": [
+      "NAME_SIMILARITY",
+      "VALUE_OVERLAP",
+      "TEMPORAL_ALIGNMENT"
+    ],
+    "transformation": "IDMapper.to_uuid()",
+    "notes": "Standard customer migration"
+  },
+  {
+    "case_id": "GT-CUST-CUST_00003",
+    "case_type": "POSITIVE",
+    "difficulty": "EASY",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:customers:2016:v1:column:cust_id",
+    "target_urn": "dataset:postgres:customers:2018:v1:column:customer_id",
+    "relationship": "MIGRATED_TO",
+    "expected": true,
+    "evidence_profile": [
+      "NAME_SIMILARITY",
+      "VALUE_OVERLAP",
+      "TEMPORAL_ALIGNMENT"
+    ],
+    "transformation": "IDMapper.to_uuid()",
+    "notes": "Standard customer migration"
+  },
+  {
+    "case_id": "GT-CUST-CUST_00004",
+    "case_type": "POSITIVE",
+    "difficulty": "EASY",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:customers:2016:v1:column:cust_id",
+    "target_urn": "dataset:postgres:customers:2018:v1:column:customer_id",
+    "relationship": "MIGRATED_TO",
+    "expected": true,
+    "evidence_profile": [
+      "NAME_SIMILARITY",
+      "VALUE_OVERLAP",
+      "TEMPORAL_ALIGNMENT"
+    ],
+    "transformation": "IDMapper.to_uuid()",
+    "notes": "Standard customer migration"
+  },
+  {
+    "case_id": "GT-ORD-ORD_000000",
+    "case_type": "POSITIVE",
+    "difficulty": "MEDIUM",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:orders:2016:v1:column:amount_cents",
+    "target_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "relationship": "TRANSFORMED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SCHEMA_SIMILARITY"
+    ],
+    "transformation": "amount_cents / 100.0",
+    "notes": "Decimal conversion"
+  },
+  {
+    "case_id": "GT-ORD-ORD_000001",
+    "case_type": "POSITIVE",
+    "difficulty": "MEDIUM",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:orders:2016:v1:column:amount_cents",
+    "target_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "relationship": "TRANSFORMED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SCHEMA_SIMILARITY"
+    ],
+    "transformation": "amount_cents / 100.0",
+    "notes": "Decimal conversion"
+  },
+  {
+    "case_id": "GT-ORD-ORD_000002",
+    "case_type": "POSITIVE",
+    "difficulty": "MEDIUM",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:orders:2016:v1:column:amount_cents",
+    "target_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "relationship": "TRANSFORMED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SCHEMA_SIMILARITY"
+    ],
+    "transformation": "amount_cents / 100.0",
+    "notes": "Decimal conversion"
+  },
+  {
+    "case_id": "GT-ORD-ORD_000003",
+    "case_type": "POSITIVE",
+    "difficulty": "MEDIUM",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:orders:2016:v1:column:amount_cents",
+    "target_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "relationship": "TRANSFORMED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SCHEMA_SIMILARITY"
+    ],
+    "transformation": "amount_cents / 100.0",
+    "notes": "Decimal conversion"
+  },
+  {
+    "case_id": "GT-ORD-ORD_000004",
+    "case_type": "POSITIVE",
+    "difficulty": "MEDIUM",
+    "source_era": "2016",
+    "target_era": "2018",
+    "source_urn": "dataset:mysql:orders:2016:v1:column:amount_cents",
+    "target_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "relationship": "TRANSFORMED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SCHEMA_SIMILARITY"
+    ],
+    "transformation": "amount_cents / 100.0",
+    "notes": "Decimal conversion"
+  },
+  {
+    "case_id": "GT-LAKE-CUST_00000",
+    "case_type": "POSITIVE",
+    "difficulty": "HARD",
+    "source_era": "2018",
+    "target_era": "2022",
+    "source_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "target_urn": "dataset:lake:customer_features:2022:v1:column:customer_transaction_total",
+    "relationship": "DERIVED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SPARK_ARTIFACT_REFERENCE"
+    ],
+    "transformation": "SUM(amount) GROUP BY customer_id",
+    "notes": "Derived aggregation field"
+  },
+  {
+    "case_id": "GT-LAKE-CUST_00001",
+    "case_type": "POSITIVE",
+    "difficulty": "HARD",
+    "source_era": "2018",
+    "target_era": "2022",
+    "source_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "target_urn": "dataset:lake:customer_features:2022:v1:column:customer_transaction_total",
+    "relationship": "DERIVED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SPARK_ARTIFACT_REFERENCE"
+    ],
+    "transformation": "SUM(amount) GROUP BY customer_id",
+    "notes": "Derived aggregation field"
+  },
+  {
+    "case_id": "GT-LAKE-CUST_00002",
+    "case_type": "POSITIVE",
+    "difficulty": "HARD",
+    "source_era": "2018",
+    "target_era": "2022",
+    "source_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "target_urn": "dataset:lake:customer_features:2022:v1:column:customer_transaction_total",
+    "relationship": "DERIVED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SPARK_ARTIFACT_REFERENCE"
+    ],
+    "transformation": "SUM(amount) GROUP BY customer_id",
+    "notes": "Derived aggregation field"
+  },
+  {
+    "case_id": "GT-LAKE-CUST_00003",
+    "case_type": "POSITIVE",
+    "difficulty": "HARD",
+    "source_era": "2018",
+    "target_era": "2022",
+    "source_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "target_urn": "dataset:lake:customer_features:2022:v1:column:customer_transaction_total",
+    "relationship": "DERIVED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SPARK_ARTIFACT_REFERENCE"
+    ],
+    "transformation": "SUM(amount) GROUP BY customer_id",
+    "notes": "Derived aggregation field"
+  },
+  {
+    "case_id": "GT-LAKE-CUST_00004",
+    "case_type": "POSITIVE",
+    "difficulty": "HARD",
+    "source_era": "2018",
+    "target_era": "2022",
+    "source_urn": "dataset:postgres:orders:2018:v1:column:amount",
+    "target_urn": "dataset:lake:customer_features:2022:v1:column:customer_transaction_total",
+    "relationship": "DERIVED_FROM",
+    "expected": true,
+    "evidence_profile": [
+      "SPARK_ARTIFACT_REFERENCE"
+    ],
+    "transformation": "SUM(amount) GROUP BY customer_id",
+    "notes": "Derived aggregation field"
+  }
+]
