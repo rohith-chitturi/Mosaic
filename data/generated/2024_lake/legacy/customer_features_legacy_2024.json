@@ -1,0 +1,52 @@
+[
+  {
+    "customer_uuid": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "3200b5b0-7162-4924-a708-b8a910e983f6",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "31fb3809-0ded-4a28-ae6a-932fcccff107",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "b861e15e-937c-4ae1-aeac-152b1c4a8dc1",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "42375316-9a84-4841-a3f8-c166584c8bc6",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "28f70b22-694f-4ea6-a824-46cd5acf2e4f",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "deeb09d8-37fe-4c37-a288-65478de9a882",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "cd568a51-3a46-468b-a329-ff19e778f501",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  },
+  {
+    "customer_uuid": "dd9e1dca-0f78-4305-a9b4-355ec562efa1",
+    "metric_total": 500.0,
+    "deprecated_at": "2023-01-01T00:00:00"
+  }
+]

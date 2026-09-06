@@ -1,0 +1,1002 @@
+[
+  {
+    "customer_id": "9c82b24c-2877-42c2-a6a2-70f3885e1d31",
+    "first_name": "Stacey",
+    "last_name": "Miller",
+    "email_address": "wcabrera@example.net",
+    "phone": "001-822-778-2489x63834",
+    "customer_revenue": 11564.3,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "d2ed2bc8-85c4-4079-a0d8-0e740830fc38",
+    "first_name": "Rachel",
+    "last_name": "Hayes",
+    "email_address": "jeffreymorgan@example.net",
+    "phone": "+1-239-730-1031",
+    "customer_revenue": 8306.09,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "3200b5b0-7162-4924-a708-b8a910e983f6",
+    "first_name": "Willie",
+    "last_name": "Ramirez",
+    "email_address": "ilewis@example.net",
+    "phone": "001-897-737-6311",
+    "customer_revenue": 2542.09,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "31fb3809-0ded-4a28-ae6a-932fcccff107",
+    "first_name": "Robert",
+    "last_name": "Shields",
+    "email_address": "nuneztracey@example.org",
+    "phone": "4658133387",
+    "customer_revenue": 1660.09,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "b861e15e-937c-4ae1-aeac-152b1c4a8dc1",
+    "first_name": "Joshua",
+    "last_name": "Wright",
+    "email_address": "ramosmichelle@example.net",
+    "phone": "908-501-3267",
+    "customer_revenue": 7840.48,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "42375316-9a84-4841-a3f8-c166584c8bc6",
+    "first_name": "Rachel",
+    "last_name": "Martin",
+    "email_address": "gallowayjoseph@example.com",
+    "phone": "268-272-3430x9805",
+    "customer_revenue": 1290.12,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "28f70b22-694f-4ea6-a824-46cd5acf2e4f",
+    "first_name": "Thomas",
+    "last_name": "Calhoun",
+    "email_address": "brianromero@example.org",
+    "phone": "291-336-1939",
+    "customer_revenue": 2740.73,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "deeb09d8-37fe-4c37-a288-65478de9a882",
+    "first_name": "Diane",
+    "last_name": "Cunningham",
+    "email_address": "sarah35@example.org",
+    "phone": "362-547-5107x991",
+    "customer_revenue": 8361.96,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "cd568a51-3a46-468b-a329-ff19e778f501",
+    "first_name": "Joseph",
+    "last_name": "Mahoney",
+    "email_address": "suarezmike@example.org",
+    "phone": "384.498.0841x241",
+    "customer_revenue": 3091.57,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "dd9e1dca-0f78-4305-a9b4-355ec562efa1",
+    "first_name": "Juan",
+    "last_name": "Clark",
+    "email_address": "james48@example.com",
+    "phone": "801-264-0052x427",
+    "customer_revenue": 4586.12,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "ecc0040a-de88-4b82-abf7-5a95cdee432f",
+    "first_name": "Charles",
+    "last_name": "Ware",
+    "email_address": "amydavenport@example.net",
+    "phone": "+1-526-520-4505",
+    "customer_revenue": 5670.73,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "dc8bca1d-d1a1-44f7-a733-716081fe0eb1",
+    "first_name": "Michael",
+    "last_name": "Castro",
+    "email_address": "vdickson@example.org",
+    "phone": "622.460.2563",
+    "customer_revenue": 17291.61,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "9a498078-f9fe-4ee6-a6ca-fecd1b446456",
+    "first_name": "Patrick",
+    "last_name": "Williams",
+    "email_address": "dwalker@example.com",
+    "phone": "733-203-6541x4586",
+    "customer_revenue": 4788.45,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "a3aaff48-bcda-4184-af71-1957181742c7",
+    "first_name": "Natalie",
+    "last_name": "Green",
+    "email_address": "benjamin96@example.com",
+    "phone": "001-556-798-1693x4060",
+    "customer_revenue": 10511.89,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "142aa2cc-a993-43e5-a52e-750e5fe63b02",
+    "first_name": "Chad",
+    "last_name": "Beck",
+    "email_address": "cindy14@example.net",
+    "phone": "665-864-8236x6299",
+    "customer_revenue": 3965.81,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "88f257c4-291c-47b5-af86-c291b568b0cf",
+    "first_name": "Martha",
+    "last_name": "Torres",
+    "email_address": "russellcarpenter@example.net",
+    "phone": "577-673-8721x48951",
+    "customer_revenue": 7802.98,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "96d79886-a59b-48fa-afe3-c3144ebecfcc",
+    "first_name": "Lindsay",
+    "last_name": "Hernandez",
+    "email_address": "sanchezthomas@example.org",
+    "phone": "569.436.7632x016",
+    "customer_revenue": 9325.3,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "b14f5282-cf3f-458c-a10b-8207c636c1c3",
+    "first_name": "Steven",
+    "last_name": "Grant",
+    "email_address": "bryantlaurie@example.net",
+    "phone": "589.657.9868x72774",
+    "customer_revenue": 5749.09,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "df849b97-440b-48c3-ad10-8b91f8cc5515",
+    "first_name": "Todd",
+    "last_name": "Allen",
+    "email_address": "sjones@example.org",
+    "phone": "855-881-2236x231",
+    "customer_revenue": 4585.5,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "9deb8d8d-6ac0-4ee7-ab9b-8dd5211ed802",
+    "first_name": "Amy",
+    "last_name": "Perry",
+    "email_address": "marissaprice@example.net",
+    "phone": "001-509-967-0546x688",
+    "customer_revenue": 7172.24,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "39b96335-a1f2-4d06-a53d-c53a68e0bb99",
+    "first_name": "Joshua",
+    "last_name": "Tucker",
+    "email_address": "rrogers@example.com",
+    "phone": "001-427-929-8069x9016",
+    "customer_revenue": 1113.46,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "39206b9a-0b6f-4705-a0b6-d22c4efa149d",
+    "first_name": "Brent",
+    "last_name": "Gray",
+    "email_address": "shawnrogers@example.com",
+    "phone": "264-517-0805x310",
+    "customer_revenue": 4482.52,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "e0d43681-e1ee-4f6f-a2ba-0d216cb5fffa",
+    "first_name": "Mary",
+    "last_name": "Howell",
+    "email_address": "davidcaldwell@example.net",
+    "phone": "674.352.9912",
+    "customer_revenue": 4551.59,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "6b4b982c-ae98-4ae3-a9f7-9cc8ec247aa7",
+    "first_name": "Anthony",
+    "last_name": "Collins",
+    "email_address": "tsanders@example.org",
+    "phone": "793-814-9190",
+    "customer_revenue": 8335.37,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "53f5ceef-a1e7-4d05-abf3-f4676e84ccb6",
+    "first_name": "Casey",
+    "last_name": "Holland",
+    "email_address": "atkinsonlynn@example.org",
+    "phone": "(657)726-2849x87769",
+    "customer_revenue": 1807.63,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "663649ed-5b9b-43aa-a4d3-ed69c07b0025",
+    "first_name": "Mariah",
+    "last_name": "Miller",
+    "email_address": "dsanchez@example.net",
+    "phone": "+1-665-607-5273x545",
+    "customer_revenue": 5218.33,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "45132b4e-f2f7-4240-ab72-3899fb3d0237",
+    "first_name": "Alejandro",
+    "last_name": "Vaughan",
+    "email_address": "allenrichard@example.net",
+    "phone": "001-937-777-0143x63495",
+    "customer_revenue": 3256.92,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "82f1f9e6-f4be-4a71-af9e-807866d981c2",
+    "first_name": "Wendy",
+    "last_name": "Pierce",
+    "email_address": "jacqueline44@example.com",
+    "phone": "913.651.8233",
+    "customer_revenue": 5031.32,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "177e363f-807b-41eb-a47a-5e92c213c7f1",
+    "first_name": "Candice",
+    "last_name": "Hooper",
+    "email_address": "kennethward@example.com",
+    "phone": "9823400842",
+    "customer_revenue": 4176.14,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "d56fdad6-60eb-4419-a3b6-2da18ca52275",
+    "first_name": "Audrey",
+    "last_name": "Harrison",
+    "email_address": "dpeterson@example.com",
+    "phone": "511.367.1902x2941",
+    "customer_revenue": 3860.88,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "415b6990-d066-4bd4-a788-01ff6c0be6a6",
+    "first_name": "Kathy",
+    "last_name": "Obrien",
+    "email_address": "kimberlyjames@example.com",
+    "phone": "496-549-9091x3341",
+    "customer_revenue": 9926.17,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "81c0df43-5a84-4f43-af93-31fc45954f5d",
+    "first_name": "Andrea",
+    "last_name": "Moore",
+    "email_address": "mhayes@example.com",
+    "phone": "503-444-7134x9361",
+    "customer_revenue": 9050.48,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "085c0f4e-0ab0-4289-ab87-aee84926c399",
+    "first_name": "Margaret",
+    "last_name": "Jones",
+    "email_address": "lauralarson@example.net",
+    "phone": "271-874-6488x7719",
+    "customer_revenue": 4596.34,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "b82d395d-3ef4-4fee-af49-48a32fde8c4a",
+    "first_name": "Cassandra",
+    "last_name": "Johnson",
+    "email_address": "suzannehuff@example.net",
+    "phone": "001-604-490-2787",
+    "customer_revenue": 1894.85,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "eb5b9d11-9705-42b6-a303-fd00636c9c55",
+    "first_name": "Ryan",
+    "last_name": "Olsen",
+    "email_address": "harrisonricky@example.com",
+    "phone": "+1-712-356-7468x07154",
+    "customer_revenue": 2498.21,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "990cf566-7659-4327-a78b-36e8d3ccab83",
+    "first_name": "Michelle",
+    "last_name": "Bryan",
+    "email_address": "sandovalamy@example.com",
+    "phone": "6384597703",
+    "customer_revenue": 5187.25,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "6daab15a-cc4b-4aa3-acf6-04fb20dc5737",
+    "first_name": "Samuel",
+    "last_name": "Wolfe",
+    "email_address": "johnsoncrystal@example.org",
+    "phone": "001-424-980-8613x171",
+    "customer_revenue": 8205.39,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "44d556a9-f5a3-436d-a1bb-44e7aaf5f686",
+    "first_name": "William",
+    "last_name": "Hill",
+    "email_address": "pbaird@example.com",
+    "phone": "+1-826-739-8214",
+    "customer_revenue": 7188.05,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "887bb145-5f56-4a20-a574-6b1dcd53afc0",
+    "first_name": "Joseph",
+    "last_name": "Smith",
+    "email_address": "mary97@example.org",
+    "phone": "887.555.8867x533",
+    "customer_revenue": 8717.64,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "43474fcb-f384-475f-a8d6-9ea8657fb4b4",
+    "first_name": "Bradley",
+    "last_name": "Garner",
+    "email_address": "qhughes@example.net",
+    "phone": "(370)928-9517",
+    "customer_revenue": 11477.13,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "49b4332c-d0bd-4973-a2dd-e865cfba57d9",
+    "first_name": "Jennifer",
+    "last_name": "Ortiz",
+    "email_address": "charlesharrington@example.com",
+    "phone": "696-515-8657x80913",
+    "customer_revenue": 10871.55,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "d0daf99d-d026-42b8-a20e-998eb0ad251b",
+    "first_name": "Ryan",
+    "last_name": "Garcia",
+    "email_address": "wallaceheather@example.org",
+    "phone": "8504455623",
+    "customer_revenue": 12277.51,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "23e58bed-ff84-4dc5-a9aa-2d3f5cb904ef",
+    "first_name": "Gregory",
+    "last_name": "Lynch",
+    "email_address": "pharvey@example.com",
+    "phone": "001-623-474-7407",
+    "customer_revenue": 4490.35,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "5da69a06-7834-421e-a8d4-576db96c82be",
+    "first_name": "Scott",
+    "last_name": "Reed",
+    "email_address": "danielle64@example.com",
+    "phone": "836-671-3695x9440",
+    "customer_revenue": 516.32,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "eeb3fcb1-827f-4270-a281-dd15600211ec",
+    "first_name": "Ashlee",
+    "last_name": "Jennings",
+    "email_address": "lozanojulie@example.com",
+    "phone": "001-739-453-3942x10470",
+    "customer_revenue": 7434.77,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "e37ed88f-5c5c-4eef-a1c6-6d00e550d894",
+    "first_name": "Renee",
+    "last_name": "Murphy",
+    "email_address": "ithompson@example.net",
+    "phone": "(488)542-4745x171",
+    "customer_revenue": 7078.56,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "22987e62-04f7-472d-aac5-15cb9ee820e4",
+    "first_name": "Tammy",
+    "last_name": "Ballard",
+    "email_address": "christopher60@example.com",
+    "phone": "+1-517-954-9651",
+    "customer_revenue": 5664.32,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "02a114d3-c3fb-4cf0-ae35-4dc5ebeb4ce2",
+    "first_name": "Christine",
+    "last_name": "Hahn",
+    "email_address": "rose31@example.net",
+    "phone": "446.812.0047x113",
+    "customer_revenue": 11580.04,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "4fc7b791-b069-4cdb-ae1d-3218776f1a34",
+    "first_name": "Nathan",
+    "last_name": "Avery",
+    "email_address": "umatthews@example.org",
+    "phone": "(717)796-4053x77351",
+    "customer_revenue": 5471.39,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "56ad85f7-47bf-445c-a9d9-7fd0f7b8dbbe",
+    "first_name": "Raymond",
+    "last_name": "Lopez",
+    "email_address": "rushmadison@example.org",
+    "phone": "+1-539-500-5329x31839",
+    "customer_revenue": 315.35,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "00a26b34-5858-49f2-a1f5-23903adf7024",
+    "first_name": "Kim",
+    "last_name": "Kramer",
+    "email_address": "ramireztracey@example.org",
+    "phone": "+1-742-210-2053",
+    "customer_revenue": 7590.56,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "a3e48cbb-692d-4f0a-a865-a99a3a45b50e",
+    "first_name": "Joseph",
+    "last_name": "Martinez",
+    "email_address": "vfox@example.org",
+    "phone": "975.289.1783x9084",
+    "customer_revenue": 7012.42,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "75bc16e3-0019-49ee-ab5e-b91a9baaf5d1",
+    "first_name": "Yolanda",
+    "last_name": "Boone",
+    "email_address": "fparks@example.net",
+    "phone": "711.859.2124x998",
+    "customer_revenue": 13640.5,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "61db11b5-ea47-406e-ab35-a68d0da84a93",
+    "first_name": "Kenneth",
+    "last_name": "Wagner",
+    "email_address": "sgarcia@example.org",
+    "phone": "+1-883-767-3657x6615",
+    "customer_revenue": 4627.37,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "862a5183-91fc-4ee8-ade5-13b76f5be038",
+    "first_name": "Nicholas",
+    "last_name": "Hernandez",
+    "email_address": "fjones@example.org",
+    "phone": "(215)628-0988x51656",
+    "customer_revenue": 4390.18,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "0418883f-a6f5-4b17-a542-615ea8690180",
+    "first_name": "Michael",
+    "last_name": "Lane",
+    "email_address": "ericolson@example.org",
+    "phone": "(285)614-9368x998",
+    "customer_revenue": 5570.18,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "b3dfb183-161e-47cf-ae2e-470f454498a6",
+    "first_name": "Henry",
+    "last_name": "Park",
+    "email_address": "sandra50@example.org",
+    "phone": "(896)812-0183",
+    "customer_revenue": 4528.73,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "7d34aab4-2a3b-4a29-a6bb-49937b5882ac",
+    "first_name": "Matthew",
+    "last_name": "Wood",
+    "email_address": "kimberly99@example.org",
+    "phone": "9229901476",
+    "customer_revenue": 14561.1,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "0ea76e29-a244-490e-acad-c7aeec3b3793",
+    "first_name": "Joshua",
+    "last_name": "Fischer",
+    "email_address": "reeddaniel@example.net",
+    "phone": "+1-497-684-0369x00343",
+    "customer_revenue": 1464.45,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "aafa9118-e54b-4206-a16c-efa8171f22e2",
+    "first_name": "Mark",
+    "last_name": "Smith",
+    "email_address": "ythompson@example.net",
+    "phone": "001-738-885-1606x071",
+    "customer_revenue": 5499.14,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "39e6222d-8017-4180-a0de-40403c318820",
+    "first_name": "Richard",
+    "last_name": "Bowman",
+    "email_address": "darius05@example.org",
+    "phone": "+1-875-616-1369x681",
+    "customer_revenue": 10439.08,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "a52000c4-0ca4-458f-a0e0-ff57affcc7ab",
+    "first_name": "Jeffrey",
+    "last_name": "Maxwell",
+    "email_address": "dixondaniel@example.net",
+    "phone": "455.423.1243",
+    "customer_revenue": 1780.87,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "5d2d0b2f-a1c5-4e49-a868-a7ad1cf6850b",
+    "first_name": "Gregory",
+    "last_name": "Mejia",
+    "email_address": "kmarshall@example.net",
+    "phone": "299.755.2717x744",
+    "customer_revenue": 3629.35,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "2b6f7974-1d53-4080-aa04-560880d3fda3",
+    "first_name": "Charles",
+    "last_name": "Murray",
+    "email_address": "brownmarie@example.org",
+    "phone": "+1-719-998-6798x0793",
+    "customer_revenue": 7647.52,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "86b84f32-e8e7-4fc5-af6b-f25eff6d9cf8",
+    "first_name": "Edward",
+    "last_name": "Brown",
+    "email_address": "shepherdmary@example.net",
+    "phone": "482-703-7788",
+    "customer_revenue": 5659.48,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "37a3a29c-adf9-4891-a8b2-b52872d0575f",
+    "first_name": "Samantha",
+    "last_name": "Hughes",
+    "email_address": "erika05@example.org",
+    "phone": "818-464-4925x19254",
+    "customer_revenue": 9853.13,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "15fd5efc-afec-4bdb-a591-18a670adf72d",
+    "first_name": "Kyle",
+    "last_name": "Bennett",
+    "email_address": "lisa81@example.net",
+    "phone": "+1-468-350-5423x57332",
+    "customer_revenue": 7252.03,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "c4b8a5fd-1adb-4e83-aee2-2a999e787a42",
+    "first_name": "Megan",
+    "last_name": "Garcia",
+    "email_address": "stanleynancy@example.net",
+    "phone": "(296)822-2927",
+    "customer_revenue": 7690.52,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "9b5ba54f-ae92-40e0-a69b-5b8a1433f17d",
+    "first_name": "Erica",
+    "last_name": "Young",
+    "email_address": "wbishop@example.net",
+    "phone": "838.834.7359x774",
+    "customer_revenue": 3112.31,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "446b069f-3548-4090-a4de-7c7c856e9ea3",
+    "first_name": "Lisa",
+    "last_name": "Solis",
+    "email_address": "moniquewilliams@example.com",
+    "phone": "(881)381-4124x782",
+    "customer_revenue": 3523.35,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "af41485d-115d-42d2-ae06-617df5aab3a2",
+    "first_name": "Lisa",
+    "last_name": "Wilkerson",
+    "email_address": "perryrandy@example.com",
+    "phone": "461.453.0515",
+    "customer_revenue": 6675.22,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "6298085e-684b-4de0-a6ff-823bd471d3c5",
+    "first_name": "Justin",
+    "last_name": "Gallegos",
+    "email_address": "katherineharrison@example.net",
+    "phone": "8103432898",
+    "customer_revenue": 4674.31,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "4155aa61-8aa7-4370-a2bc-c2dc2ed53a10",
+    "first_name": "John",
+    "last_name": "Martinez",
+    "email_address": "robertbauer@example.com",
+    "phone": "417-698-0893",
+    "customer_revenue": 5197.36,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "9240d942-3859-4043-aab7-aa926f4cdaee",
+    "first_name": "Aaron",
+    "last_name": "Gomez",
+    "email_address": "qlopez@example.org",
+    "phone": "651.288.8880x67065",
+    "customer_revenue": 12523.44,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "667c46f7-63ea-4a75-a8e6-08a5d51abf27",
+    "first_name": "Kristina",
+    "last_name": "Cooper",
+    "email_address": "ingramjill@example.com",
+    "phone": "(405)385-2772",
+    "customer_revenue": 7426.18,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "2aeb4bc5-5360-4733-a48e-f9cecf2451b6",
+    "first_name": "Benjamin",
+    "last_name": "Harris",
+    "email_address": "ninastewart@example.com",
+    "phone": "868.874.0345x05415",
+    "customer_revenue": 3291.37,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "8c05228d-9da2-4286-a7a8-7bdefe219d25",
+    "first_name": "Patricia",
+    "last_name": "Hughes",
+    "email_address": "tylerjimenez@example.net",
+    "phone": "716-616-9284x511",
+    "customer_revenue": 8209.57,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "9fc2c52a-3a0a-4b9e-a54e-b6bfb536528f",
+    "first_name": "Sean",
+    "last_name": "Robbins",
+    "email_address": "hannahbell@example.org",
+    "phone": "001-959-264-0165x8202",
+    "customer_revenue": 2592.16,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "3e09f8da-406a-4c02-ac09-326c7ab4a03a",
+    "first_name": "Carlos",
+    "last_name": "Osborne",
+    "email_address": "michael90@example.net",
+    "phone": "(775)857-1928",
+    "customer_revenue": 7140.68,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "918cc894-0949-49fa-a58b-4bf2df56182f",
+    "first_name": "Debra",
+    "last_name": "Wright",
+    "email_address": "johnsonjacob@example.net",
+    "phone": "(381)944-7394x7312",
+    "customer_revenue": 9403.78,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "a047121a-1c74-4799-a7dc-68a887c10561",
+    "first_name": "Rachel",
+    "last_name": "Wallace",
+    "email_address": "cochrantammy@example.com",
+    "phone": "+1-451-588-4422x58313",
+    "customer_revenue": 2906.69,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "8614332f-9208-4636-abbb-51cd8e960563",
+    "first_name": "Anthony",
+    "last_name": "Spencer",
+    "email_address": "tanner82@example.net",
+    "phone": "314-467-8669",
+    "customer_revenue": 2770.34,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "5f977512-e467-4d62-a0cd-997071e681e9",
+    "first_name": "Dawn",
+    "last_name": "Cole",
+    "email_address": "david89@example.org",
+    "phone": "001-626-380-1824x22535",
+    "customer_revenue": 8037.52,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "57b46b82-e9ff-4a6b-a0e5-5018d183d041",
+    "first_name": "James",
+    "last_name": "Huber",
+    "email_address": "david49@example.net",
+    "phone": "782-299-2299",
+    "customer_revenue": 9917.72,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "54882d68-7a51-4f6c-ae32-fd7128f963a2",
+    "first_name": "Christopher",
+    "last_name": "Fry",
+    "email_address": "debra96@example.net",
+    "phone": "+1-407-984-4736x4710",
+    "customer_revenue": 4263.83,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "af5aa080-d279-4a4d-a4c2-9b4f396c4d49",
+    "first_name": "Todd",
+    "last_name": "Harris",
+    "email_address": "larryhiggins@example.net",
+    "phone": "(962)558-8153x714",
+    "customer_revenue": 7076.43,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "a96073ee-ac8a-4077-a1dc-08e5fc96b2fe",
+    "first_name": "Colin",
+    "last_name": "Roberts",
+    "email_address": "alin@example.org",
+    "phone": "(959)653-2787",
+    "customer_revenue": 16603.53,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "b4d8bca3-7dd5-4ae6-af69-a557073f3ffd",
+    "first_name": "Andrew",
+    "last_name": "Landry",
+    "email_address": "nlevy@example.net",
+    "phone": "(400)647-9748x016",
+    "customer_revenue": 10344.66,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "49ff872f-44b2-4138-a31f-8fb80b17025d",
+    "first_name": "Kathryn",
+    "last_name": "Diaz",
+    "email_address": "jwilliams@example.org",
+    "phone": "(484)316-8784x991",
+    "customer_revenue": 11117.65,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "d316616a-da43-4c5a-a6a6-49776cdcf905",
+    "first_name": "Nathaniel",
+    "last_name": "Hatfield",
+    "email_address": "kari39@example.net",
+    "phone": "(480)700-2578x7298",
+    "customer_revenue": 5540.97,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "cb7d85bb-ed92-4611-a157-74a9cc777263",
+    "first_name": "Francisco",
+    "last_name": "Ewing",
+    "email_address": "brittney88@example.net",
+    "phone": "994.670.5516x9409",
+    "customer_revenue": 3220.42,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "c0cc12de-3c6f-4e9f-a1dd-d117f8c3c735",
+    "first_name": "Becky",
+    "last_name": "Griffith",
+    "email_address": "ojackson@example.net",
+    "phone": "+1-462-830-9130x756",
+    "customer_revenue": 7482.12,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "938a8043-48f2-4357-a5b5-04e27025a799",
+    "first_name": "Robert",
+    "last_name": "Hampton",
+    "email_address": "vsalas@example.net",
+    "phone": "7284385786",
+    "customer_revenue": 3822.39,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "7702b3f3-54fd-49c0-a3d4-3a43ba89153c",
+    "first_name": "Rhonda",
+    "last_name": "Peterson",
+    "email_address": "erica49@example.com",
+    "phone": "934.784.3443",
+    "customer_revenue": 6022.6,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "0b2b171f-f825-4772-a28b-8a3453dbc3ad",
+    "first_name": "Michael",
+    "last_name": "Peck",
+    "email_address": "keith98@example.com",
+    "phone": "(652)640-4157x4733",
+    "customer_revenue": 928.96,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "70d40298-19d3-4d3a-a4b4-adf07f77c8e9",
+    "first_name": "Daniel",
+    "last_name": "Yang",
+    "email_address": "johnsantiago@example.net",
+    "phone": "230.416.5712",
+    "customer_revenue": 7812.91,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "2091d4dd-6fec-42a9-a3dd-10382d3c2046",
+    "first_name": "Denise",
+    "last_name": "Gilmore",
+    "email_address": "mwoods@example.com",
+    "phone": "440-619-3802x62067",
+    "customer_revenue": 3913.02,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "8cab6725-7e90-4b81-a9d8-324cf10d2ebd",
+    "first_name": "Albert",
+    "last_name": "Bradley",
+    "email_address": "hebertmatthew@example.com",
+    "phone": "+1-688-472-8743x1527",
+    "customer_revenue": 3691.77,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "0b69d5a5-9303-4b27-a151-afda6683b57c",
+    "first_name": "Jill",
+    "last_name": "Gibbs",
+    "email_address": "gregorychase@example.com",
+    "phone": "(585)916-1227x53046",
+    "customer_revenue": 6114.06,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  },
+  {
+    "customer_id": "415f845e-f985-411f-a3c5-57a298f30f99",
+    "first_name": "Stephanie",
+    "last_name": "Turner",
+    "email_address": "greenmichael@example.org",
+    "phone": "6177426841",
+    "customer_revenue": 2232.68,
+    "is_active": true,
+    "curated_at": "2024-05-01T12:00:00"
+  }
+]
