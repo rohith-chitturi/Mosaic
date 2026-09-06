@@ -15,3 +15,9 @@
 ## Checkpoint: Era 2022
 - Implemented 2022 Spark/Data Lake Era
 - Documented Parquet JSON fallback limitation
+
+## Checkpoint: Era 2024
+- Implemented 2024 Data Lake Maturity Era
+- Added Curated Customers, Snapshots, Backfills, Partition Evolution
+- Added Undocumented Renames and Orphaned Datasets
+- Re-structured Ground Truth

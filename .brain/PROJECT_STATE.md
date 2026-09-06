@@ -3,7 +3,6 @@ Phase 0: COMPLETE
 Phase 1: IN PROGRESS
 
 Remaining:
-- 2024 Data Lake Maturity
 - 2025 Warehouse Migration
 - 2026 Current State
 - Remaining ambiguity/contradiction scenarios
