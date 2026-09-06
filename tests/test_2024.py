@@ -48,6 +48,12 @@ def test_2024_era():
     assert len(stale_emails) > 0, "No stale overlap found"
     assert "customer_id" not in leads[0], "Leaked internal ID in marketing leads"
     
+    # Explicit validation of deterministic rounding logic
+    # We generated 100 canonical customers.
+    # Expect 70 exact, 10 stale, 20 faker -> Total 100 leads.
+    assert len(leads) == 100, f"Expected 100 leads, got {len(leads)}"
+    assert len(stale_emails) == 10, f"Expected 10 stale leads, got {len(stale_emails)}"
+    
     # 7. Orphan dataset
     with open(os.path.join(lake_dir, "legacy", "customer_features_legacy_2024.json"), "r") as f:
         orphan = json.load(f)

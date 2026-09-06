@@ -149,8 +149,10 @@ class Era2024:
         # 6. Partial Overlap (70% exact, 10% stale, 20% faker)
         leads = []
         total = len(self.universe.customers)
+        # Rounding rule: Use integer floor (int()) for deterministic counts
         exact_count = int(total * 0.70)
         stale_count = int(total * 0.10)
+        # New count uses subtraction to guarantee exact total preservation regardless of rounding
         new_count = total - exact_count - stale_count
         
         # 70% Exact matches
