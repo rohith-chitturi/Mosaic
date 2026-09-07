@@ -1,0 +1,6 @@
+name: 'meridian_warehouse'
+version: '1.0.0'
+config-version: 2
+profile: 'meridian'
+model-paths: ["models"]
+macro-paths: ["macros"]

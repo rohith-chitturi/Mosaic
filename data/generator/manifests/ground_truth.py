@@ -109,6 +109,56 @@ def generate_ground_truth(universe: DataUniverse, output_dir: str):
         "status": "ORPHANED"
     })
 
+    # 2025 Era Scenarios
+    lineage_cases.append({
+        "case_id": "GT-2025-001",
+        "source_urn": "dataset:mysql:products:2016:v1:column:product_id",
+        "target_urn": "dataset:warehouse:dim_products:2025:v1:column:product_nk",
+        "relationship": "EQUIVALENT_TO",
+        "notes": "2016 MySQL products rescued into warehouse natural keys."
+    })
+    
+    lineage_cases.append({
+        "case_id": "GT-2025-002",
+        "source_urn": "dataset:lake:curated_customers:2024:v1:column:customer_revenue",
+        "target_urn": "dataset:warehouse:dim_customers:2025:v1:column:customer_lifetime_value",
+        "relationship": "TRANSFORMED_FROM",
+        "notes": "Revenue mathematically transformed into CLV (minus 5% returns reserve)."
+    })
+    
+    lineage_cases.append({
+        "case_id": "GT-2025-003",
+        "source_urn": "dataset:kafka:order_events:2020:v2:column:amount",
+        "target_urn": "dataset:lake:historical_order_backfill:2024:v1:column:amount",
+        "relationship": "TRANSFORMED_FROM",
+        "notes": "Kafka upstream source to 2024 lake backfill."
+    })
+    
+    lineage_cases.append({
+        "case_id": "GT-2025-004",
+        "source_urn": "dataset:lake:historical_order_backfill:2024:v1:column:amount",
+        "target_urn": "dataset:warehouse:fact_orders:2025:v1:column:order_amount",
+        "relationship": "TRANSFORMED_FROM",
+        "notes": "2024 lake backfill to warehouse fact table."
+    })
+    
+    data_quality_cases.append({
+        "case_id": "DBT_CURRENCY_MACRO_BUG_001",
+        "type": "DATA_QUALITY",
+        "status": "CONTRADICTORY_EVIDENCE",
+        "affected_records": "5% subset deterministic",
+        "expected_rule": "normalized_amount",
+        "actual_rule": "normalized_amount / 100",
+        "evidence_artifact": "data/artifacts/dbt/macros/currency_normalization.sql"
+    })
+    
+    data_quality_cases.append({
+        "case_id": "WAREHOUSE_DUPLICATE_FACT_001",
+        "type": "DATA_QUALITY",
+        "status": "DUPLICATE_RECORDS",
+        "affected_records": "Every 50th fact record duplicated due to incremental load failure",
+    })
+
     ground_truth = {
         "lineage_cases": lineage_cases,
         "data_quality_cases": data_quality_cases
