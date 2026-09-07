@@ -15,3 +15,7 @@
 - Simulated PR: feat(data): add 2024 data lake maturity era
 - Merged into main.
 - Synced Project Brain for Era 2024.
+
+- Simulated PR: feat(data): add 2025 warehouse migration era
+- Merged into main.
+- Synced Project Brain for Era 2025.

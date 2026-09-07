@@ -1,2 +1,2 @@
 # NEXT ACTIONS
-1. Implement **Era 2025 — Warehouse Migration**
+1. Implement **Era 2026 — Current State**

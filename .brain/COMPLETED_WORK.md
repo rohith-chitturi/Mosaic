@@ -21,3 +21,10 @@
 - Added Curated Customers, Snapshots, Backfills, Partition Evolution
 - Added Undocumented Renames and Orphaned Datasets
 - Re-structured Ground Truth
+
+## Checkpoint: Era 2025
+- Implemented 2025 Warehouse Migration Era
+- Added dimensional modeling with SCD Type 2
+- Added deterministic SKs and multi-hop lineage
+- Generated dbt artifacts and currency macro bug
+- Added duplicate fact records anomaly
