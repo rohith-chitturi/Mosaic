@@ -1,0 +1,22 @@
+type Customer {
+    customerId: ID!
+    name: String
+    lifetimeValue: Float
+    orders: [Order!]
+}
+
+type Order {
+    orderId: ID!
+    totalValue: Float
+    items: [OrderItem!]
+}
+
+type OrderItem {
+    productRef: String!
+    quantity: Int!
+    unitPrice: Float!
+}
+
+type Query {
+    customer(id: ID!): Customer
+}
