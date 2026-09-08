@@ -1,4 +1,6 @@
-# PROJECT_STATE
+# PROJECT STATE
+Phase 0: COMPLETE
+Phase 1: COMPLETE
 
-State: PHASE 1
-Phase: Data Universe
+Remaining:
+- None

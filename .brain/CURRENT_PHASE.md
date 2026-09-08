@@ -1,3 +1,3 @@
 # CURRENT_PHASE
 
-Phase 1 — Data Universe
+Phase 2 — Discovery
