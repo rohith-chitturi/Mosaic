@@ -159,9 +159,78 @@ def generate_ground_truth(universe: DataUniverse, output_dir: str):
         "affected_records": "Every 50th fact record duplicated due to incremental load failure",
     })
 
+    # 2026 Era Scenarios
+    lineage_cases.append({
+        "case_id": "GT-2026-001",
+        "source_urn": "dataset:postgres:customers:2018:v1:column:customer_id",
+        "target_urn": "dataset:nosql:orders_collection:2026:v1:column:customerRef",
+        "relationship": "EQUIVALENT_TO",
+        "notes": "2018 Postgres customer ID directly embedded in NoSQL documents."
+    })
+    
+    lineage_cases.append({
+        "case_id": "GT-2026-002",
+        "source_urn": "dataset:postgres:order_items:2018:v1:column:unit_price",
+        "target_urn": "dataset:nosql:orders_collection:2026:v1:column:items.unitPrice",
+        "relationship": "EQUIVALENT_TO",
+        "notes": "2018 order items price embedded inside nested NoSQL items."
+    })
+    
+    lineage_cases.append({
+        "case_id": "GT-2026-003",
+        "source_urn": "dataset:nosql:orders_collection:2026:v1:column:items",
+        "target_urn": "dataset:nosql:orders_collection:2026:v1:column:totalValue",
+        "relationship": "TRANSFORMED_FROM",
+        "notes": "Σ(items.quantity × items.unitPrice)"
+    })
+    
+    lineage_cases.append({
+        "case_id": "GT-2026-004",
+        "source_urn": "dataset:nosql:orders_collection:2026:v1:column:items",
+        "target_urn": "dataset:nosql:orders_collection:2026:v1:column:lineItems",
+        "relationship": "EQUIVALENT_TO",
+        "notes": "Schema drift: 5% of records use lineItems instead of items."
+    })
+    
+    # 2026 Identity Domain Scenarios
+    identity_cases = []
+    
+    identity_cases.append({
+        "case_id": "ID-2026-EXACT",
+        "source_urn": "dataset:lake:crm_export:2026:v1",
+        "target_urn": "dataset:warehouse:dim_customers:2025:v1",
+        "relationship": "EXACT_MATCH",
+        "notes": "60% of CRM records match warehouse perfectly by email."
+    })
+    
+    identity_cases.append({
+        "case_id": "ID-2026-NORMALIZED",
+        "source_urn": "dataset:lake:crm_export:2026:v1",
+        "target_urn": "dataset:warehouse:dim_customers:2025:v1",
+        "relationship": "NORMALIZED_MATCH",
+        "notes": "20% of CRM records require casing or symbol stripping to match."
+    })
+    
+    identity_cases.append({
+        "case_id": "ID-2026-FUZZY",
+        "source_urn": "dataset:lake:crm_export:2026:v1",
+        "target_urn": "dataset:warehouse:dim_customers:2025:v1",
+        "relationship": "FUZZY_MATCH",
+        "notes": "10% of CRM records have typo or name suffix differences."
+    })
+    
+    identity_cases.append({
+        "case_id": "ID-2026-UNRESOLVED",
+        "source_urn": "dataset:lake:crm_export:2026:v1",
+        "target_urn": "dataset:warehouse:dim_customers:2025:v1",
+        "relationship": "UNRESOLVED",
+        "notes": "10% of CRM records cannot be mapped (missing email/ambiguous)."
+    })
+
     ground_truth = {
         "lineage_cases": lineage_cases,
-        "data_quality_cases": data_quality_cases
+        "data_quality_cases": data_quality_cases,
+        "identity_cases": identity_cases
     }
         
     with open(os.path.join(output_dir, "ground_truth.json"), "w", encoding='utf-8') as f:

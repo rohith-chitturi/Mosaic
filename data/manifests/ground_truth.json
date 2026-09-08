@@ -178,6 +178,34 @@
       "target_urn": "dataset:warehouse:fact_orders:2025:v1:column:order_amount",
       "relationship": "TRANSFORMED_FROM",
       "notes": "2024 lake backfill to warehouse fact table."
+    },
+    {
+      "case_id": "GT-2026-001",
+      "source_urn": "dataset:postgres:customers:2018:v1:column:customer_id",
+      "target_urn": "dataset:nosql:orders_collection:2026:v1:column:customerRef",
+      "relationship": "EQUIVALENT_TO",
+      "notes": "2018 Postgres customer ID directly embedded in NoSQL documents."
+    },
+    {
+      "case_id": "GT-2026-002",
+      "source_urn": "dataset:postgres:order_items:2018:v1:column:unit_price",
+      "target_urn": "dataset:nosql:orders_collection:2026:v1:column:items.unitPrice",
+      "relationship": "EQUIVALENT_TO",
+      "notes": "2018 order items price embedded inside nested NoSQL items."
+    },
+    {
+      "case_id": "GT-2026-003",
+      "source_urn": "dataset:nosql:orders_collection:2026:v1:column:items",
+      "target_urn": "dataset:nosql:orders_collection:2026:v1:column:totalValue",
+      "relationship": "TRANSFORMED_FROM",
+      "notes": "\u03a3(items.quantity \u00d7 items.unitPrice)"
+    },
+    {
+      "case_id": "GT-2026-004",
+      "source_urn": "dataset:nosql:orders_collection:2026:v1:column:items",
+      "target_urn": "dataset:nosql:orders_collection:2026:v1:column:lineItems",
+      "relationship": "EQUIVALENT_TO",
+      "notes": "Schema drift: 5% of records use lineItems instead of items."
     }
   ],
   "data_quality_cases": [
@@ -213,6 +241,36 @@
       "type": "DATA_QUALITY",
       "status": "DUPLICATE_RECORDS",
       "affected_records": "Every 50th fact record duplicated due to incremental load failure"
+    }
+  ],
+  "identity_cases": [
+    {
+      "case_id": "ID-2026-EXACT",
+      "source_urn": "dataset:lake:crm_export:2026:v1",
+      "target_urn": "dataset:warehouse:dim_customers:2025:v1",
+      "relationship": "EXACT_MATCH",
+      "notes": "60% of CRM records match warehouse perfectly by email."
+    },
+    {
+      "case_id": "ID-2026-NORMALIZED",
+      "source_urn": "dataset:lake:crm_export:2026:v1",
+      "target_urn": "dataset:warehouse:dim_customers:2025:v1",
+      "relationship": "NORMALIZED_MATCH",
+      "notes": "20% of CRM records require casing or symbol stripping to match."
+    },
+    {
+      "case_id": "ID-2026-FUZZY",
+      "source_urn": "dataset:lake:crm_export:2026:v1",
+      "target_urn": "dataset:warehouse:dim_customers:2025:v1",
+      "relationship": "FUZZY_MATCH",
+      "notes": "10% of CRM records have typo or name suffix differences."
+    },
+    {
+      "case_id": "ID-2026-UNRESOLVED",
+      "source_urn": "dataset:lake:crm_export:2026:v1",
+      "target_urn": "dataset:warehouse:dim_customers:2025:v1",
+      "relationship": "UNRESOLVED",
+      "notes": "10% of CRM records cannot be mapped (missing email/ambiguous)."
     }
   ]
 }
