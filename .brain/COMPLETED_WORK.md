@@ -28,3 +28,10 @@
 - Added deterministic SKs and multi-hop lineage
 - Generated dbt artifacts and currency macro bug
 - Added duplicate fact records anomaly
+
+## Checkpoint: Era 2026
+- Implemented 2026 NoSQL & GraphQL Era
+- Added nested documents and schema drift
+- Added CRM Identity Resolution (Fuzzy/Exact)
+- Connected GraphQL composition across Warehouse and NoSQL
+- Expanded Ground Truth with Identity Domain cases

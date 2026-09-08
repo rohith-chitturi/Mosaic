@@ -1,2 +1,2 @@
 # NEXT ACTIONS
-1. Implement **Era 2026 — Current State**
+1. Phase 1 Global Closure (Parquet conversion, global validations)
