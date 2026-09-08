@@ -1,6 +1,6 @@
 import os
 from data.generator.domains.universe import DataUniverse
-from data.generator.exporters.json_exporter import export_to_json
+from data.generator.exporters.parquet_exporter import export_to_parquet
 from data.generator.core.mapping import IDMapper
 from data.generator.artifacts.spark import generate_2022_spark_artifacts
 
@@ -34,5 +34,5 @@ class Era2022:
             })
             
         # Simulate partitioned parquet output
-        out_file = os.path.join(self.output_dir, "customer_features", "year=2022", "month=01", "part-0000.parquet.json")
-        export_to_json(data, out_file)
+        out_file = os.path.join(self.output_dir, "customer_features", "year=2022", "month=01", "part-0000.parquet")
+        export_to_parquet(data, out_file)
