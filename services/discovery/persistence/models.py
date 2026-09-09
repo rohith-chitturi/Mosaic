@@ -1,5 +1,5 @@
 from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
-from sqlalchemy import String, Integer, Boolean, DateTime, ForeignKey, JSON
+from sqlalchemy import String, Integer, Boolean, DateTime, ForeignKey, JSON, UniqueConstraint
 from sqlalchemy.sql import func
 from datetime import datetime
 from typing import List
@@ -21,6 +21,10 @@ class DatasetModel(Base):
     source_id: Mapped[str] = mapped_column(ForeignKey("sources.source_id"))
     name: Mapped[str] = mapped_column(String, nullable=False)
     format: Mapped[str] = mapped_column(String, nullable=False)
+    
+    __table_args__ = (
+        UniqueConstraint("source_id", "name", name="uq_dataset_source_name"),
+    )
 
 class DatasetVersionModel(Base):
     __tablename__ = "dataset_versions"
@@ -30,6 +34,10 @@ class DatasetVersionModel(Base):
     partitions: Mapped[list] = mapped_column(JSON, nullable=True)
     file_count: Mapped[int] = mapped_column(Integer, nullable=True)
     total_bytes: Mapped[int] = mapped_column(Integer, nullable=True)
+
+    __table_args__ = (
+        UniqueConstraint("dataset_id", "version_id", name="uq_version_dataset_version"),
+    )
 
 class SchemaModel(Base):
     __tablename__ = "schemas"

@@ -61,10 +61,13 @@ def trigger_scan(
     try:
         # 3. Initialize appropriate scanner
         if source.source_type == "minio":
-            # In Phase 2 Foundation, we simulate scanning the generated data lake directory
-            # For testing without a real MinIO connection, we assume location is a local path
-            base_dir = os.path.abspath(source.location)
-            scanner = ObjectStorageScanner(source, base_dir=base_dir)
+            # Pass minio credentials from settings
+            scanner = ObjectStorageScanner(
+                source,
+                endpoint=settings.minio_endpoint,
+                access_key=settings.minio_access_key,
+                secret_key=settings.minio_secret_key
+            )
         else:
             raise NotImplementedError(f"Scanner for {source.source_type} not implemented")
             
