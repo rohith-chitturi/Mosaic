@@ -8,80 +8,123 @@ from services.discovery.scanners.base import Scanner
 
 class ObjectStorageScanner(Scanner):
     """
-    Scans an Object Storage path (MinIO/S3 or Local for testing) looking for Parquet datasets.
-    Extracts deterministic schemas from Parquet metadata using PyArrow without reading row data.
+    Scans an Object Storage path using MinIO client looking for Parquet datasets.
+    Extracts deterministic schemas from Parquet metadata using PyArrow via S3 URI
+    without reading row data.
     """
-    def __init__(self, source: Source, base_dir: str):
+    def __init__(self, source: Source, endpoint: str, access_key: str, secret_key: str):
         super().__init__(source)
-        # Using base_dir for local filesystem simulation of object storage
-        self.base_dir = base_dir
+        self.endpoint = endpoint
+        self.access_key = access_key
+        self.secret_key = secret_key
 
     def scan(self) -> List[ScanResult]:
         results = []
-        
         try:
+            from minio import Minio
             import pyarrow.parquet as pq
-            import pyarrow.dataset as ds
+            from pyarrow.fs import S3FileSystem
         except ImportError:
-            print("WARNING: pyarrow not installed. ObjectStorageScanner cannot run.")
+            print("WARNING: minio or pyarrow not installed. ObjectStorageScanner cannot run.")
             return results
 
-        # In Phase 2, we simulate scanning the data lake directory
-        if not os.path.exists(self.base_dir):
+        # Configure S3 FileSystem for PyArrow
+        s3_fs = S3FileSystem(
+            endpoint_override=self.endpoint,
+            access_key=self.access_key,
+            secret_key=self.secret_key,
+            scheme="http",
+            allow_bucket_creation=True
+        )
+
+        client = Minio(
+            self.endpoint,
+            access_key=self.access_key,
+            secret_key=self.secret_key,
+            secure=False
+        )
+
+        # Assuming location is the bucket name for MinIO sources
+        bucket_name = self.source.location
+        if not client.bucket_exists(bucket_name):
+            print(f"WARNING: Bucket {bucket_name} does not exist.")
             return results
 
-        # Simplistic discovery: any folder containing .parquet files is a dataset
-        for root, dirs, files in os.walk(self.base_dir):
-            parquet_files = [f for f in files if f.endswith('.parquet')]
+        objects = client.list_objects(bucket_name, recursive=True)
+        
+        # Group files by logical dataset based on common prefix (simplistic heuristic)
+        # e.g., customer_features/year=2022/month=01/part-0000.parquet -> dataset: customer_features
+        dataset_paths = {}
+        for obj in objects:
+            if obj.object_name.endswith('.parquet'):
+                parts = obj.object_name.split('/')
+                # Find root before partitions (folders with '=')
+                ds_parts = []
+                for p in parts:
+                    if '=' in p:
+                        break
+                    ds_parts.append(p)
+                
+                # If the file itself is at root, or we found the root
+                if ds_parts:
+                    # if the last part is the parquet file itself, remove it to get the prefix
+                    if ds_parts[-1].endswith('.parquet'):
+                        ds_parts.pop()
+                        
+                ds_name = "/".join(ds_parts) if ds_parts else "root_dataset"
+                if ds_name not in dataset_paths:
+                    dataset_paths[ds_name] = []
+                dataset_paths[ds_name].append(obj.object_name)
+
+        # For each dataset prefix, read metadata from the first parquet file found
+        for ds_name, files in dataset_paths.items():
+            if not files:
+                continue
+                
+            sample_file = files[0]
+            s3_uri = f"{bucket_name}/{sample_file}"
             
-            if parquet_files:
-                # Discovered a dataset partition or root!
-                # To keep it simple, we use pyarrow dataset API to infer the overall dataset
-                try:
-                    dataset = ds.dataset(root, format="parquet")
-                    
-                    columns = []
-                    for idx, field in enumerate(dataset.schema):
-                        columns.append(Column(
-                            name=field.name,
-                            physical_type=str(field.type),
-                            nullable=field.nullable,
-                            ordinal_position=idx + 1
-                        ))
-                    
-                    schema_def = Schema(columns=columns)
-                    
-                    # Estimate partitions if the path has '='
-                    partitions = []
-                    parts = root.replace(self.base_dir, "").split(os.sep)
+            try:
+                # Read metadata explicitly without full file scan
+                metadata = pq.read_metadata(s3_uri, filesystem=s3_fs)
+                arrow_schema = metadata.schema.to_arrow_schema()
+                
+                columns = []
+                for idx, field in enumerate(arrow_schema):
+                    columns.append(Column(
+                        name=field.name,
+                        physical_type=str(field.type),
+                        nullable=field.nullable,
+                        ordinal_position=idx + 1
+                    ))
+                
+                schema_def = Schema(columns=columns)
+                
+                # Estimate partitions from all file paths
+                partitions = set()
+                for f in files:
+                    parts = f.split('/')
                     for p in parts:
                         if "=" in p:
-                            partitions.append(p.split("=")[0])
+                            partitions.add(p.split("=")[0])
                             
-                    # Clean up dataset name by removing partition paths
-                    ds_name_parts = []
-                    for p in parts:
-                        if "=" not in p and p:
-                            ds_name_parts.append(p)
-                    dataset_name = "/".join(ds_name_parts)
-                    if not dataset_name:
-                        dataset_name = "root_dataset"
+                # Calculate total bytes
+                total_bytes = 0
+                for f in files:
+                    stat = client.stat_object(bucket_name, f)
+                    total_bytes += stat.size
 
-                    results.append(ScanResult(
-                        source_id=self.source.source_id,
-                        dataset_name=dataset_name,
-                        format="parquet",
-                        schema_def=schema_def,
-                        partitions=list(set(partitions)) if partitions else None,
-                        file_count=len(dataset.files),
-                        total_bytes=sum(os.path.getsize(f) for f in dataset.files) if dataset.files else None,
-                        scanned_at=datetime.utcnow()
-                    ))
-                    
-                    # We clear dirs to avoid walking into sub-partitions once we recognize the root
-                    # Note: PyArrow dataset reads recursively anyway
-                    dirs.clear()
-                except Exception as e:
-                    print(f"Failed to scan {root}: {str(e)}")
-                    
+                results.append(ScanResult(
+                    source_id=self.source.source_id,
+                    dataset_name=ds_name,
+                    format="parquet",
+                    schema_def=schema_def,
+                    partitions=list(partitions) if partitions else None,
+                    file_count=len(files),
+                    total_bytes=total_bytes,
+                    scanned_at=datetime.utcnow()
+                ))
+            except Exception as e:
+                print(f"Failed to scan {s3_uri}: {str(e)}")
+                
         return results
